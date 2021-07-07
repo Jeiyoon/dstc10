@@ -47,4 +47,7 @@ For any use of the dataset, please cite
 }
 ```
 
-## Deep
+## Deep Multi-Task and Meta-Learning
+
+https://github.com/Jeiyoon/CS330-Stanford-Deep-Multi-Task-and-Meta-Learning
+
