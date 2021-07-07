@@ -7,9 +7,9 @@
 
 ## Baseline
 
-1) Deep AM-FM
+1) Deep AM-FM: Toolkit for Automatic Dialogue Evaluation (Zhang et al., Lecture Notes in Electrical Engineering, vol 704. Springer, Singapore. 2021)
 
-- Paper:  
+- Paper: https://link.springer.com/chapter/10.1007/978-981-15-8395-7_5 
 - Code: https://github.com/e0397123/dstc10_metric_track/tree/main/baselines/deep_amfm
 
 2)
