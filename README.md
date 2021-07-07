@@ -5,7 +5,7 @@
 - Task Proposal: https://drive.google.com/file/d/1B2YBtWaLJU5X3uudSZEaOyNWQ_QoTZLG/view
 - Track Website: https://chateval.org/dstc10
 
-## Baseline
+## Baselines
 
 ### 1) Deep AM-FM: Toolkit for Automatic Dialogue Evaluation (Zhang et al., Lecture Notes in Electrical Engineering, vol 704. Springer, Singapore. 2021)
 
