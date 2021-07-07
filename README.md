@@ -23,7 +23,15 @@
 
 https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling
 
-For
+For any use of the dataset, please cite
+```
+@article{hori2017end,
+  title={End-to-end conversation modeling track in DSTC6},
+  author={Hori, Chiori and Hori, Takaaki},
+  journal={arXiv preprint arXiv:1706.07440},
+  year={2017}
+}
+```
 
 2)
 
