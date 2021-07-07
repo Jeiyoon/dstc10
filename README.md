@@ -33,6 +33,18 @@ For any use of the dataset, please cite
 }
 ```
 
-2)
+### 2) DSTC7 Knowledge Grounding Dataset & The Human Evaluation Dataset
+
+https://github.com/mgalley/DSTC7-End-to-End-Conversation-Modeling
+
+For any use of the dataset, please cite
+```
+@inproceedings{Galley2019GroundedRG,
+  title={Grounded Response Generation Task at DSTC7},
+  author={Michel Galley and Chris Brockett and Xiang Gao and Jianfeng Gao and B. Dolan},
+  booktitle = {Dialog System Technology Challenges (DSTC7)},
+  year={2019}
+}
+```
 
 ## Deep
