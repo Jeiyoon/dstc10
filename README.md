@@ -21,9 +21,9 @@
 
 1) DSTC6 Customer Support Dataset & The Human Evaluation Dataset
 
-https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling
+  https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling
 
-For
+  For
 
 2)
 
