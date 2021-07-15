@@ -70,8 +70,50 @@ class DataTrainingArguments:
     # https://velog.io/@k7120792/Glob-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D
     train_data_files: Optional[str] = field(
         default = None,
-        metadata = {"help": "The input training data files (multiple files in glob format"}
+        metadata = {
+            "help": "The input training data files (multiple files in glob format). "
+            "Very often splitting large files to smaller files can prevent tokenizer going out of memory"
+        },
     )
+    eval_data_file: Optional[str] = field(
+        default = None,
+        metadata = {"help": "An optional input evaluation data file to evaluate the perplexity on (a text file)."},
+    )
+    line_by_line: bool = field(
+        default = False,
+        metadata = {"help": "Whether distinct lines of text in the dataset are to be handled as distinct sequences."},
+    )
+    mlm: bool = field(
+        default = False,
+        metadata = {"help": "Train with masked-language modeling loss instead of language modeling."}
+    )
+    mlm_probability: float = field(
+        default = 0.15,
+        metadata = {"help": "Ratio of tokens to mask for masked language modeling loss"}
+    )
+    ### ?
+    plm_probability: float = field(
+        default = 1 / 6,
+        metadata = {"help": "Ratio of length of a span of masked tokens to surrounding context length for permutation language modeling."},
+    )
+    ### ?
+    max_span_length: int = field(
+        default = 5,
+        metadata = {"help": "Maximum length of a span of masked tokens for permutation language modeling."}
+    )
+    block_span_length: int = field(
+        default = -1,
+        metadata = {
+            "help": "Optional input sequence length after tokenization."
+            "The training dataset will be truncated in block of this size for training."
+            "Default to the model max input length for single sentence inputs (take into account special tokens)."
+        },
+    )
+    overwrite_cache: bool = field(
+        default = False,
+        metadata = {"help": "Overwrite the cached training and evaluation sets"}
+    )
+
 
 
 
@@ -84,13 +126,5 @@ def main():
     """
     parser = HfArgumentParser((ModelArguments, DataTrainingArguments, ))
 
-@dataclass
-class Item:
-    id: int
-    name: str
-
-
 if __name__ == "__main__":
-    # main()
-    print(Item(1, "Apple"))
-    print(Item(2, "Banana"))
+    main()
