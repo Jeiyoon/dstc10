@@ -209,7 +209,22 @@ def main():
         logger.info("Training new model from scratch")
         model = AutoModelWithLMHead.from_config(config)
 
+    # ???: why?
     model.resize_token_embeddings(len(tokenizer))
+
+    if config.model_type in ["bert", "roberta", "distilbert", "camembert"] and not data_args.mlm:
+        raise ValueError(
+            "BERT and RoBERTa-like models do not have LM heads but masked LM heads."
+            "They must be run using the --mlm flag (masked language modeling)."
+        )
+
+    if data_args.block_size <= 0:
+        data_args.block_size = tokenizer.max_len
+        # Our input block size will be the max possible for the model
+    else:
+        data_args.block_size = min(data_args.block_size, tokenizer.max_len)
+
+    # Get datasets
 
 
 
