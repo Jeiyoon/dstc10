@@ -1,10 +1,33 @@
-# author: Jeiyoon
-# baseline code: https://github.com/e0397123/dstc10_metric_track/tree/main/baselines/deep_amfm
+# coding=utf-8
+# Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
+# Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+"""
+Fine-tuning the library models for language modeling on a text file (GPT, GPT-2, CTRL, BERT, RoBERTa, XLNet).
+GPT, GPT-2 and CTRL are fine-tuned using a causal language modeling (CLM) loss. BERT and RoBERTa are fine-tuned
+using a masked language modeling (MLM) loss. XLNet is fine-tuned using a permutation language modeling (PLM) loss.
+"""
+
+
+"""
+author: Jeiyoon
+baseline code: https://github.com/e0397123/dstc10_metric_track/tree/main/baselines/deep_amfm
+"""
 
 import logging
-
+import math
 import os
-
 from dataclasses import dataclass, field
 from glob import glob
 from typing import Optional
@@ -29,6 +52,9 @@ from transformers import (
 )
 
 logger = logging.getLogger(__name__)
+
+MODEL_CONFIG_CLASSES = list(MODEL_WITH_LM_HEAD_MAPPING.keys())
+MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
 
 # dataclass
 # https://docs.python.org/ko/3/library/dataclasses.html
@@ -303,10 +329,40 @@ def main():
         )
         trainer.train(model_path = model_path)
         trainer.save_model()
+        # For convenience, we also re-save the tokenizer to the same directory,
+        # so that you can share your model on huggingface.co/models =)
+        if trainer.is_world_master():
+            tokenizer.save_pretrained(training_args.output_dir)
 
+    """
+    Evaluation
+    """
+    results = {}
+    if training_args.do_eval:
+        logger.info("*** Evaluate ***")
 
+        eval_output = trainer.evaluate()
 
+        perplexity = math.exp(eval_output["eval_loss"])
+        result = {"perplexity": perplexity}
 
+        output_eval_files = os.path.join(training_args.output_dir, "eval_results_lm.txt")
+
+        if trainer.is_world_master():
+            with open(output_eval_files, "w") as writer:
+                logger.info("***** Eval results *****")
+
+                for key in sorted(result.keys()):
+                    logger.info("   %s = %s", key, str(result[key]))
+                    writer.write("%s = %s\n" % (key, str(result[key])))
+
+        results.update(result)
+
+    return results
+
+def _mp_fn(index):
+    # For xla_spawn (TPUs)
+    main()
 
 if __name__ == "__main__":
     main()
