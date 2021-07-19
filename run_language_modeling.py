@@ -6,7 +6,10 @@ import logging
 import os
 
 from dataclasses import dataclass, field
+from glob import glob
 from typing import Optional
+
+from torch.utils.data import ConcatDataset
 
 from transformers import (
     CONFIG_MAPPING,
@@ -106,7 +109,7 @@ class DataTrainingArguments:
         default = 5,
         metadata = {"help": "Maximum length of a span of masked tokens for permutation language modeling."}
     )
-    block_span_length: int = field(
+    block_size: int = field(
         default = -1,
         metadata = {
             "help": "Optional input sequence length after tokenization."
@@ -119,6 +122,34 @@ class DataTrainingArguments:
         metadata = {"help": "Overwrite the cached training and evaluation sets"}
     )
 
+def get_dataset(
+        args: DataTrainingArguments,
+        tokenizer: PreTrainedTokenizer,
+        evaluate: bool = False,
+        cache_dir: Optional[str] = None,
+):
+    def _dataset(file_path):
+        if args.line_by_line:
+            return LineByLineTextDataset(tokenizer = tokenizer,
+                                         file_path = file_path,
+                                         block_size = args.block_size)
+        else:
+            return TextDataset(
+                tokenizer = tokenizer,
+                file_path = file_path,
+                block_size = args.block_size,
+                overwrite_cache = args.overwrite_cache,
+                cache_dir = cache_dir,
+            )
+
+    if evaluate:
+        return _dataset(args.eval_data_file)
+    # glob: glob는 파일들의 리스트를 뽑을 때 사용하는데, 파일의 경로명을 이용해서 입맛대로 요리할 수 있답니다.
+    # https://wikidocs.net/83
+    elif args.train_data_files:
+        return ConcatDataset([_dataset(f) for f in glob(args.train_data_files)])
+    else:
+        return _dataset(args.train_data_file)
 
 def main():
     """
@@ -218,13 +249,60 @@ def main():
             "They must be run using the --mlm flag (masked language modeling)."
         )
 
+    # ???: why?
     if data_args.block_size <= 0:
         data_args.block_size = tokenizer.max_len
         # Our input block size will be the max possible for the model
     else:
         data_args.block_size = min(data_args.block_size, tokenizer.max_len)
 
-    # Get datasets
+    """
+    Get datasets
+    """
+    train_dataset = (
+        get_dataset(data_args,
+                    tokenizer = tokenizer, cache_dir = model_args.cache_dir) if training_args.do_train else None
+    )
+
+    eval_dataset = (
+        get_dataset(data_args, tokenizer = tokenizer, evaluate = True, cache_dir = model_args.cache_dir)
+        if training_args.do_eval else None
+    )
+
+    if config.model_type == "xlnet":
+        data_collator = DataCollatorForPermutationLanguageModeling(
+            tokenizer = tokenizer,
+            plm_probability = data_args.plm_probability,
+            max_span_length = data_args.max_span_length,
+        )
+    else:
+        data_collator = DataCollatorForLanguageModeling(
+            tokenizer = tokenizer, mlm = data_args.mlm, mlm_probability = data_args.mlm_probability
+        )
+
+    """
+    Initialize our Trainer
+    """
+    trainer = Trainer(
+        model = model,
+        args = training_args,
+        data_collator = data_collator,
+        train_dataset = train_dataset,
+        eval_dataset = eval_dataset,
+        prediction_loss_only = True,
+    )
+
+    """
+    Training
+    """
+    if training_args.do_train:
+        model_path = (
+            model_args.model_name_or_path
+            if model_args.model_name_or_path is not None and os.path.isdir(model_args.model_name_or_path)
+            else None
+        )
+        trainer.train(model_path = model_path)
+        trainer.save_model()
 
 
 
