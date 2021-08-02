@@ -12,6 +12,33 @@
 - Paper: https://link.springer.com/chapter/10.1007/978-981-15-8395-7_5 
 - Code: https://github.com/e0397123/dstc10_metric_track/tree/main/baselines/deep_amfm
 
+- Parameters
+```
+--train_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/twitter_trial_data_train_jeiyoon.txt
+\
+--output_dir=embedding_models/full_am
+\
+--model_type=bert
+\
+--model_name_or_path=bert-base-uncased
+\
+--do_train=True
+\
+--do_eval=False
+\
+--eval_data_file=${data_dir}/dev.lm
+\
+--overwrite_output_dir
+\
+--per_device_train_batch_size=4
+\
+--per_device_eval_batch_size=4
+\
+--block_size=512
+\
+--mlm
+```
+
 ### 2) D-score: Holistic Dialogue Evaluation without Reference (Zhang et al., IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2021)
 
 - Paper: https://ieeexplore.ieee.org/document/9409633
