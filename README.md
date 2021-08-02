@@ -26,7 +26,7 @@
 \
 --do_eval=True
 \
---eval_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/DSTC 10 Track 5/Subtask_1/human_evaluation_data/human_evaluation_data/dstc6_eval.json
+--eval_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/DSTC_10_Track_5/Subtask_1/human_evaluation_data/human_evaluation_data/dstc6_eval.json
 \
 --overwrite_output_dir
 \
