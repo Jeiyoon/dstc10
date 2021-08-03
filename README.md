@@ -1,5 +1,9 @@
 # Track 5: Automatic Evaluation and Moderation of Open-domain Dialogue Systems 
 
+## Members
+
+- Jeiyoon Park, Jieun Han
+
 ## Task Proposal and Track Website
 
 - Task Proposal: https://drive.google.com/file/d/1B2YBtWaLJU5X3uudSZEaOyNWQ_QoTZLG/view
