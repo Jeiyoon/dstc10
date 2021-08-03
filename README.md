@@ -2,7 +2,7 @@
 
 ## Members
 
-- Jeiyoon Park, Jieun Han
+- [Jeiyoon Park](http://jeiyoon.github.io/), Jieun Han
 
 ## Task Proposal and Track Website
 
