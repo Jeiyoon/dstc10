@@ -1,4 +1,4 @@
-\\\\\\\\\\\\\\\\\# Track 5: Automatic Evaluation and Moderation of Open-domain Dialogue Systems 
+# Track 5: Automatic Evaluation and Moderation of Open-domain Dialogue Systems 
 
 ## Task Proposal and Track Website
 
