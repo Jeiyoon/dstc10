@@ -68,3 +68,6 @@ TBA
 
 https://github.com/Jeiyoon/CS330-Stanford-Deep-Multi-Task-and-Meta-Learning
 
+## Research Note (notion)
+
+https://www.notion.so/DSTC10-Automatic-Evaluation-and-Moderation-of-Open-domain-Dialogue-Systems-dc455b5598c240e3b4a20c66b5a884af
