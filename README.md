@@ -37,12 +37,12 @@
 ```
 [wr] DSTC6-Eval (D6) (Hori et al., 2017)
 [wr] DSTC7-Eval (D7) (Galley et al., 2019)
-[wr] PersonaChat-USR (UP) (Mehri & Eskenazi, 2020a)
-[wr] TopicalChat-USR (TP) (Mehri & Eskenazi, 2020a)
 [wr] DailyDialog-Eval (GD) (Gupta et al., 2019)
 [wr] DailyDialog-Eval (ZD) (Zhao et al., 2020)
-[wr] PersonaChat-Eval (ZP) (Zhao et al., 2020)
 [wr] HUMOD (HU) (Merdivan et al., 2020)
+[wr] PersonaChat-USR (UP) (Mehri & Eskenazi, 2020a)
+[wr] PersonaChat-Eval (ZP) (Zhao et al., 2020)
+[wr] TopicalChat-USR (TP) (Mehri & Eskenazi, 2020a)
 ```
 
 
