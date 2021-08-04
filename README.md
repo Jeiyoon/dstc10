@@ -68,10 +68,8 @@
 ```
 
 ```
---dataset=fed-dial
---device=cuda:2
---am_model_path=embedding_models/full_am
---fm_model_path=language_models/full_fm
+[dial] Persona-Chatlog (PC) (See et al., 2019)
+[dial] FED-Conversation (FC) (Mehri & Eskenazi, 2020b)
 ```
 
 
