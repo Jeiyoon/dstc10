@@ -86,4 +86,10 @@ https://github.com/Jeiyoon/CS330-Stanford-Deep-Multi-Task-and-Meta-Learning
 
 ## Research Note (notion)
 
-https://www.notion.so/DSTC10-Automatic-Evaluation-and-Moderation-of-Open-domain-Dialogue-Systems-dc455b5598c240e3b4a20c66b5a884af
+- https://www.notion.so/DSTC10-Automatic-Evaluation-and-Moderation-of-Open-domain-Dialogue-Systems-dc455b5598c240e3b4a20c66b5a884af
+
+- The system-level correlation means that for a group of dialogue systems to rank, each system will receive a single metric score. Then we do correlation between the list of scores and the corresponding human annotated scores. In the experiment, one can simply average the scores of all the responses from a dialogue system in the test set and treat the averaged score as the system score. (same procedure for the corresponding human scores)
+
+- Conversation-level correlation intends to rank a list of conversations. In the interactive human evaluation setting, the annotator will give a single rating to the entire conversation. Then the automatic metric will also need to assign a single score to the entire conversation. Correlation is performed between these two groups of scores. One simple way to obtain a single conversational level metric score is to average the scores assigned to all the context-response pairs within the conversation.
+
+- Turn-level is the most fine-grained category. It is the common approach in static evaluation whereby we have multiple context-response pairs, the annotators will annotate the quality of the response. Then, the metric will assign score for each context-response pair. Correlation is performed between these two groups of scores
