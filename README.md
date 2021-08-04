@@ -55,9 +55,9 @@
 
 ```
 [wor] FED-Turn (FT) (Mehri & Eskenazi, 2020b)
-[wor] DailyDialog-Eval (ED) (Huang et al., 2020)
-[wor] Empathetic-Eval (EE) (Huang et al., 2020)
 [wor] ConvAI2-Eval (EC) (Huang et al., 2020)
+[wor] Empathetic-Eval (EE) (Huang et al., 2020)
+[wor] DailyDialog-Eval (ED) (Huang et al., 2020)
 ```
 
 
