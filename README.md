@@ -8,24 +8,6 @@
 
 - Task Proposal: https://drive.google.com/file/d/1B2YBtWaLJU5X3uudSZEaOyNWQ_QoTZLG/view
 - Track Website: https://chateval.org/dstc10
-- Task
-
-```
-[wr] DSTC6-Eval (D6) (Hori et al., 2017)
-[wr] DSTC7-Eval (D7) (Galley et al., 2019)
-[dial] Persona-Chatlog (PC) (See et al., 2019)
-[wr] PersonaChat-USR (UP) (Mehri & Eskenazi, 2020a)
-[wr] TopicalChat-USR (TP) (Mehri & Eskenazi, 2020a)
-[wor] FED-Turn (FT) (Mehri & Eskenazi, 2020b)
-[dial] FED-Conversation (FC) (Mehri & Eskenazi, 2020b)
-[wr] DailyDialog-Eval (GD) (Gupta et al., 2019)
-[wr] DailyDialog-Eval (ZD) (Zhao et al., 2020)
-[wr] PersonaChat-Eval (ZP) (Zhao et al., 2020)
-[wor] DailyDialog-Eval (ED) (Huang et al., 2020)
-[wor] Empathetic-Eval (EE) (Huang et al., 2020)
-[wor] ConvAI2-Eval (EC) (Huang et al., 2020)
-[wr] HUMOD (HU) (Merdivan et al., 2020)
-```
 
 ## Baselines
 
@@ -52,7 +34,45 @@
 ```
 
 
+```
+[wr] DSTC6-Eval (D6) (Hori et al., 2017)
+[wr] DSTC7-Eval (D7) (Galley et al., 2019)
+[wr] PersonaChat-USR (UP) (Mehri & Eskenazi, 2020a)
+[wr] TopicalChat-USR (TP) (Mehri & Eskenazi, 2020a)
+[wr] DailyDialog-Eval (GD) (Gupta et al., 2019)
+[wr] DailyDialog-Eval (ZD) (Zhao et al., 2020)
+[wr] PersonaChat-Eval (ZP) (Zhao et al., 2020)
+[wr] HUMOD (HU) (Merdivan et al., 2020)
+```
+
+
 - Parameters (Compute Reference-free AM-FM Scores for Turn-level Dataset)
+
+```
+--dataset=fed-turn --device=cuda:1 --am_model_path=embedding_models/full_am --fm_model_path=language_models/full_fm
+```
+
+
+```
+[wor] FED-Turn (FT) (Mehri & Eskenazi, 2020b)
+[wor] DailyDialog-Eval (ED) (Huang et al., 2020)
+[wor] Empathetic-Eval (EE) (Huang et al., 2020)
+[wor] ConvAI2-Eval (EC) (Huang et al., 2020)
+```
+
+
+- Parameters (Compute Reference-free AM-FM Scores for Dialogue-level Dataset)
+
+```
+--dataset=fed-dial --device=cuda:2 --am_model_path=embedding_models/full_am --fm_model_path=language_models/full_fm
+```
+
+```
+--dataset=fed-dial
+--device=cuda:2
+--am_model_path=embedding_models/full_am
+--fm_model_path=language_models/full_fm
+```
 
 
 
