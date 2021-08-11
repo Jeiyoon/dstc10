@@ -43,3 +43,5 @@ for idx, (u, s, g) in enumerate(zip(df['UID'], df['SID'], df['SEG'])):
 
     else:
         discarded_utt += 1
+
+dstc7.close()
