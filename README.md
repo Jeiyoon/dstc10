@@ -85,7 +85,10 @@
 - Parameters (Compute Reference-based AM-FM Scores for Turn-level Dataset)
 
 ```
---dataset=dstc6 --device=cuda --am_model_path=embedding_models/full_am --fm_model_path=language_models/full_fm
+--dataset=dstc6
+--device=cuda:0
+--am_model_path=dstc7_model/embedding_models/full_am
+--fm_model_path=dstc7_model/language_models/full_fm
 ```
 
 
@@ -104,7 +107,10 @@
 - Parameters (Compute Reference-free AM-FM Scores for Turn-level Dataset)
 
 ```
---dataset=fed-turn --device=cuda:1 --am_model_path=embedding_models/full_am --fm_model_path=language_models/full_fm
+--dataset=fed-turn
+--device=cuda:1
+--am_model_path=dstc7_model/embedding_models/full_am
+--fm_model_path=dstc7_model/language_models/full_fm
 ```
 
 
@@ -119,7 +125,10 @@
 - Parameters (Compute Reference-free AM-FM Scores for Dialogue-level Dataset)
 
 ```
---dataset=fed-dial --device=cuda:2 --am_model_path=embedding_models/full_am --fm_model_path=language_models/full_fm
+--dataset=fed-dial
+--device=cuda:2
+--am_model_path=dstc7_model/embedding_models/full_am
+--fm_model_path=dstc7_model/language_models/full_fm
 ```
 
 ```
