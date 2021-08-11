@@ -16,13 +16,13 @@
 - Paper: https://link.springer.com/chapter/10.1007/978-981-15-8395-7_5 
 - Code: https://github.com/e0397123/dstc10_metric_track/tree/main/baselines/deep_amfm
 
-- Parameters (Fine-tuning for AM)
+- Parameters (Fine-tuning AM on DSTC6)
 ```
 --train_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/twitter_trial_data_train_jeiyoon.txt --output_dir=./embedding_models/full_am --model_type=bert --model_name_or_path=bert-base-uncased --do_train --do_eval --eval_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/DSTC_10_Track_5/Subtask_1/human_evaluation_data/human_evaluation_data/dstc6_eval.json --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4 --block_size=512 --mlm
 ```
 
 
-- Parameters (Fine-tuning for FM)
+- Parameters (Fine-tuning FM on DSTC6)
 ```
 --train_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/twitter_trial_data_train_jeiyoon.txt --output_dir=./language_models/full_fm --model_type=gpt2 --model_name_or_path=gpt2 --do_train --do_eval --eval_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/DSTC_10_Track_5/Subtask_1/human_evaluation_data/human_evaluation_data/dstc6_eval.json --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4 --block_size=128
 ```
