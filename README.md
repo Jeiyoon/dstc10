@@ -27,9 +27,26 @@
 --train_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/twitter_trial_data_train_jeiyoon.txt --output_dir=./language_models/full_fm --model_type=gpt2 --model_name_or_path=gpt2 --do_train --do_eval --eval_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/DSTC_10_Track_5/Subtask_1/human_evaluation_data/human_evaluation_data/dstc6_eval.json --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4 --block_size=128
 ```
 
+
 - Parameters (Fine-tuning AM on DSTC7)
 ```
 --train_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/reddit_train_jeiyoon.txt --output_dir=./dstc7_model/embedding_models/full_am --model_type=bert --model_name_or_path=bert-base-uncased --do_train --do_eval --eval_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/DSTC_10_Track_5/Subtask_1/human_evaluation_data/human_evaluation_data/dstc7_eval.json --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4 --block_size=512 --mlm
+```
+
+
+- Parameters (Fine-tuning FM on DSTC7)
+```
+--train_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/reddit_train_jeiyoon.txt
+--output_dir=./dstc7_model/language_models/full_fm
+--model_type=gpt2
+--model_name_or_path=gpt2
+--do_train
+--do_eval
+--eval_data_file=/root/dstc10/dstc10_metric_track-main/baselines/deep_amfm/DSTC_10_Track_5/Subtask_1/human_evaluation_data/human_evaluation_data/dstc7_eval.json
+--overwrite_output_dir
+--per_device_train_batch_size=4
+--per_device_eval_batch_size=4
+--block_size=128
 ```
 
 
