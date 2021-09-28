@@ -13,7 +13,7 @@ if __name__=='__main__':
             for key in item['annotations'].keys():
                 if len(item['annotations'][key]) >= 1:
                     dialogue_ids.append(item['dialogue_id']+'|{}'.format(key))
-                    dialogue_scores.append(random.random())
+                    dialogue_scores.append(random.random()) # [Disclaimer!] this is place holder
     dict_2 = {1:dialogue_ids,2:dialogue_scores}
     dummy_df = pd.DataFrame(dict_2)
     dummy_df.columns = ['dialogue_id', 'score']
