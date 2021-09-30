@@ -1,0 +1,5952 @@
+[
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                1,
+                5,
+                4,
+                2,
+                4,
+                3,
+                2
+            ]
+        },
+        "context": "Someone let me cut in line at the store so I could check out faster.\nwow that was really nice of them",
+        "dialogue_id": "empathetic-grade_00000",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                1,
+                4,
+                3,
+                2,
+                3,
+                3,
+                4
+            ]
+        },
+        "context": "My sunday was great. All my chores were done ahead of time. It was a rare and welcomed day.\nthat is awesome. sundays are usually my veg out days.",
+        "dialogue_id": "empathetic-grade_00001",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                5,
+                1,
+                2,
+                3,
+                2,
+                3,
+                1,
+                3
+            ]
+        },
+        "context": "Well, it takes perseverance and a bit of luck, but you can do it!\nMy dream job is being born rich. Its too late for that",
+        "dialogue_id": "empathetic-grade_00002",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                5,
+                1,
+                2,
+                3,
+                2,
+                4,
+                1,
+                3
+            ]
+        },
+        "context": "I always feel like no one hears me. Like When I speak it falls on deaf ears.\nThat sucks. Maybe it's time to get new friends?",
+        "dialogue_id": "empathetic-grade_00003",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                1,
+                3,
+                3,
+                2,
+                3,
+                1,
+                4
+            ]
+        },
+        "context": "As I look at my 21 year old son, I often reflect on when he was smaller. Time really flies!\nTime sure does fly and change is inevitable",
+        "dialogue_id": "empathetic-grade_00004",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                5,
+                1,
+                2,
+                1,
+                2,
+                5,
+                5,
+                5
+            ]
+        },
+        "context": "I was excited when I bought my car\nthat is exciting! what kind of car?",
+        "dialogue_id": "empathetic-grade_00005",
+        "model_name": "transformer_generator",
+        "response": "oh wow that ' s cool . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                1,
+                2,
+                1,
+                2,
+                3,
+                3,
+                5
+            ]
+        },
+        "context": "A dog chased me through a street the other day\ndid he catch you?",
+        "dialogue_id": "empathetic-grade_00006",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                1,
+                2,
+                1,
+                2,
+                2,
+                3,
+                5
+            ]
+        },
+        "context": "A year ago, I found an injured baby kitten in the road while driving.\nOh no! Did you take the kitten to an animal hospital or care for it yourself?",
+        "dialogue_id": "empathetic-grade_00007",
+        "model_name": "transformer_generator",
+        "response": "oh wow that ' s so sweet ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                3,
+                3,
+                2,
+                3,
+                4,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "Omg! That is terrible. They should really be considerate of people's time\nI wouldn't have minded as much if he actually seemed to care.  If they make you wait and then spend alot of time with you that is one thing",
+        "dialogue_id": "empathetic-grade_00008",
+        "model_name": "transformer_generator",
+        "response": "thats a good thing to do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                1,
+                2,
+                3,
+                2,
+                2,
+                4,
+                5
+            ]
+        },
+        "context": "I was planning my wedding and trying to get a caterer.  The one we were looking at was completely ignoring every time my wife tried to communicate with them, to the point where I told them off and went with someone else.\nSounds like you made the right decision.  What a bunch of A-holes",
+        "dialogue_id": "empathetic-grade_00009",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                1,
+                4,
+                5,
+                2,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "I've been training a new girl at work this week!\nHow is she doing",
+        "dialogue_id": "empathetic-grade_00010",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                5,
+                4
+            ]
+        },
+        "context": "It is a blessing and curse. When I am having problems I think about what she would say to me.\nThat's a good way to remember her and keep her close to your heart.",
+        "dialogue_id": "empathetic-grade_00011",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                1,
+                4,
+                1,
+                2,
+                2,
+                3,
+                2,
+                4
+            ]
+        },
+        "context": "My husband might loose his job, I'm not sure what we will do if he does.\nThat is terrible. Why do you think that he will lose his job?",
+        "dialogue_id": "empathetic-grade_00012",
+        "model_name": "transformer_generator",
+        "response": "thats a good thing to do . i hope he is a good job"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                1,
+                3,
+                2,
+                2,
+                3,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "We walked, we ate ice cream, we rode a bike, we laughed a lot, we enjoyed the outdoors, we were exhausted\nWho did you do all those things with? Sounds like a wonderful day!",
+        "dialogue_id": "empathetic-grade_00013",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                5,
+                4,
+                2,
+                3,
+                4,
+                2,
+                4
+            ]
+        },
+        "context": "Did I tell you what happened with Li the other night? Boy do I feel dumb.\nNo, you didn't tell me! What happened?",
+        "dialogue_id": "empathetic-grade_00014",
+        "model_name": "transformer_generator",
+        "response": "Oh no ! That ' s a good time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                4,
+                2,
+                5,
+                2,
+                2,
+                4,
+                5
+            ]
+        },
+        "context": "I am impressed in my sisters camping skills. They are very good\nwhat did she do ?",
+        "dialogue_id": "empathetic-grade_00015",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                4,
+                2,
+                5,
+                2,
+                3,
+                4,
+                3
+            ]
+        },
+        "context": "I just went today to visit my son in his new house.\nhow was it",
+        "dialogue_id": "empathetic-grade_00016",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                3,
+                3,
+                5,
+                4,
+                4,
+                2,
+                2
+            ]
+        },
+        "context": "I was stunned with fear to find a rattlesnake right where i was about to step into last week\nholy cow! Thats terrifying. What did you do?",
+        "dialogue_id": "empathetic-grade_00017",
+        "model_name": "transformer_generator",
+        "response": "oh wow ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                3,
+                5,
+                3,
+                4,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "I'm gonna need your support here, because I'm going through something a little bit rough, okay?\nAnything you need!! I'm here for you!",
+        "dialogue_id": "empathetic-grade_00018",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                3,
+                2,
+                5,
+                4,
+                5,
+                3,
+                2
+            ]
+        },
+        "context": "I think that in the past i have spent time caring about things that aren't important.\nWhat kind of thing?  You could always change that in the future.",
+        "dialogue_id": "empathetic-grade_00019",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you have a good time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                3,
+                4,
+                3,
+                2,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "I'm in contract to buy my first house, fingers crossed closing goes well and I close next Friday!\nThat is so exciting!! buying a house can be such a great experience.",
+        "dialogue_id": "empathetic-grade_00020",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                4,
+                3,
+                3,
+                3,
+                5,
+                4,
+                2,
+                3
+            ]
+        },
+        "context": "Every year when the kids go back to school, it brings back so many memories of when my kids were going to school.\nI know what you mean.  I love to see all the pictures, and think back to how little mine used to be.",
+        "dialogue_id": "empathetic-grade_00021",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                3,
+                4,
+                5,
+                5,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "First day of school I remember ,my kids first day of school, how did it make you feel?\nIt just gave me the feeling that time flies by too quickly sometimes.  My youngest in the pic was in first grade and his older sister was in 7th grade.",
+        "dialogue_id": "empathetic-grade_00022",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                2,
+                2,
+                2,
+                4,
+                2,
+                2
+            ]
+        },
+        "context": "I love teaching people how to skydive - it is so much fun helping them to learn.\nThat's sound like a lot of fun! Do you know where I can go get lessons?",
+        "dialogue_id": "empathetic-grade_00023",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! i hope you have a good time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                4,
+                4,
+                2,
+                5,
+                4,
+                2,
+                3
+            ]
+        },
+        "context": "Yes, I think they offer a great bridge to the past. Do you?\nAbsolutely. I love to hear my m\u00e1m\u00e1 tell me stories from her childhood trapping nutria and trawling with her family.",
+        "dialogue_id": "empathetic-grade_00024",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                5,
+                2,
+                4,
+                1,
+                5,
+                3,
+                5,
+                1
+            ]
+        },
+        "context": "I worked hard all night for that exam. it takes 5 months to get the results back. the wait is killing me\nI hope you did well on it.",
+        "dialogue_id": "empathetic-grade_00025",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                2,
+                4,
+                4,
+                2,
+                5,
+                3,
+                1
+            ]
+        },
+        "context": "I have a wonderful sister-in-law.  who is always there for me when I need her\nThat must be comforting!  It is good to have people in your life that are supportive.",
+        "dialogue_id": "empathetic-grade_00026",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                5,
+                5,
+                2,
+                2,
+                3,
+                3,
+                3,
+                1
+            ]
+        },
+        "context": "Oh man! What happened to your hip?\nI fell and fractured it two years ago. My then surgeon botched the operation and I have to use a walker to get around. If this new guy can do something I could walk properly again!",
+        "dialogue_id": "empathetic-grade_00027",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you find it !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                5,
+                2,
+                2,
+                1,
+                4,
+                3,
+                3,
+                1
+            ]
+        },
+        "context": "My husband is on the road a lot, I hardley ever see him.\nI'm sorry. My wife could sympathize with you since I'm gone a lot on business as well.",
+        "dialogue_id": "empathetic-grade_00028",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                5,
+                2,
+                2,
+                5,
+                2,
+                4,
+                3,
+                1
+            ]
+        },
+        "context": "I watched The Lion King today with my daughter, reminded me of my childhood.\nthats a good movie, cant wait for the live action version coming out",
+        "dialogue_id": "empathetic-grade_00029",
+        "model_name": "transformer_generator",
+        "response": "oh cool , did you see it ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                2,
+                5,
+                3,
+                1,
+                2,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "We ate good food, drank wine and went swimming.\nThat sounds fun.  Was the weather nice?",
+        "dialogue_id": "empathetic-grade_00030",
+        "model_name": "transformer_generator",
+        "response": "That ' s a good time . I bet you were able to go to visit ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                2,
+                2,
+                3,
+                1,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "I came home from work last night and my step dad scared me!\nHow did he scare you?",
+        "dialogue_id": "empathetic-grade_00031",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                2,
+                4,
+                2,
+                1,
+                4,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "Thats sad. Have you been to Scotand since?\nOnly for funerals, unfortunately. Both my parents have since died. Unpleasant fact of life, I'm afraid.",
+        "dialogue_id": "empathetic-grade_00032",
+        "model_name": "transformer_generator",
+        "response": "That ' s a good way to work ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                3,
+                5,
+                1,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        "context": "Sounds like fund, you must be excited!\nI am, I have been watching all my favorite movies.",
+        "dialogue_id": "empathetic-grade_00033",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                5,
+                3,
+                2,
+                1,
+                4,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "I recently had a shop fix my car. They worked so fast!\nThat's good, did you have to wait there or were you able to go home?",
+        "dialogue_id": "empathetic-grade_00034",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                4,
+                4,
+                1,
+                4,
+                5,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "The other night i heard a sound like someone was breaking in my house, i was pretty scared.\nWow, that sounds quite disturbing. Was someone breaking in?",
+        "dialogue_id": "empathetic-grade_00035",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                4,
+                2,
+                1,
+                2,
+                2,
+                2,
+                5,
+                4
+            ]
+        },
+        "context": "I remember being in Scotland and arranging a trip to California to see my then boyfriend. I was so very happy to be seeing him again!\nI bet! Is it hard to have a long distance relationship?",
+        "dialogue_id": "empathetic-grade_00036",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you have a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                4,
+                3,
+                1,
+                2,
+                3,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "My mother fell and injured herself. I wanted help and comfort her in any way possible.\nOh no! I'm sorry. Is she going to be ok?",
+        "dialogue_id": "empathetic-grade_00037",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i hope you have a good time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                4,
+                1,
+                4,
+                5,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "When I do things that are challenging I feel more self-reliant. I recently tried taking an ice bath\nOh man! thats impressive, those baths are rough.",
+        "dialogue_id": "empathetic-grade_00038",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i hope you have a great time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                4,
+                5,
+                1,
+                4,
+                3,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "My aggressive pet rat attacked the baby rat and left her a horrible gash on her abdomen!\nWow, that sounds very disgusting.",
+        "dialogue_id": "empathetic-grade_00039",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                4,
+                1,
+                2,
+                4,
+                5,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "I just enjoyed grocery shopping for the first time in a very long time. I've found my perfect restaurant/store and spent a very happy 40 mins or so wandering around it.\nThat's great! Did you get anything you are especially excited about? It's a restaurant and a store?",
+        "dialogue_id": "empathetic-grade_00040",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool , i hope you have a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                1,
+                2,
+                3,
+                4,
+                2,
+                4,
+                1
+            ]
+        },
+        "context": "I still live and work in the place where I grew up, but all of my friends have moved away.\nAw, that has to be tough not to see your friends. Do they visit often?",
+        "dialogue_id": "empathetic-grade_00041",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                1,
+                3,
+                3,
+                2,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "My parents gave me a car for graduating from college. It makes my life so much easier.\nYou deserved for graduating.",
+        "dialogue_id": "empathetic-grade_00042",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                4,
+                1,
+                3,
+                4,
+                3,
+                2,
+                3,
+                1
+            ]
+        },
+        "context": "My birthday was last week and I never heard from my brother OR my sister to wish me a happy birthday.\noh no I am sorry to hear that! They must have been really busy and it must have slipped their mind",
+        "dialogue_id": "empathetic-grade_00043",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                1,
+                2,
+                4,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        "context": "Needing some extra money, I used the spare change in my car to buy a scratch off ticket.\nNice.. what type of ticket.. Monopoly?  Price is Right?  Scrabble?  Bingo?",
+        "dialogue_id": "empathetic-grade_00044",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                3,
+                4,
+                4,
+                5,
+                1,
+                5,
+                3,
+                5
+            ]
+        },
+        "context": "I woke up and the first thing I saw that my cat had decided to play with my shoes and ruin them!\nOh my, you must have been annoyed with your cat. I guess he just wanted your attention.",
+        "dialogue_id": "empathetic-grade_00045",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                2,
+                2,
+                4,
+                1,
+                5,
+                3,
+                2
+            ]
+        },
+        "context": "No, I didn't.  We live in a rural area and the grocery store is 20 minutes away.  Lucky for him, I forgot some other stuff for tomorrow's dinner [mom brain!] and I told him that we could ride together tomorrow back to the store.\nMaybe you should let him get a couple of things to make up for it.",
+        "dialogue_id": "empathetic-grade_00046",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                4,
+                5,
+                2,
+                1,
+                2,
+                4,
+                4
+            ]
+        },
+        "context": "Yeah it really does. It's even worse to try and close those accounts!\nThey don't want to. I lost mine or it was stolen. But all my autopay bills are at a standstill and the companies are not happy about it.",
+        "dialogue_id": "empathetic-grade_00047",
+        "model_name": "transformer_generator",
+        "response": "oh thats a good way to go"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                2,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3
+            ]
+        },
+        "context": "I'm eating a lot of food to make sure I can lift more weight in the gym next time!\nAre you taking protein?",
+        "dialogue_id": "empathetic-grade_00048",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                2,
+                3,
+                3,
+                5,
+                1,
+                4,
+                4,
+                1
+            ]
+        },
+        "context": "This afternoon i went to my sons soccer game and he scored three goals! happiest dad ever!\nI figure your son is pretty happy as well.",
+        "dialogue_id": "empathetic-grade_00049",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                5,
+                4,
+                1,
+                4,
+                3,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "I had a job interview yesterday. I was really nervous before it started.\nWas it on the phone or in person?",
+        "dialogue_id": "empathetic-grade_00050",
+        "model_name": "transformer_generator",
+        "response": "Oh no ! That ' s a good job ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                3,
+                1,
+                2,
+                3,
+                2,
+                3,
+                3
+            ]
+        },
+        "context": "Over the summer my family went to Alabama to visit family and I felt a lot of emotions\nI guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",
+        "dialogue_id": "empathetic-grade_00051",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool , i bet you were happy"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                4,
+                1,
+                3,
+                3,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "Tomorrow I start my new job teaching kids. I really hope it goes well!\nOh wow, now that really is exciting, congratulations! Did you get the grade level and subject you wanted?",
+        "dialogue_id": "empathetic-grade_00052",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you have a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                3,
+                2,
+                1,
+                2,
+                3,
+                4,
+                5,
+                4
+            ]
+        },
+        "context": "oh, how nice. What are your plans in that regard for the future?\nhave my own restaurant",
+        "dialogue_id": "empathetic-grade_00053",
+        "model_name": "transformer_generator",
+        "response": "Oh that ' s cool !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                4,
+                4,
+                1,
+                3,
+                4,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "I went to a court hearing for unemployment with my former employer, and I felt great about it since I was so prepared with all of the documents and everything I needed to show the court I was in the right for quitting.\nDid it go your way?",
+        "dialogue_id": "empathetic-grade_00054",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                5,
+                5,
+                1,
+                2,
+                3,
+                2,
+                5
+            ]
+        },
+        "context": "So who annoyed you?\nA guy budged in front of some other people, I confronted him about it, and we got into an extremely heated exchange.",
+        "dialogue_id": "empathetic-grade_00055",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool . How long did you take him ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                2,
+                2,
+                3,
+                1,
+                2,
+                4,
+                4,
+                2
+            ]
+        },
+        "context": "there is nothing i hate more than losing in something\nYeah, that's never fun. Did you lose at something recently?",
+        "dialogue_id": "empathetic-grade_00056",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool . I hope you have a good time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                5,
+                3,
+                4,
+                2,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "My son was just born, my first boy after 11 girls!\nThats amazing, congratulations. 12 Kids your amazing.",
+        "dialogue_id": "empathetic-grade_00057",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                5,
+                3,
+                1,
+                2,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "If my upstairs neighbor wakes me at 3am again I think I'll explode! I get that she has to go to work, but why not get organized the night before for goodness sake?!\nI know the feeling.",
+        "dialogue_id": "empathetic-grade_00058",
+        "model_name": "transformer_generator",
+        "response": "thats a good thing to do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                2,
+                2,
+                1,
+                2,
+                4,
+                3,
+                4
+            ]
+        },
+        "context": "I feel nostalgic when playing old school games with my bro\nNice, me too, are you playing Nintendo games?",
+        "dialogue_id": "empathetic-grade_00059",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i love to see my kids , i love to see my kids"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                2,
+                2,
+                2,
+                3,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "I agree, the writing part is easy part, but the speaking part is the worst!\nYeah, it seems like the learning curve is impossible! Maybe I just need more life experience",
+        "dialogue_id": "empathetic-grade_00060",
+        "model_name": "transformer_generator",
+        "response": "i hope you have a great time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                4,
+                4,
+                3,
+                1
+            ]
+        },
+        "context": "I had a terrifying experience what using the restroom yesterday.\nWhat happened??",
+        "dialogue_id": "empathetic-grade_00061",
+        "model_name": "transformer_generator",
+        "response": "Oh that ' s so sweet ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                3,
+                4,
+                3,
+                1
+            ]
+        },
+        "context": "I'm going overseas and I think I packed everything i need!\nWhere are you headed ?",
+        "dialogue_id": "empathetic-grade_00062",
+        "model_name": "transformer_generator",
+        "response": "thats awesome , i hope you have fun"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                5,
+                2,
+                2,
+                4,
+                4,
+                2,
+                1
+            ]
+        },
+        "context": "Wow! Congrats to her, and I am sorry that you didn't get the prize. What did she win?\nA weekend trip to Gatlinburg. I would of loved that.",
+        "dialogue_id": "empathetic-grade_00063",
+        "model_name": "transformer_generator",
+        "response": "Oh wow ! That ' s a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                2,
+                2,
+                2,
+                4,
+                4,
+                3,
+                1
+            ]
+        },
+        "context": "Did you think about moving after that?\nFunny you should mention that - in three weeks time, lol.",
+        "dialogue_id": "empathetic-grade_00064",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i love to see my kids , i love my kids"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                2,
+                5,
+                2,
+                1,
+                4,
+                5,
+                1,
+                2
+            ]
+        },
+        "context": "It's been a long week! My husband has been out of town and its been just me and a cranky toddler.\nWill he be back soon?",
+        "dialogue_id": "empathetic-grade_00065",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                1,
+                3,
+                2,
+                1,
+                5,
+                3,
+                1,
+                2
+            ]
+        },
+        "context": "My girlfriend's leg was bitten off by a bull shark last summer.\nOh my! Is she ok, and was it while surfing?",
+        "dialogue_id": "empathetic-grade_00066",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                5,
+                2,
+                1,
+                3,
+                4,
+                4,
+                2
+            ]
+        },
+        "context": "Well yeah, that sounds about right. He has to go to the Championship first and win, then party time !!!!!\nYou got it! I've been watching him play for a while now and it's such a fantastic feeling to see him win - and in his own country too!",
+        "dialogue_id": "empathetic-grade_00067",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i hope you have a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                2,
+                3,
+                2,
+                1,
+                2,
+                3,
+                1,
+                2
+            ]
+        },
+        "context": "I recently found out that a person I very much intimately admired did not feel the same way for me. I was pretty surprised.\nI'm sorry to hear that! How did you find out?",
+        "dialogue_id": "empathetic-grade_00068",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                3,
+                2,
+                1,
+                5,
+                4,
+                1,
+                2
+            ]
+        },
+        "context": "My sister threw up the other day and made a huge mess.\nthat must have been an explosion and a half, did  you clean it up?",
+        "dialogue_id": "empathetic-grade_00069",
+        "model_name": "transformer_generator",
+        "response": "That ' s so cool ! I bet it was a great time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                2,
+                2,
+                1,
+                2,
+                4,
+                5,
+                3,
+                1
+            ]
+        },
+        "context": "Over the summer my family went to Alabama to visit family and I felt a lot of emotions\nI guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",
+        "dialogue_id": "empathetic-grade_00070",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool , i bet you were happy"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                2,
+                1,
+                4,
+                3,
+                2,
+                2,
+                1
+            ]
+        },
+        "context": "I'm sorry to hear that. I had a dog die once too.\nit is so sad to know but my mother is rather sick of flu and not dying",
+        "dialogue_id": "empathetic-grade_00071",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                2,
+                1,
+                3,
+                4,
+                4,
+                3,
+                1
+            ]
+        },
+        "context": "I hope she hears some good news. Is it pretty serious?\nShe had stage 3 cancer, but she was clear last screening a year ago.",
+        "dialogue_id": "empathetic-grade_00072",
+        "model_name": "transformer_generator",
+        "response": "That ' s so sweet . I hope you guys have a good time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                2,
+                2,
+                1,
+                2,
+                3,
+                2,
+                3,
+                1
+            ]
+        },
+        "context": "I just bought iced coffee yesterday and my brother drank the rest of it without asking me.\nWow. Does he usually do stuff like that?",
+        "dialogue_id": "empathetic-grade_00073",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool , i bet he was a good time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                2,
+                1,
+                4,
+                3,
+                3,
+                5,
+                1
+            ]
+        },
+        "context": "Last night I was walking home from work in a bad part of town, I was a bit scared.\nYou should have taken a Uber. You never know what will happen these days.",
+        "dialogue_id": "empathetic-grade_00074",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                5,
+                2,
+                5,
+                3,
+                5,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "I drank a lot of alcohol at my friend's BBQ party, and I ended up puking and passing out. Not my finest moment.\nHaha, I can relate to that. I did that too, and my friends took a wonderful photo of it. They like to stick it on our yearly Christmas cards to each other",
+        "dialogue_id": "empathetic-grade_00075",
+        "model_name": "transformer_generator",
+        "response": "thats a good thing to do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                3,
+                5,
+                2,
+                4,
+                5,
+                4,
+                5,
+                4
+            ]
+        },
+        "context": "I'm looking forward to my best friend's surprise birthday party next week!\nThat sounds like so much fun! I love parties!",
+        "dialogue_id": "empathetic-grade_00076",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                3,
+                5,
+                3,
+                2,
+                5,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "Ugh! I hate it when stuff like that happens. Were you able to get a refund on your tickets?\nNo. We went ahead and went on. It actually turned out to be a great trip with zero incidents.",
+        "dialogue_id": "empathetic-grade_00077",
+        "model_name": "transformer_generator",
+        "response": "oh wow thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                4,
+                2,
+                3,
+                3,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "Last year I made a bet with my friend and he lost, so he had to buy me a Nintendo Switch. I was so great.\nThat's quite the win! What was the bet?",
+        "dialogue_id": "empathetic-grade_00078",
+        "model_name": "transformer_generator",
+        "response": "That ' s so cool ! I hope he was a good time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                3,
+                5,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "I like going fishing, it reminds me of when I would go with my dad when I was a kid.\nDo you have any kids?",
+        "dialogue_id": "empathetic-grade_00079",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                3,
+                4,
+                5,
+                1,
+                4,
+                5,
+                2
+            ]
+        },
+        "context": "I won a free trip to Florida. It's not the best vacation, but I'll take it for free.\nWhy wasn't it good? Florida sounds like an ideal destination.",
+        "dialogue_id": "empathetic-grade_00080",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                5,
+                2,
+                3,
+                4,
+                1,
+                2,
+                3,
+                1
+            ]
+        },
+        "context": "Once I was suppose to go visit my sister and nieces who I hadn't seen in forever but I ended up breaking my heal and big toe and wasn't able to go. I was so upset!\nDang, that sucks. MAybe they can visit you instead?",
+        "dialogue_id": "empathetic-grade_00081",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                2,
+                2,
+                3,
+                2,
+                1,
+                5,
+                4,
+                1
+            ]
+        },
+        "context": "One night when my children and I came home, I saw a shadow inside! I was so fearful and afraid!\nOh that can be scary. I don't watch horror movies because I know that I'll do just that!",
+        "dialogue_id": "empathetic-grade_00082",
+        "model_name": "transformer_generator",
+        "response": "i hope it was a good time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                2,
+                5,
+                1,
+                3,
+                1,
+                3,
+                4,
+                1
+            ]
+        },
+        "context": "I went to the beach other day\nThat is really cool . Did you have a good time?",
+        "dialogue_id": "empathetic-grade_00083",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool . How long have you been together ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                2,
+                3,
+                3,
+                1,
+                3,
+                4,
+                3
+            ]
+        },
+        "context": "I had a high risk pregnancy up until a few months ago. I felt the most grateful I'd ever been when my baby turned out healthy.\nCongrats, that must have been a very stressful time leading up the the birth.",
+        "dialogue_id": "empathetic-grade_00084",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                5,
+                2,
+                3,
+                3,
+                5,
+                3,
+                5,
+                2
+            ]
+        },
+        "context": "Tomorrow is the big day, I have to deliver my proposal to the client.\nAre you ready for it?",
+        "dialogue_id": "empathetic-grade_00085",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                3,
+                3,
+                5,
+                3,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "I was feeling kind of down so I ended up snuggling with a stuffed rabbit I have. It brought back a lot of good old memories.\nNever too old or too manly to snuggle a stuffed animal. My mom said I used to carry this blanket with me when I was a toddler, everywhere I went. I wish I still had it. If I did, I'd consider using it again, or at the very least passing it down to my own kid. What's the harm, you know? If something gives you comfort and doesn't bother anyone else, there should be no shame.",
+        "dialogue_id": "empathetic-grade_00086",
+        "model_name": "transformer_generator",
+        "response": "That ' s a great way to go to the same way ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                4,
+                2,
+                2,
+                3,
+                4,
+                3,
+                4,
+                2
+            ]
+        },
+        "context": "I'm so excited about an upcoming move and life change -- it's a move to a verrrry different state, but should be interesting!\nWhat state are you going to move to?",
+        "dialogue_id": "empathetic-grade_00087",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you have a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                2,
+                2,
+                3,
+                2,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "When I got the phone call that my mom had cancer I was so upset.\nI am so sorry to hear that. No one should have to go through something like that.",
+        "dialogue_id": "empathetic-grade_00088",
+        "model_name": "transformer_generator",
+        "response": "that ' s a good thing to do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                2,
+                3,
+                3,
+                3,
+                4,
+                2
+            ]
+        },
+        "context": "I was very sad when I found out that my neighbors houses were going to be demolished because the city ordered it..\nIs the city going to build them new ones at least?",
+        "dialogue_id": "empathetic-grade_00089",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                3,
+                2,
+                4,
+                2,
+                3,
+                1,
+                2,
+                4,
+                1
+            ]
+        },
+        "context": "I am going to a concert very soon.\nCool! Who are you going to see?",
+        "dialogue_id": "empathetic-grade_00090",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool . I love my favorite year ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                5,
+                5,
+                2,
+                2,
+                2,
+                1,
+                5,
+                3,
+                3
+            ]
+        },
+        "context": "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.\nHoly moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",
+        "dialogue_id": "empathetic-grade_00091",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                3,
+                2,
+                3,
+                2,
+                4,
+                1,
+                4,
+                1,
+                1
+            ]
+        },
+        "context": "Hello, tomorrow I have the cooking test and I feel safe. I am sure that I will approve with an excellent rating\noh, how nice. What are your plans in that regard for the future?",
+        "dialogue_id": "empathetic-grade_00092",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you have a good time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                2,
+                4,
+                3,
+                5,
+                3,
+                1,
+                5,
+                3,
+                5
+            ]
+        },
+        "context": "I was trying to take a nap, but my cat kept on trying to play with my head.\nI love cats.",
+        "dialogue_id": "empathetic-grade_00093",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                5,
+                4,
+                2,
+                3,
+                1,
+                5,
+                4,
+                3
+            ]
+        },
+        "context": "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.\nHoly moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",
+        "dialogue_id": "empathetic-grade_00094",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                1,
+                5,
+                3,
+                2,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "Same. And all these guys live in different places now so it's harder and harder to get everyone together.\nI bet it would be tough.  Was there a special occasion that brought you all together?",
+        "dialogue_id": "empathetic-grade_00095",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                3,
+                4,
+                4,
+                4,
+                2,
+                4,
+                3
+            ]
+        },
+        "context": "You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!\nIts always nice to get some sleep",
+        "dialogue_id": "empathetic-grade_00096",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                1,
+                3,
+                5,
+                2,
+                2,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "I ended up staying at home for the holidays\nwhy is that? comfort ?",
+        "dialogue_id": "empathetic-grade_00097",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                2,
+                2,
+                1,
+                2,
+                3,
+                4,
+                2
+            ]
+        },
+        "context": "In college I was in a class with an older woman who stole my ideas for a paper.\nOh wow! that stinks. Im sorry",
+        "dialogue_id": "empathetic-grade_00098",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                1,
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "I am so happy it's a boy\nYou just had a baby?! I didn't even know you were expecting!",
+        "dialogue_id": "empathetic-grade_00099",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                3,
+                1,
+                2,
+                1,
+                5,
+                5,
+                5
+            ]
+        },
+        "context": "my son just used a potty for the first time! he is only 16 months. i'm so proud of him\nWatch out! Next thing you turn around, and he's driving.",
+        "dialogue_id": "empathetic-grade_00100",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                2,
+                1,
+                1,
+                5,
+                1,
+                4,
+                5,
+                4
+            ]
+        },
+        "context": "I understand, but coming at me head on, on a two lane highway, while I'm on a bridge with nowhere to go is not cool.\nI cant imagine how scared you must have been.",
+        "dialogue_id": "empathetic-grade_00101",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i hope you have a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                4,
+                4,
+                3,
+                3,
+                5,
+                1,
+                3,
+                5,
+                3
+            ]
+        },
+        "context": "OKay. I care for everyone\nwell you sound like a good person",
+        "dialogue_id": "empathetic-grade_00102",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                5,
+                3,
+                4,
+                2,
+                1,
+                3,
+                5,
+                3
+            ]
+        },
+        "context": "I love youtube. been listening to all my classic tracks. Tupac forever\nI love me some Tupac. Real talk.",
+        "dialogue_id": "empathetic-grade_00103",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                1,
+                1,
+                2,
+                1,
+                2,
+                3,
+                3
+            ]
+        },
+        "context": "When my daughter was born doctors said she wouldn't ever go to school and basically be mentally handicapped.\nAnd how is she doing now",
+        "dialogue_id": "empathetic-grade_00104",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                3,
+                5,
+                2,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        "context": "I was going through my photos today and I saw a picture of me and my ex together. It just made me feel odd, I miss him.\nNice, when did you guys break up",
+        "dialogue_id": "empathetic-grade_00105",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i bet you were happy"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                2,
+                4,
+                4,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        "context": "One time when I was kicked out of the place I was staying at, my best friend immediately told me I could stay with her until I got on my feet.\nOh no, that sounds like an awful situation. What did you end up doing after that?",
+        "dialogue_id": "empathetic-grade_00106",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool ! I hope you have a good time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                2,
+                4,
+                3,
+                4,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        "context": "When I got the phone call that my mom had cancer I was so upset.\nI am so sorry to hear that. No one should have to go through something like that.",
+        "dialogue_id": "empathetic-grade_00107",
+        "model_name": "transformer_generator",
+        "response": "that ' s a good thing to do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                2,
+                2,
+                5,
+                5,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "I'm so proud of my wife\ni bet she's a wonderful woman",
+        "dialogue_id": "empathetic-grade_00108",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                4,
+                2,
+                3,
+                5,
+                3,
+                2,
+                5
+            ]
+        },
+        "context": "I feel like deepening my connection to God is the most important thing in my life\nI think that is a lovely thing",
+        "dialogue_id": "empathetic-grade_00109",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                3,
+                4,
+                4,
+                3,
+                2,
+                4,
+                5,
+                5
+            ]
+        },
+        "context": "The other night I was driving home in the rain and slid into the guard rail. It is going to cost so much to get my car fixed!\nOh man, now that sucks! You gotta be careful on those wet roads. At least you're okay.",
+        "dialogue_id": "empathetic-grade_00110",
+        "model_name": "transformer_generator",
+        "response": "thats a good thing to do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                2,
+                3,
+                2,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "I have the best kids in the world.\nWhat did they do this time?",
+        "dialogue_id": "empathetic-grade_00111",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool . How long have you been together ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                3,
+                3,
+                3,
+                4,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "I got to go to a cat cafe when no one else was around!\nI've been to one before with my girlfriend, what an amazing experience eh?",
+        "dialogue_id": "empathetic-grade_00112",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i hope you have a good time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                3,
+                3,
+                3,
+                2,
+                4,
+                4,
+                4
+            ]
+        },
+        "context": "I'm gonna take the family out to the lake this weekend, we might rent a boat.\nThat sounds like a great way to spend the weekend.  What type of boat are you thinking about renting?",
+        "dialogue_id": "empathetic-grade_00113",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I bet you ' re happy !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                3,
+                2,
+                4,
+                3,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "I felt sooooo nervous going to my last job interview! Nerves must occur in proportion to how badly you *want* something!\nI know what you mean. Did you get the job?",
+        "dialogue_id": "empathetic-grade_00114",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                3,
+                5,
+                3,
+                5,
+                3,
+                3,
+                5,
+                2
+            ]
+        },
+        "context": "Wow, that is sweet of him, does he have a crush on you?\nIt was a nice gesture on his part. But I do not know",
+        "dialogue_id": "empathetic-grade_00115",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                3,
+                1,
+                2,
+                1,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "I have a big exam coming up! My nerves are getting to me.\nohh good luck!",
+        "dialogue_id": "empathetic-grade_00116",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                3,
+                1,
+                2,
+                1,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "i was so stressed when i found out that i did not get accepted in my dream college\nOh no. Did you have a good backup plan ?",
+        "dialogue_id": "empathetic-grade_00117",
+        "model_name": "transformer_generator",
+        "response": "thats cool , i hope you have a good time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                3,
+                2,
+                1,
+                5,
+                4,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "I went to see Hamilton last month in NYC\nOh the broadway musical? I heard really good reviews of it",
+        "dialogue_id": "empathetic-grade_00118",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                1,
+                2,
+                1,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "i cant wait to see my dog back home it has been 2 years since i see him\nI would go mad, were you away at college or in the service?",
+        "dialogue_id": "empathetic-grade_00119",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                2,
+                4,
+                5,
+                4,
+                4,
+                1,
+                4
+            ]
+        },
+        "context": "Nothing really! I just love that I can work at home and have time to clean or cook whenever I want.\nI work from home too.  Its so nice to be able to do laundry and things on my breaks.  Im so productive around the house",
+        "dialogue_id": "empathetic-grade_00120",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                4,
+                2,
+                3,
+                4,
+                2,
+                4,
+                1,
+                3
+            ]
+        },
+        "context": "A good friend of mine moved away recently and we lost contact. I really wish we would still speak.\nI know how that feels. Maybe try reaching out.",
+        "dialogue_id": "empathetic-grade_00121",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                3,
+                2,
+                4,
+                3,
+                3,
+                2,
+                1,
+                2
+            ]
+        },
+        "context": "I got to hear a lot of cool songs on a radio station I usually don't listen to.\nNice! Which ones did you hear!",
+        "dialogue_id": "empathetic-grade_00122",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                5,
+                3,
+                3,
+                2,
+                3,
+                1,
+                4
+            ]
+        },
+        "context": "I wore wrong pair of socks to the college. But, no was there to spot it. But, when we have to go in for a church we have to first remove the shoes. At, that time friend of mine spotted with with wrong pair of shoes. They made a fun of me. That was very awkward situation.\nOh that sucks :( Maybe organize the socks better?",
+        "dialogue_id": "empathetic-grade_00123",
+        "model_name": "transformer_generator",
+        "response": "That sounds like a lot of fun ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                2,
+                4,
+                3,
+                2,
+                4,
+                1,
+                4
+            ]
+        },
+        "context": "They arrested 9 people at a nearby farm for animal cruelty and they are already out of jail on bond!\nOh, that's not right. I have a rescue dog, she had a litter of puppies at a puppy mill before she was a year.",
+        "dialogue_id": "empathetic-grade_00124",
+        "model_name": "transformer_generator",
+        "response": "oh no ! i bet you were so happy ! i hope you get it back"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                3,
+                1,
+                1,
+                5,
+                2,
+                1,
+                5
+            ]
+        },
+        "context": "I was quite distressed to hear of the passing of Anthony Bourdain. That someone who has given so much joy to a huge number of people should take his own life is just awful.\nI know!  I was just watching his show on Netflix!  So sad, especially since he had a little girl he is leaving behind.",
+        "dialogue_id": "empathetic-grade_00125",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                2,
+                3,
+                1,
+                1,
+                4,
+                2,
+                1,
+                3
+            ]
+        },
+        "context": "I'm pretty excited for the upcoming Halloween season.\nI am too! What are your plans?",
+        "dialogue_id": "empathetic-grade_00126",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I love to see my kids , but it ' s a good time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                5,
+                1,
+                1,
+                2,
+                2,
+                1,
+                2
+            ]
+        },
+        "context": "Not until about 8am, but it's so loud I can hear it in my first floor apartment with the doors and windows closed. Idiot man!\nSo inconsiderate! It reminds me of my neighbours doing building work one morning at 6AM!",
+        "dialogue_id": "empathetic-grade_00127",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                3,
+                5,
+                1,
+                2,
+                5,
+                2,
+                4,
+                4
+            ]
+        },
+        "context": "So I asked out a girl in my class and she said yes. Was a big morale boost.\nim glad to hear that!",
+        "dialogue_id": "empathetic-grade_00128",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                4,
+                1,
+                3,
+                1,
+                1,
+                5,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "I was horribly wronged by someone I thought I could trust. The feeling was devastating, and I've always struggled with forgiveness.\nOh my, what happened? I'm so sorry, no one should treat anyone they care about poorly.",
+        "dialogue_id": "empathetic-grade_00129",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                4
+            ]
+        },
+        "context": "My partner left me the other day.\nThat's rough, I'm sorry to hear that",
+        "dialogue_id": "empathetic-grade_00130",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                1,
+                3,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3
+            ]
+        },
+        "context": "I told a lie to my mother.\nWas it a bad one? And did she find out?",
+        "dialogue_id": "empathetic-grade_00131",
+        "model_name": "transformer_generator",
+        "response": "That ' s a good time . How did it go ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                1,
+                1,
+                2,
+                2,
+                1,
+                3
+            ]
+        },
+        "context": "I feel the same way.\nHow do you channel the anger? Obviously, it too easily turns into the same kind of negative emotion I'm upset about -- so that can feel hypocritical!",
+        "dialogue_id": "empathetic-grade_00132",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you can find it !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                3,
+                2,
+                1,
+                1,
+                2,
+                2,
+                1,
+                3
+            ]
+        },
+        "context": "I was annoyed when my favorite show wasn't on\nwhat did you end up watching instead",
+        "dialogue_id": "empathetic-grade_00133",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                2,
+                2,
+                1,
+                1,
+                2,
+                2,
+                1,
+                3
+            ]
+        },
+        "context": "My dad called me one day crying out for help. I had to drive over to his house.\nOh my goodness! What happened?",
+        "dialogue_id": "empathetic-grade_00134",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you have a good time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                4,
+                5,
+                5,
+                4,
+                1,
+                2,
+                1
+            ]
+        },
+        "context": "oopsy. I hope it was worth it.\nIt might not be when my wife returns and sees it gone. I look super guilty right now.",
+        "dialogue_id": "empathetic-grade_00135",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                5,
+                3,
+                2,
+                4,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "I ate way too many sweets today!\ntheres always tomorrow!",
+        "dialogue_id": "empathetic-grade_00136",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                2,
+                4,
+                3,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        "context": "I was heartbroken when my mom told me that my childhood dog had died\nOh god.. sorry.. How are you holding up?",
+        "dialogue_id": "empathetic-grade_00137",
+        "model_name": "transformer_generator",
+        "response": "That ' s so sweet . I hope you have a good time"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                3,
+                4,
+                3,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        "context": "I'm a little anxious about an upcoming move. It's to a *very* different state with a *very* different climate and way of life!\nWhat is the state and do you like change?",
+        "dialogue_id": "empathetic-grade_00138",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I love my favorite years !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                5,
+                2,
+                2,
+                2,
+                1,
+                3,
+                1
+            ]
+        },
+        "context": "I have only a few more semesters in college. I feel very hopeful about my chances of finishing.\nThat's awesome. What are you majoring in?",
+        "dialogue_id": "empathetic-grade_00139",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! I hope you have a great time !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                1,
+                2,
+                5,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "I sold some stuff I didnt need last week.\ndid yo make some good money?",
+        "dialogue_id": "empathetic-grade_00140",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                1,
+                4,
+                3,
+                5,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "i cant believe the growth video games are having this past couple of years\nWhat do you mean by that? I'm not a gamer really",
+        "dialogue_id": "empathetic-grade_00141",
+        "model_name": "transformer_generator",
+        "response": "Oh that ' s a good time . I love my favorite favorite year ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                1,
+                2,
+                3,
+                5,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "I've been teaching my young daughter to play video games with me, she's such a quick learner.\nWhat video games are the two of you playing?",
+        "dialogue_id": "empathetic-grade_00142",
+        "model_name": "transformer_generator",
+        "response": "Oh wow , that ' s a good time . I love it"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                1,
+                2,
+                2,
+                5,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "I am so proud of my sister\nWhat did she do?",
+        "dialogue_id": "empathetic-grade_00143",
+        "model_name": "transformer_generator",
+        "response": "That ' s great ! What did you do ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                1,
+                4,
+                3,
+                5,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "I enjoy visiting the nursing home on occasion.\nOh yeah?  Do you know someone that lives there?",
+        "dialogue_id": "empathetic-grade_00144",
+        "model_name": "transformer_generator",
+        "response": "That ' s cool . I hope you have a good time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                2,
+                1,
+                3,
+                5,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "I see, you must have felt hopeful\nI gave thanks in spite of the difficulties",
+        "dialogue_id": "empathetic-grade_00145",
+        "model_name": "transformer_generator",
+        "response": "thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                5,
+                2,
+                1,
+                4,
+                2,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "No matter how many times I told her that I didn't do it, my roommate insisted that I ate her ice cream last night! Unbelievable!\nWell, did you eat her ice cream?",
+        "dialogue_id": "empathetic-grade_00146",
+        "model_name": "transformer_generator",
+        "response": "Wow ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                1,
+                1,
+                4,
+                5,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "I tripped and fell in front of some people.\nOuch! Was it a serious fall?",
+        "dialogue_id": "empathetic-grade_00147",
+        "model_name": "transformer_generator",
+        "response": "Oh that ' s terrible . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                5,
+                2,
+                1,
+                2,
+                5,
+                3,
+                3,
+                4
+            ]
+        },
+        "context": "Are you cleaning out a house or do you not have garbage pick-up?\nThe company in my city just quit picking up for any of the residents, so the dump has a line every day.",
+        "dialogue_id": "empathetic-grade_00148",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                2,
+                1,
+                2,
+                3,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "I had to wait in line for 15 minutes at the store today. There was only one poor cashier working.\nThat must of been a pain! I hate waiting in lines for cashiers, they are so slow sometimes.",
+        "dialogue_id": "empathetic-grade_00149",
+        "model_name": "transformer_generator",
+        "response": "oh thats cool"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                3,
+                5,
+                3,
+                1,
+                2,
+                4,
+                5
+            ]
+        },
+        "context": "Someone let me cut in line at the store so I could check out faster.\nwow that was really nice of them",
+        "dialogue_id": "empathetic-grade_00150",
+        "model_name": "transformer_ranker",
+        "response": "oh well you lived through it!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                2,
+                3,
+                3,
+                2,
+                1,
+                4,
+                3,
+                2
+            ]
+        },
+        "context": "My sunday was great. All my chores were done ahead of time. It was a rare and welcomed day.\nthat is awesome. sundays are usually my veg out days.",
+        "dialogue_id": "empathetic-grade_00151",
+        "model_name": "transformer_ranker",
+        "response": "When is it?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                4,
+                1,
+                4,
+                5,
+                4,
+                3,
+                4
+            ]
+        },
+        "context": "Well, it takes perseverance and a bit of luck, but you can do it!\nMy dream job is being born rich. Its too late for that",
+        "dialogue_id": "empathetic-grade_00152",
+        "model_name": "transformer_ranker",
+        "response": "Yes, and you will succeed eventually."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                1,
+                2,
+                4,
+                3
+            ]
+        },
+        "context": "I always feel like no one hears me. Like When I speak it falls on deaf ears.\nThat sucks. Maybe it's time to get new friends?",
+        "dialogue_id": "empathetic-grade_00153",
+        "model_name": "transformer_ranker",
+        "response": "Glad you had fun. What breed is it?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                2,
+                2,
+                3,
+                3,
+                1,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "As I look at my 21 year old son, I often reflect on when he was smaller. Time really flies!\nTime sure does fly and change is inevitable",
+        "dialogue_id": "empathetic-grade_00154",
+        "model_name": "transformer_ranker",
+        "response": "your husband is a lucky guy!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                3,
+                3,
+                3,
+                4,
+                1,
+                3,
+                5
+            ]
+        },
+        "context": "I was excited when I bought my car\nthat is exciting! what kind of car?",
+        "dialogue_id": "empathetic-grade_00155",
+        "model_name": "transformer_ranker",
+        "response": "That would be great! It would certainly save you from having to buy a new car for a while."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                3,
+                3,
+                4,
+                2,
+                1,
+                3,
+                3
+            ]
+        },
+        "context": "A dog chased me through a street the other day\ndid he catch you?",
+        "dialogue_id": "empathetic-grade_00156",
+        "model_name": "transformer_ranker",
+        "response": "What kind of dog was it?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                5,
+                4,
+                4,
+                1,
+                3,
+                3
+            ]
+        },
+        "context": "A year ago, I found an injured baby kitten in the road while driving.\nOh no! Did you take the kitten to an animal hospital or care for it yourself?",
+        "dialogue_id": "empathetic-grade_00157",
+        "model_name": "transformer_ranker",
+        "response": "That's very kind of you. Too often people neglect stray animals and they suffer terrible short lives."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                5,
+                3,
+                3,
+                3,
+                2,
+                1,
+                3,
+                2
+            ]
+        },
+        "context": "Omg! That is terrible. They should really be considerate of people's time\nI wouldn't have minded as much if he actually seemed to care.  If they make you wait and then spend alot of time with you that is one thing",
+        "dialogue_id": "empathetic-grade_00158",
+        "model_name": "transformer_ranker",
+        "response": "I hope you keep it forever."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                2,
+                2,
+                4,
+                3,
+                1,
+                4,
+                3
+            ]
+        },
+        "context": "I was planning my wedding and trying to get a caterer.  The one we were looking at was completely ignoring every time my wife tried to communicate with them, to the point where I told them off and went with someone else.\nSounds like you made the right decision.  What a bunch of A-holes",
+        "dialogue_id": "empathetic-grade_00159",
+        "model_name": "transformer_ranker",
+        "response": "Ah ok. Good you stayed committed to your wife."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                3,
+                5,
+                3,
+                2,
+                2,
+                1,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "I've been training a new girl at work this week!\nHow is she doing",
+        "dialogue_id": "empathetic-grade_00160",
+        "model_name": "transformer_ranker",
+        "response": "That is awesome, good luck"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                3,
+                2,
+                5,
+                4,
+                5,
+                1,
+                4,
+                2,
+                2
+            ]
+        },
+        "context": "It is a blessing and curse. When I am having problems I think about what she would say to me.\nThat's a good way to remember her and keep her close to your heart.",
+        "dialogue_id": "empathetic-grade_00161",
+        "model_name": "transformer_ranker",
+        "response": "She is probably working hard to provide a better life for the family."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                4,
+                4,
+                2,
+                4,
+                2,
+                1,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "My husband might loose his job, I'm not sure what we will do if he does.\nThat is terrible. Why do you think that he will lose his job?",
+        "dialogue_id": "empathetic-grade_00162",
+        "model_name": "transformer_ranker",
+        "response": "What kind of job is it?   I will keep my fingers crossed he gets it!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                4,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                4,
+                1
+            ]
+        },
+        "context": "We walked, we ate ice cream, we rode a bike, we laughed a lot, we enjoyed the outdoors, we were exhausted\nWho did you do all those things with? Sounds like a wonderful day!",
+        "dialogue_id": "empathetic-grade_00163",
+        "model_name": "transformer_ranker",
+        "response": "That sounds good!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                2,
+                3,
+                2,
+                4,
+                2,
+                1,
+                2,
+                3,
+                1
+            ]
+        },
+        "context": "Did I tell you what happened with Li the other night? Boy do I feel dumb.\nNo, you didn't tell me! What happened?",
+        "dialogue_id": "empathetic-grade_00164",
+        "model_name": "transformer_ranker",
+        "response": "Please tell me you caught him!! That is awful!!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                4,
+                2,
+                2,
+                3,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "I am impressed in my sisters camping skills. They are very good\nwhat did she do ?",
+        "dialogue_id": "empathetic-grade_00165",
+        "model_name": "transformer_ranker",
+        "response": "Sounds amazing! What kind of art does she want to produce?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                2,
+                5,
+                5,
+                3,
+                3,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "I just went today to visit my son in his new house.\nhow was it",
+        "dialogue_id": "empathetic-grade_00166",
+        "model_name": "transformer_ranker",
+        "response": "That is great. Did you buy him a present for graduation?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                3,
+                2,
+                2,
+                2,
+                3,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "I was stunned with fear to find a rattlesnake right where i was about to step into last week\nholy cow! Thats terrifying. What did you do?",
+        "dialogue_id": "empathetic-grade_00167",
+        "model_name": "transformer_ranker",
+        "response": "sounds super scary! my god."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                5,
+                3,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "I'm gonna need your support here, because I'm going through something a little bit rough, okay?\nAnything you need!! I'm here for you!",
+        "dialogue_id": "empathetic-grade_00168",
+        "model_name": "transformer_ranker",
+        "response": "That's great! You have to keep a good attitude about it. I hope you get the part you want!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                5,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        "context": "I think that in the past i have spent time caring about things that aren't important.\nWhat kind of thing?  You could always change that in the future.",
+        "dialogue_id": "empathetic-grade_00169",
+        "model_name": "transformer_ranker",
+        "response": "Good for you.What is the reason of all this happiness?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                3,
+                5,
+                5,
+                2,
+                4,
+                1,
+                1,
+                4
+            ]
+        },
+        "context": "I'm in contract to buy my first house, fingers crossed closing goes well and I close next Friday!\nThat is so exciting!! buying a house can be such a great experience.",
+        "dialogue_id": "empathetic-grade_00170",
+        "model_name": "transformer_ranker",
+        "response": "How much is the house?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                3,
+                2,
+                5,
+                5,
+                4,
+                1,
+                5,
+                5
+            ]
+        },
+        "context": "Every year when the kids go back to school, it brings back so many memories of when my kids were going to school.\nI know what you mean.  I love to see all the pictures, and think back to how little mine used to be.",
+        "dialogue_id": "empathetic-grade_00171",
+        "model_name": "transformer_ranker",
+        "response": "I have those kinds of feelings as well. I think memories are a good thing though"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                2,
+                2,
+                1,
+                4,
+                1,
+                1,
+                4
+            ]
+        },
+        "context": "First day of school I remember ,my kids first day of school, how did it make you feel?\nIt just gave me the feeling that time flies by too quickly sometimes.  My youngest in the pic was in first grade and his older sister was in 7th grade.",
+        "dialogue_id": "empathetic-grade_00172",
+        "model_name": "transformer_ranker",
+        "response": "That's awesome. That's a good amount for a little effort which is always nice."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                3,
+                4,
+                1,
+                4,
+                1,
+                2,
+                4
+            ]
+        },
+        "context": "I love teaching people how to skydive - it is so much fun helping them to learn.\nThat's sound like a lot of fun! Do you know where I can go get lessons?",
+        "dialogue_id": "empathetic-grade_00173",
+        "model_name": "transformer_ranker",
+        "response": "It does just bring about a great feeling doesn't it?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                3,
+                3,
+                3,
+                2,
+                4,
+                1,
+                1,
+                4
+            ]
+        },
+        "context": "Yes, I think they offer a great bridge to the past. Do you?\nAbsolutely. I love to hear my m\u00e1m\u00e1 tell me stories from her childhood trapping nutria and trawling with her family.",
+        "dialogue_id": "empathetic-grade_00174",
+        "model_name": "transformer_ranker",
+        "response": "well, as long as you're happy"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                4,
+                2,
+                5,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "I worked hard all night for that exam. it takes 5 months to get the results back. the wait is killing me\nI hope you did well on it.",
+        "dialogue_id": "empathetic-grade_00175",
+        "model_name": "transformer_ranker",
+        "response": "That is the confidence to have!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                1,
+                4,
+                4,
+                3,
+                1,
+                1
+            ]
+        },
+        "context": "I have a wonderful sister-in-law.  who is always there for me when I need her\nThat must be comforting!  It is good to have people in your life that are supportive.",
+        "dialogue_id": "empathetic-grade_00176",
+        "model_name": "transformer_ranker",
+        "response": "Oh, that does not seem very nice."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                1,
+                4,
+                3,
+                2,
+                1,
+                1
+            ]
+        },
+        "context": "Oh man! What happened to your hip?\nI fell and fractured it two years ago. My then surgeon botched the operation and I have to use a walker to get around. If this new guy can do something I could walk properly again!",
+        "dialogue_id": "empathetic-grade_00177",
+        "model_name": "transformer_ranker",
+        "response": "Sounds cool! There isn't anything like that around here."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                3,
+                3,
+                2,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "My husband is on the road a lot, I hardley ever see him.\nI'm sorry. My wife could sympathize with you since I'm gone a lot on business as well.",
+        "dialogue_id": "empathetic-grade_00178",
+        "model_name": "transformer_ranker",
+        "response": "it is so nice to see a marriage as strong these days!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "I watched The Lion King today with my daughter, reminded me of my childhood.\nthats a good movie, cant wait for the live action version coming out",
+        "dialogue_id": "empathetic-grade_00179",
+        "model_name": "transformer_ranker",
+        "response": "Nice you must feel pretty lucky"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                3,
+                1,
+                1,
+                5,
+                5,
+                5
+            ]
+        },
+        "context": "We ate good food, drank wine and went swimming.\nThat sounds fun.  Was the weather nice?",
+        "dialogue_id": "empathetic-grade_00180",
+        "model_name": "transformer_ranker",
+        "response": "I bet so. I've never done anything like that before."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                2,
+                1,
+                1,
+                4,
+                5,
+                3
+            ]
+        },
+        "context": "I came home from work last night and my step dad scared me!\nHow did he scare you?",
+        "dialogue_id": "empathetic-grade_00181",
+        "model_name": "transformer_ranker",
+        "response": "That's so sweet!  I bet he is an awesome dad!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                3,
+                1,
+                5,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "Thats sad. Have you been to Scotand since?\nOnly for funerals, unfortunately. Both my parents have since died. Unpleasant fact of life, I'm afraid.",
+        "dialogue_id": "empathetic-grade_00182",
+        "model_name": "transformer_ranker",
+        "response": "don't feel sad,day will pass and present is the best moment and live"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                2,
+                3,
+                1,
+                1,
+                3,
+                5,
+                3
+            ]
+        },
+        "context": "Sounds like fund, you must be excited!\nI am, I have been watching all my favorite movies.",
+        "dialogue_id": "empathetic-grade_00183",
+        "model_name": "transformer_ranker",
+        "response": "me too, i use it for work , to relax and play games or watch movies on it"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                1,
+                1,
+                1,
+                3,
+                5,
+                4
+            ]
+        },
+        "context": "I recently had a shop fix my car. They worked so fast!\nThat's good, did you have to wait there or were you able to go home?",
+        "dialogue_id": "empathetic-grade_00184",
+        "model_name": "transformer_ranker",
+        "response": "Oh sorry to hear that.. Don't you like florida?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                1,
+                2,
+                5,
+                5,
+                2,
+                4,
+                1,
+                4,
+                3
+            ]
+        },
+        "context": "The other night i heard a sound like someone was breaking in my house, i was pretty scared.\nWow, that sounds quite disturbing. Was someone breaking in?",
+        "dialogue_id": "empathetic-grade_00185",
+        "model_name": "transformer_ranker",
+        "response": "Oh my god. That's so scary!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                1,
+                2,
+                5,
+                3,
+                3,
+                3,
+                1,
+                2,
+                3
+            ]
+        },
+        "context": "I remember being in Scotland and arranging a trip to California to see my then boyfriend. I was so very happy to be seeing him again!\nI bet! Is it hard to have a long distance relationship?",
+        "dialogue_id": "empathetic-grade_00186",
+        "model_name": "transformer_ranker",
+        "response": "That's great! I went on a nice trip too"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                2,
+                5,
+                2,
+                3,
+                2,
+                4,
+                2,
+                4
+            ]
+        },
+        "context": "My mother fell and injured herself. I wanted help and comfort her in any way possible.\nOh no! I'm sorry. Is she going to be ok?",
+        "dialogue_id": "empathetic-grade_00187",
+        "model_name": "transformer_ranker",
+        "response": "That sad. I hope she is okay."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                1,
+                2,
+                4,
+                4,
+                2,
+                1,
+                4,
+                2
+            ]
+        },
+        "context": "When I do things that are challenging I feel more self-reliant. I recently tried taking an ice bath\nOh man! thats impressive, those baths are rough.",
+        "dialogue_id": "empathetic-grade_00188",
+        "model_name": "transformer_ranker",
+        "response": "Sounds like somebody needs an accountabili-buddy..."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                2,
+                2,
+                3,
+                2,
+                2,
+                1,
+                4,
+                2
+            ]
+        },
+        "context": "My aggressive pet rat attacked the baby rat and left her a horrible gash on her abdomen!\nWow, that sounds very disgusting.",
+        "dialogue_id": "empathetic-grade_00189",
+        "model_name": "transformer_ranker",
+        "response": "sounds like a good idea i hope her pain goes away asap!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                4,
+                3,
+                1,
+                4,
+                3,
+                2,
+                1,
+                5
+            ]
+        },
+        "context": "I just enjoyed grocery shopping for the first time in a very long time. I've found my perfect restaurant/store and spent a very happy 40 mins or so wandering around it.\nThat's great! Did you get anything you are especially excited about? It's a restaurant and a store?",
+        "dialogue_id": "empathetic-grade_00190",
+        "model_name": "transformer_ranker",
+        "response": "Ford makes some pretty nifty cars! I have a Ford Focus myself. Not much, but it has killer gas mileage."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                4,
+                2,
+                1,
+                4,
+                2,
+                5,
+                4,
+                3
+            ]
+        },
+        "context": "I still live and work in the place where I grew up, but all of my friends have moved away.\nAw, that has to be tough not to see your friends. Do they visit often?",
+        "dialogue_id": "empathetic-grade_00191",
+        "model_name": "transformer_ranker",
+        "response": "I have a friend like that. We lose touch but we will always be great friends."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                2,
+                1,
+                5,
+                2,
+                5,
+                1,
+                4
+            ]
+        },
+        "context": "My parents gave me a car for graduating from college. It makes my life so much easier.\nYou deserved for graduating.",
+        "dialogue_id": "empathetic-grade_00192",
+        "model_name": "transformer_ranker",
+        "response": "Good for you. Many are getting into car loan and struggling with car payments"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                5,
+                3,
+                1,
+                3,
+                4,
+                2,
+                1,
+                2
+            ]
+        },
+        "context": "My birthday was last week and I never heard from my brother OR my sister to wish me a happy birthday.\noh no I am sorry to hear that! They must have been really busy and it must have slipped their mind",
+        "dialogue_id": "empathetic-grade_00193",
+        "model_name": "transformer_ranker",
+        "response": "wow thats a nice little drive!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                4,
+                2,
+                1,
+                5,
+                4,
+                5,
+                1,
+                4
+            ]
+        },
+        "context": "Needing some extra money, I used the spare change in my car to buy a scratch off ticket.\nNice.. what type of ticket.. Monopoly?  Price is Right?  Scrabble?  Bingo?",
+        "dialogue_id": "empathetic-grade_00194",
+        "model_name": "transformer_ranker",
+        "response": "Smart move!  Good for you for deciding to use it responsibly."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                5,
+                5,
+                2,
+                5,
+                4,
+                1,
+                3,
+                4
+            ]
+        },
+        "context": "I woke up and the first thing I saw that my cat had decided to play with my shoes and ruin them!\nOh my, you must have been annoyed with your cat. I guess he just wanted your attention.",
+        "dialogue_id": "empathetic-grade_00195",
+        "model_name": "transformer_ranker",
+        "response": "well , glad it wasn't something important. it was just a cat. and you are safe. so that is great!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                3,
+                2,
+                2,
+                2,
+                5,
+                3,
+                1,
+                2,
+                2
+            ]
+        },
+        "context": "No, I didn't.  We live in a rural area and the grocery store is 20 minutes away.  Lucky for him, I forgot some other stuff for tomorrow's dinner [mom brain!] and I told him that we could ride together tomorrow back to the store.\nMaybe you should let him get a couple of things to make up for it.",
+        "dialogue_id": "empathetic-grade_00196",
+        "model_name": "transformer_ranker",
+        "response": "Oh, well hopefully that works. Wouldn't want you up all night!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                2,
+                4,
+                1,
+                5,
+                4,
+                1,
+                1,
+                4
+            ]
+        },
+        "context": "Yeah it really does. It's even worse to try and close those accounts!\nThey don't want to. I lost mine or it was stolen. But all my autopay bills are at a standstill and the companies are not happy about it.",
+        "dialogue_id": "empathetic-grade_00197",
+        "model_name": "transformer_ranker",
+        "response": "yea that sucks.. feeling those cars zoom by you"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                5,
+                3,
+                1,
+                5,
+                3,
+                1,
+                1,
+                3
+            ]
+        },
+        "context": "I'm eating a lot of food to make sure I can lift more weight in the gym next time!\nAre you taking protein?",
+        "dialogue_id": "empathetic-grade_00198",
+        "model_name": "transformer_ranker",
+        "response": "Wow!  That is impressive!  You must be really prod of yourself!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                3,
+                2,
+                2,
+                3,
+                5,
+                3,
+                1,
+                2,
+                2
+            ]
+        },
+        "context": "This afternoon i went to my sons soccer game and he scored three goals! happiest dad ever!\nI figure your son is pretty happy as well.",
+        "dialogue_id": "empathetic-grade_00199",
+        "model_name": "transformer_ranker",
+        "response": "You will grow to love it. Football is amazing sport. Your son will love it."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                3,
+                1,
+                5,
+                3,
+                1,
+                3,
+                5
+            ]
+        },
+        "context": "I had a job interview yesterday. I was really nervous before it started.\nWas it on the phone or in person?",
+        "dialogue_id": "empathetic-grade_00200",
+        "model_name": "transformer_ranker",
+        "response": "So you must have prepared well for it. I hope you get the job!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                3,
+                1,
+                3,
+                3,
+                1,
+                4,
+                2
+            ]
+        },
+        "context": "Over the summer my family went to Alabama to visit family and I felt a lot of emotions\nI guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",
+        "dialogue_id": "empathetic-grade_00201",
+        "model_name": "transformer_ranker",
+        "response": "Oh, sometimes you just have to accept weather changing your plans. I am sure you can go another time."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                3,
+                1,
+                4,
+                3,
+                1,
+                4,
+                4
+            ]
+        },
+        "context": "Tomorrow I start my new job teaching kids. I really hope it goes well!\nOh wow, now that really is exciting, congratulations! Did you get the grade level and subject you wanted?",
+        "dialogue_id": "empathetic-grade_00202",
+        "model_name": "transformer_ranker",
+        "response": "That's great!  What finally convinved the boss?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                1,
+                3,
+                3,
+                1,
+                2,
+                2
+            ]
+        },
+        "context": "oh, how nice. What are your plans in that regard for the future?\nhave my own restaurant",
+        "dialogue_id": "empathetic-grade_00203",
+        "model_name": "transformer_ranker",
+        "response": "Oh nice. What color is it?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                1,
+                4,
+                3,
+                1,
+                3,
+                3
+            ]
+        },
+        "context": "I went to a court hearing for unemployment with my former employer, and I felt great about it since I was so prepared with all of the documents and everything I needed to show the court I was in the right for quitting.\nDid it go your way?",
+        "dialogue_id": "empathetic-grade_00204",
+        "model_name": "transformer_ranker",
+        "response": "Wow, that's some high praise, I might just have to try it out myself!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                3,
+                2,
+                2,
+                5,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "So who annoyed you?\nA guy budged in front of some other people, I confronted him about it, and we got into an extremely heated exchange.",
+        "dialogue_id": "empathetic-grade_00205",
+        "model_name": "transformer_ranker",
+        "response": "That is so sweet of him, those are the people we need more of in the world"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "there is nothing i hate more than losing in something\nYeah, that's never fun. Did you lose at something recently?",
+        "dialogue_id": "empathetic-grade_00206",
+        "model_name": "transformer_ranker",
+        "response": "That is the illusion of winning when in reality you are expected to lose"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                4,
+                2,
+                4,
+                4,
+                3,
+                2
+            ]
+        },
+        "context": "My son was just born, my first boy after 11 girls!\nThats amazing, congratulations. 12 Kids your amazing.",
+        "dialogue_id": "empathetic-grade_00207",
+        "model_name": "transformer_ranker",
+        "response": "Amazing! Congratulations. When so many children have issues, it is always great to see one that is healthy and well."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                3,
+                4,
+                1,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "If my upstairs neighbor wakes me at 3am again I think I'll explode! I get that she has to go to work, but why not get organized the night before for goodness sake?!\nI know the feeling.",
+        "dialogue_id": "empathetic-grade_00208",
+        "model_name": "transformer_ranker",
+        "response": "I do hate flooding as well"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                3,
+                5,
+                3,
+                4,
+                3,
+                4
+            ]
+        },
+        "context": "I feel nostalgic when playing old school games with my bro\nNice, me too, are you playing Nintendo games?",
+        "dialogue_id": "empathetic-grade_00209",
+        "model_name": "transformer_ranker",
+        "response": "I don't know much about video games but remember playing Mario and games on a Nintendo 64."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                5,
+                3,
+                4,
+                5,
+                2,
+                2,
+                5,
+                5
+            ]
+        },
+        "context": "I agree, the writing part is easy part, but the speaking part is the worst!\nYeah, it seems like the learning curve is impossible! Maybe I just need more life experience",
+        "dialogue_id": "empathetic-grade_00210",
+        "model_name": "transformer_ranker",
+        "response": "Yes! life is a blessing, and we need to make the most of every day."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                4,
+                3,
+                1,
+                4,
+                2,
+                4,
+                3
+            ]
+        },
+        "context": "I had a terrifying experience what using the restroom yesterday.\nWhat happened??",
+        "dialogue_id": "empathetic-grade_00211",
+        "model_name": "transformer_ranker",
+        "response": "That is so terrible! was this recent? if you dont mind me asking"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                4,
+                3,
+                2,
+                3,
+                2,
+                3,
+                3
+            ]
+        },
+        "context": "I'm going overseas and I think I packed everything i need!\nWhere are you headed ?",
+        "dialogue_id": "empathetic-grade_00212",
+        "model_name": "transformer_ranker",
+        "response": "Nice! You sound like you prepared very well"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                5,
+                4,
+                4,
+                5,
+                4,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "Wow! Congrats to her, and I am sorry that you didn't get the prize. What did she win?\nA weekend trip to Gatlinburg. I would of loved that.",
+        "dialogue_id": "empathetic-grade_00213",
+        "model_name": "transformer_ranker",
+        "response": "Aw, well you can't win everything. Be happy for her!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                5,
+                3,
+                1,
+                4,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "Did you think about moving after that?\nFunny you should mention that - in three weeks time, lol.",
+        "dialogue_id": "empathetic-grade_00214",
+        "model_name": "transformer_ranker",
+        "response": "Nice. How many tickets did ya get?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                5,
+                2,
+                1,
+                2,
+                1,
+                2,
+                1,
+                4
+            ]
+        },
+        "context": "It's been a long week! My husband has been out of town and its been just me and a cranky toddler.\nWill he be back soon?",
+        "dialogue_id": "empathetic-grade_00215",
+        "model_name": "transformer_ranker",
+        "response": "That sounds amazing, I hope you both enjoy it!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                2,
+                1,
+                2,
+                1,
+                2,
+                1,
+                4
+            ]
+        },
+        "context": "My girlfriend's leg was bitten off by a bull shark last summer.\nOh my! Is she ok, and was it while surfing?",
+        "dialogue_id": "empathetic-grade_00216",
+        "model_name": "transformer_ranker",
+        "response": "Oh wow, I'm sorry to hear that! Put your leg up and relax this weekend!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                3,
+                2,
+                1,
+                5,
+                5,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "Well yeah, that sounds about right. He has to go to the Championship first and win, then party time !!!!!\nYou got it! I've been watching him play for a while now and it's such a fantastic feeling to see him win - and in his own country too!",
+        "dialogue_id": "empathetic-grade_00217",
+        "model_name": "transformer_ranker",
+        "response": "That's great to hear!  Good luck to him!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                2,
+                1,
+                2,
+                1,
+                2,
+                1,
+                4
+            ]
+        },
+        "context": "I recently found out that a person I very much intimately admired did not feel the same way for me. I was pretty surprised.\nI'm sorry to hear that! How did you find out?",
+        "dialogue_id": "empathetic-grade_00218",
+        "model_name": "transformer_ranker",
+        "response": "Wow...You need to find a new place to live because that's completely unreasonable."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                3,
+                2,
+                1,
+                3,
+                1,
+                2,
+                1,
+                3
+            ]
+        },
+        "context": "My sister threw up the other day and made a huge mess.\nthat must have been an explosion and a half, did  you clean it up?",
+        "dialogue_id": "empathetic-grade_00219",
+        "model_name": "transformer_ranker",
+        "response": "Wow! That is really impressive!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                1,
+                5,
+                3,
+                5,
+                2,
+                5,
+                4,
+                5
+            ]
+        },
+        "context": "Over the summer my family went to Alabama to visit family and I felt a lot of emotions\nI guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",
+        "dialogue_id": "empathetic-grade_00220",
+        "model_name": "transformer_ranker",
+        "response": "Oh, sometimes you just have to accept weather changing your plans. I am sure you can go another time."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                2,
+                3,
+                5,
+                3,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "I'm sorry to hear that. I had a dog die once too.\nit is so sad to know but my mother is rather sick of flu and not dying",
+        "dialogue_id": "empathetic-grade_00221",
+        "model_name": "transformer_ranker",
+        "response": "Aw I hate to hear that. I also hope she feels better. I love my dog so much."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                2,
+                2,
+                5,
+                2,
+                3,
+                2,
+                4
+            ]
+        },
+        "context": "I hope she hears some good news. Is it pretty serious?\nShe had stage 3 cancer, but she was clear last screening a year ago.",
+        "dialogue_id": "empathetic-grade_00222",
+        "model_name": "transformer_ranker",
+        "response": "I hope she was able to fend for herself. I'm sorry she went through that loss."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                1,
+                4,
+                2,
+                5,
+                2,
+                2,
+                3,
+                5
+            ]
+        },
+        "context": "I just bought iced coffee yesterday and my brother drank the rest of it without asking me.\nWow. Does he usually do stuff like that?",
+        "dialogue_id": "empathetic-grade_00223",
+        "model_name": "transformer_ranker",
+        "response": "I know that feeling but I crashed my car my dad bought for me like 1 year later. But that feeling of happiness was awesome!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                3,
+                4,
+                5,
+                3,
+                4,
+                4,
+                4
+            ]
+        },
+        "context": "Last night I was walking home from work in a bad part of town, I was a bit scared.\nYou should have taken a Uber. You never know what will happen these days.",
+        "dialogue_id": "empathetic-grade_00224",
+        "model_name": "transformer_ranker",
+        "response": "Was the drive a necessary one to take?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                3,
+                3,
+                4,
+                5,
+                2,
+                4
+            ]
+        },
+        "context": "I drank a lot of alcohol at my friend's BBQ party, and I ended up puking and passing out. Not my finest moment.\nHaha, I can relate to that. I did that too, and my friends took a wonderful photo of it. They like to stick it on our yearly Christmas cards to each other",
+        "dialogue_id": "empathetic-grade_00225",
+        "model_name": "transformer_ranker",
+        "response": "I am such a lucky guy to have a friend like you"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                5,
+                5,
+                4,
+                4,
+                4
+            ]
+        },
+        "context": "I'm looking forward to my best friend's surprise birthday party next week!\nThat sounds like so much fun! I love parties!",
+        "dialogue_id": "empathetic-grade_00226",
+        "model_name": "transformer_ranker",
+        "response": "Parties are so much fun! Are you celebrating anything special, or is the party just a get together?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                3,
+                2,
+                5,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "Ugh! I hate it when stuff like that happens. Were you able to get a refund on your tickets?\nNo. We went ahead and went on. It actually turned out to be a great trip with zero incidents.",
+        "dialogue_id": "empathetic-grade_00227",
+        "model_name": "transformer_ranker",
+        "response": "It's awful when you spend money on tickets and popcorn and it's a bad time. Did they put all of the best moments in the trailer?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                1,
+                2,
+                2,
+                3,
+                2,
+                3
+            ]
+        },
+        "context": "Last year I made a bet with my friend and he lost, so he had to buy me a Nintendo Switch. I was so great.\nThat's quite the win! What was the bet?",
+        "dialogue_id": "empathetic-grade_00228",
+        "model_name": "transformer_ranker",
+        "response": "Wow I love nintendo, you should get an NES classic!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                2,
+                1,
+                2,
+                2,
+                4,
+                1,
+                2
+            ]
+        },
+        "context": "I like going fishing, it reminds me of when I would go with my dad when I was a kid.\nDo you have any kids?",
+        "dialogue_id": "empathetic-grade_00229",
+        "model_name": "transformer_ranker",
+        "response": "Nice. I love finding old stuff from my childhood."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                3,
+                5,
+                2,
+                3,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "I won a free trip to Florida. It's not the best vacation, but I'll take it for free.\nWhy wasn't it good? Florida sounds like an ideal destination.",
+        "dialogue_id": "empathetic-grade_00230",
+        "model_name": "transformer_ranker",
+        "response": "Oh awesome, what part of Florida?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                4,
+                2,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "Once I was suppose to go visit my sister and nieces who I hadn't seen in forever but I ended up breaking my heal and big toe and wasn't able to go. I was so upset!\nDang, that sucks. MAybe they can visit you instead?",
+        "dialogue_id": "empathetic-grade_00231",
+        "model_name": "transformer_ranker",
+        "response": "I'm glad you found a job quick! That must have felt a little good to tell them at least"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                3,
+                2,
+                4,
+                3,
+                5,
+                4,
+                3
+            ]
+        },
+        "context": "One night when my children and I came home, I saw a shadow inside! I was so fearful and afraid!\nOh that can be scary. I don't watch horror movies because I know that I'll do just that!",
+        "dialogue_id": "empathetic-grade_00232",
+        "model_name": "transformer_ranker",
+        "response": "Thank goodness! Yeah, I only watch scary movies in the daytime!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                2,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "I went to the beach other day\nThat is really cool . Did you have a good time?",
+        "dialogue_id": "empathetic-grade_00233",
+        "model_name": "transformer_ranker",
+        "response": "oh, did you enjoy it? I love going to the beach"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                2,
+                2,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "I had a high risk pregnancy up until a few months ago. I felt the most grateful I'd ever been when my baby turned out healthy.\nCongrats, that must have been a very stressful time leading up the the birth.",
+        "dialogue_id": "empathetic-grade_00234",
+        "model_name": "transformer_ranker",
+        "response": "That's an amazing feat. Studying is kind of a chore for me."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                4,
+                4,
+                1,
+                2,
+                1,
+                2,
+                5,
+                5
+            ]
+        },
+        "context": "Tomorrow is the big day, I have to deliver my proposal to the client.\nAre you ready for it?",
+        "dialogue_id": "empathetic-grade_00235",
+        "model_name": "transformer_ranker",
+        "response": "Wow, good luck.  I hope it all goes well. It sounds like you're confident that it will. Have you done one before?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                4,
+                2,
+                1,
+                4,
+                1,
+                3,
+                3,
+                5
+            ]
+        },
+        "context": "I was feeling kind of down so I ended up snuggling with a stuffed rabbit I have. It brought back a lot of good old memories.\nNever too old or too manly to snuggle a stuffed animal. My mom said I used to carry this blanket with me when I was a toddler, everywhere I went. I wish I still had it. If I did, I'd consider using it again, or at the very least passing it down to my own kid. What's the harm, you know? If something gives you comfort and doesn't bother anyone else, there should be no shame.",
+        "dialogue_id": "empathetic-grade_00236",
+        "model_name": "transformer_ranker",
+        "response": "Same I've put my parents through a lot.  But now I'm trying to be the best version of myself so I can eventually pay them back"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                4,
+                4,
+                1,
+                4,
+                1,
+                3,
+                3,
+                5
+            ]
+        },
+        "context": "I'm so excited about an upcoming move and life change -- it's a move to a verrrry different state, but should be interesting!\nWhat state are you going to move to?",
+        "dialogue_id": "empathetic-grade_00237",
+        "model_name": "transformer_ranker",
+        "response": "Awesome, you'll be able to make friends at work. I wish you the best in your new city, congrats!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                1,
+                4,
+                1,
+                3,
+                2,
+                5
+            ]
+        },
+        "context": "When I got the phone call that my mom had cancer I was so upset.\nI am so sorry to hear that. No one should have to go through something like that.",
+        "dialogue_id": "empathetic-grade_00238",
+        "model_name": "transformer_ranker",
+        "response": "Then maybe you should think about trying to find a job somewhere else?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                5,
+                1,
+                2,
+                1,
+                3,
+                4,
+                5
+            ]
+        },
+        "context": "I was very sad when I found out that my neighbors houses were going to be demolished because the city ordered it..\nIs the city going to build them new ones at least?",
+        "dialogue_id": "empathetic-grade_00239",
+        "model_name": "transformer_ranker",
+        "response": "It is unbelievable to meet these wild animals in a city. You should definitely call them"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                3,
+                5,
+                2,
+                2,
+                1,
+                4
+            ]
+        },
+        "context": "I am going to a concert very soon.\nCool! Who are you going to see?",
+        "dialogue_id": "empathetic-grade_00240",
+        "model_name": "transformer_ranker",
+        "response": "Awesome, I hope you have a great time at the concert."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                4,
+                5,
+                2,
+                3,
+                2,
+                1,
+                1
+            ]
+        },
+        "context": "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.\nHoly moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",
+        "dialogue_id": "empathetic-grade_00241",
+        "model_name": "transformer_ranker",
+        "response": "If you live under his roof then you should obey him."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                4,
+                5,
+                2,
+                3,
+                4,
+                1,
+                4
+            ]
+        },
+        "context": "Hello, tomorrow I have the cooking test and I feel safe. I am sure that I will approve with an excellent rating\noh, how nice. What are your plans in that regard for the future?",
+        "dialogue_id": "empathetic-grade_00242",
+        "model_name": "transformer_ranker",
+        "response": "I am glad you got some things done! Now you can rest"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                4,
+                4,
+                2,
+                3,
+                3,
+                1,
+                2
+            ]
+        },
+        "context": "I was trying to take a nap, but my cat kept on trying to play with my head.\nI love cats.",
+        "dialogue_id": "empathetic-grade_00243",
+        "model_name": "transformer_ranker",
+        "response": "Wow, that cat must have loved that shoe, he wanted it"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                5,
+                2,
+                2,
+                2,
+                1,
+                1
+            ]
+        },
+        "context": "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.\nHoly moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",
+        "dialogue_id": "empathetic-grade_00244",
+        "model_name": "transformer_ranker",
+        "response": "If you live under his roof then you should obey him."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                5,
+                3,
+                1,
+                2,
+                1,
+                1,
+                5,
+                2
+            ]
+        },
+        "context": "Same. And all these guys live in different places now so it's harder and harder to get everyone together.\nI bet it would be tough.  Was there a special occasion that brought you all together?",
+        "dialogue_id": "empathetic-grade_00245",
+        "model_name": "transformer_ranker",
+        "response": "That's great you are happy with where you are in life. I think the place we work and the area in which we live make a big difference."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!\nIts always nice to get some sleep",
+        "dialogue_id": "empathetic-grade_00246",
+        "model_name": "transformer_ranker",
+        "response": "You will climb high in the company with that good attitude."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                2,
+                1,
+                2,
+                1,
+                1,
+                3,
+                2
+            ]
+        },
+        "context": "I ended up staying at home for the holidays\nwhy is that? comfort ?",
+        "dialogue_id": "empathetic-grade_00247",
+        "model_name": "transformer_ranker",
+        "response": "How long have you been with your boyfriend?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                1,
+                5,
+                1,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "In college I was in a class with an older woman who stole my ideas for a paper.\nOh wow! that stinks. Im sorry",
+        "dialogue_id": "empathetic-grade_00248",
+        "model_name": "transformer_ranker",
+        "response": "Wow, you're so well spoken."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                1,
+                2,
+                1,
+                1,
+                3,
+                2
+            ]
+        },
+        "context": "I am so happy it's a boy\nYou just had a baby?! I didn't even know you were expecting!",
+        "dialogue_id": "empathetic-grade_00249",
+        "model_name": "transformer_ranker",
+        "response": "My dog needs some good training!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                1,
+                4,
+                5,
+                3,
+                1,
+                5,
+                2
+            ]
+        },
+        "context": "my son just used a potty for the first time! he is only 16 months. i'm so proud of him\nWatch out! Next thing you turn around, and he's driving.",
+        "dialogue_id": "empathetic-grade_00250",
+        "model_name": "transformer_ranker",
+        "response": "That's great to hear, I hope his first day goes well!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                1,
+                1,
+                3,
+                3,
+                3,
+                1,
+                4,
+                2
+            ]
+        },
+        "context": "I understand, but coming at me head on, on a two lane highway, while I'm on a bridge with nowhere to go is not cool.\nI cant imagine how scared you must have been.",
+        "dialogue_id": "empathetic-grade_00251",
+        "model_name": "transformer_ranker",
+        "response": "i enjoy a little rain every once in a while, but i dont like thunderstorms either"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                1,
+                3,
+                3,
+                4,
+                1,
+                3,
+                5
+            ]
+        },
+        "context": "OKay. I care for everyone\nwell you sound like a good person",
+        "dialogue_id": "empathetic-grade_00252",
+        "model_name": "transformer_ranker",
+        "response": "That is really cool, everyone should do something like that"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                4,
+                2,
+                3,
+                3,
+                2,
+                1,
+                2,
+                5
+            ]
+        },
+        "context": "I love youtube. been listening to all my classic tracks. Tupac forever\nI love me some Tupac. Real talk.",
+        "dialogue_id": "empathetic-grade_00253",
+        "model_name": "transformer_ranker",
+        "response": "have you seen them do it on youtube?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                1,
+                4,
+                3,
+                3,
+                1,
+                3,
+                2
+            ]
+        },
+        "context": "When my daughter was born doctors said she wouldn't ever go to school and basically be mentally handicapped.\nAnd how is she doing now",
+        "dialogue_id": "empathetic-grade_00254",
+        "model_name": "transformer_ranker",
+        "response": "it is indeed, learning things at young age is a boon. you got an exceptional daughter"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                1,
+                3,
+                1,
+                1,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "I was going through my photos today and I saw a picture of me and my ex together. It just made me feel odd, I miss him.\nNice, when did you guys break up",
+        "dialogue_id": "empathetic-grade_00255",
+        "model_name": "transformer_ranker",
+        "response": "Good to hear, glad you guys are happy!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                1,
+                4,
+                1,
+                1,
+                5,
+                3,
+                2
+            ]
+        },
+        "context": "One time when I was kicked out of the place I was staying at, my best friend immediately told me I could stay with her until I got on my feet.\nOh no, that sounds like an awful situation. What did you end up doing after that?",
+        "dialogue_id": "empathetic-grade_00256",
+        "model_name": "transformer_ranker",
+        "response": "Oh well that sounds like it ended well at least. What was the fight about?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                1,
+                4,
+                1,
+                1,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "When I got the phone call that my mom had cancer I was so upset.\nI am so sorry to hear that. No one should have to go through something like that.",
+        "dialogue_id": "empathetic-grade_00257",
+        "model_name": "transformer_ranker",
+        "response": "Then maybe you should think about trying to find a job somewhere else?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                3,
+                1,
+                4,
+                1,
+                2,
+                5,
+                4,
+                5
+            ]
+        },
+        "context": "I'm so proud of my wife\ni bet she's a wonderful woman",
+        "dialogue_id": "empathetic-grade_00258",
+        "model_name": "transformer_ranker",
+        "response": "Its great you trust an awesome woman"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                1,
+                3,
+                5,
+                5,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "I feel like deepening my connection to God is the most important thing in my life\nI think that is a lovely thing",
+        "dialogue_id": "empathetic-grade_00259",
+        "model_name": "transformer_ranker",
+        "response": "Its good to have supportive siblings like you"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                4,
+                5,
+                4,
+                2,
+                3,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "The other night I was driving home in the rain and slid into the guard rail. It is going to cost so much to get my car fixed!\nOh man, now that sucks! You gotta be careful on those wet roads. At least you're okay.",
+        "dialogue_id": "empathetic-grade_00260",
+        "model_name": "transformer_ranker",
+        "response": "Oh my!  I am glad to hear you managed to avoid the collision."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                2,
+                5,
+                4,
+                2,
+                2,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "I have the best kids in the world.\nWhat did they do this time?",
+        "dialogue_id": "empathetic-grade_00261",
+        "model_name": "transformer_ranker",
+        "response": "Did you do anything special to honor it?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                3,
+                5,
+                3,
+                2,
+                2,
+                1,
+                3,
+                3
+            ]
+        },
+        "context": "I got to go to a cat cafe when no one else was around!\nI've been to one before with my girlfriend, what an amazing experience eh?",
+        "dialogue_id": "empathetic-grade_00262",
+        "model_name": "transformer_ranker",
+        "response": "Wow, that must be quite some distance then! Have a safe flight!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                4,
+                5,
+                3,
+                2,
+                3,
+                3,
+                2,
+                3
+            ]
+        },
+        "context": "I'm gonna take the family out to the lake this weekend, we might rent a boat.\nThat sounds like a great way to spend the weekend.  What type of boat are you thinking about renting?",
+        "dialogue_id": "empathetic-grade_00263",
+        "model_name": "transformer_ranker",
+        "response": "Is there anything else you do besides work? A hobby you enjoy, video games, music, working out?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                3,
+                5,
+                4,
+                2,
+                2,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "I felt sooooo nervous going to my last job interview! Nerves must occur in proportion to how badly you *want* something!\nI know what you mean. Did you get the job?",
+        "dialogue_id": "empathetic-grade_00264",
+        "model_name": "transformer_ranker",
+        "response": "Good job, keep on moving up!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                5,
+                1,
+                4,
+                2,
+                3,
+                5
+            ]
+        },
+        "context": "Wow, that is sweet of him, does he have a crush on you?\nIt was a nice gesture on his part. But I do not know",
+        "dialogue_id": "empathetic-grade_00265",
+        "model_name": "transformer_ranker",
+        "response": "Yeah, that is a good thing he found it and not someone else. What are the odds."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                2,
+                3,
+                1,
+                2,
+                2,
+                5,
+                4
+            ]
+        },
+        "context": "I have a big exam coming up! My nerves are getting to me.\nohh good luck!",
+        "dialogue_id": "empathetic-grade_00266",
+        "model_name": "transformer_ranker",
+        "response": "Good luck! Hope you do well"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                3,
+                1,
+                4,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "i was so stressed when i found out that i did not get accepted in my dream college\nOh no. Did you have a good backup plan ?",
+        "dialogue_id": "empathetic-grade_00267",
+        "model_name": "transformer_ranker",
+        "response": "Oh congratulations!  I am so happy for you!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                4,
+                1,
+                2,
+                2,
+                3,
+                4
+            ]
+        },
+        "context": "I went to see Hamilton last month in NYC\nOh the broadway musical? I heard really good reviews of it",
+        "dialogue_id": "empathetic-grade_00268",
+        "model_name": "transformer_ranker",
+        "response": "That's cool. Guess all that hard work pays off!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                2,
+                4,
+                1,
+                4,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "i cant wait to see my dog back home it has been 2 years since i see him\nI would go mad, were you away at college or in the service?",
+        "dialogue_id": "empathetic-grade_00269",
+        "model_name": "transformer_ranker",
+        "response": "I am sorry to hear that.  Maybe he will find his way back home some day."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                5,
+                5,
+                2,
+                5,
+                4,
+                5,
+                1
+            ]
+        },
+        "context": "Nothing really! I just love that I can work at home and have time to clean or cook whenever I want.\nI work from home too.  Its so nice to be able to do laundry and things on my breaks.  Im so productive around the house",
+        "dialogue_id": "empathetic-grade_00270",
+        "model_name": "transformer_ranker",
+        "response": "I hope it was a good day for you, atleast you did something productive and got some laundry done haha"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                1,
+                5,
+                2,
+                3,
+                4,
+                5,
+                1
+            ]
+        },
+        "context": "A good friend of mine moved away recently and we lost contact. I really wish we would still speak.\nI know how that feels. Maybe try reaching out.",
+        "dialogue_id": "empathetic-grade_00271",
+        "model_name": "transformer_ranker",
+        "response": "I understand it is usually hard moving to a new city leaving some many people and placed behind"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                5,
+                2,
+                2,
+                4,
+                3,
+                1,
+                1
+            ]
+        },
+        "context": "I got to hear a lot of cool songs on a radio station I usually don't listen to.\nNice! Which ones did you hear!",
+        "dialogue_id": "empathetic-grade_00272",
+        "model_name": "transformer_ranker",
+        "response": "Oh cool. I love visiting car shows myself."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "I wore wrong pair of socks to the college. But, no was there to spot it. But, when we have to go in for a church we have to first remove the shoes. At, that time friend of mine spotted with with wrong pair of shoes. They made a fun of me. That was very awkward situation.\nOh that sucks :( Maybe organize the socks better?",
+        "dialogue_id": "empathetic-grade_00273",
+        "model_name": "transformer_ranker",
+        "response": "That's true. It's nice of you to put yourself in their shoes."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                4,
+                5,
+                2,
+                4,
+                4,
+                2,
+                1
+            ]
+        },
+        "context": "They arrested 9 people at a nearby farm for animal cruelty and they are already out of jail on bond!\nOh, that's not right. I have a rescue dog, she had a litter of puppies at a puppy mill before she was a year.",
+        "dialogue_id": "empathetic-grade_00274",
+        "model_name": "transformer_ranker",
+        "response": "Perhaps she had an upset tummy or something.  Sometimes with dogs it's hard to tell."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                5,
+                1,
+                5,
+                2,
+                5,
+                1,
+                2
+            ]
+        },
+        "context": "I was quite distressed to hear of the passing of Anthony Bourdain. That someone who has given so much joy to a huge number of people should take his own life is just awful.\nI know!  I was just watching his show on Netflix!  So sad, especially since he had a little girl he is leaving behind.",
+        "dialogue_id": "empathetic-grade_00275",
+        "model_name": "transformer_ranker",
+        "response": "I'm sure he will! Best of luck to him!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                3,
+                2,
+                5,
+                5,
+                2,
+                1,
+                2
+            ]
+        },
+        "context": "I'm pretty excited for the upcoming Halloween season.\nI am too! What are your plans?",
+        "dialogue_id": "empathetic-grade_00276",
+        "model_name": "transformer_ranker",
+        "response": "Hiking and kayaking? Wow! Better pack some trail mix."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                4,
+                2,
+                5,
+                3,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "Not until about 8am, but it's so loud I can hear it in my first floor apartment with the doors and windows closed. Idiot man!\nSo inconsiderate! It reminds me of my neighbours doing building work one morning at 6AM!",
+        "dialogue_id": "empathetic-grade_00277",
+        "model_name": "transformer_ranker",
+        "response": "Maybe you should child proof the house."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                1,
+                5,
+                2,
+                4,
+                2,
+                4
+            ]
+        },
+        "context": "So I asked out a girl in my class and she said yes. Was a big morale boost.\nim glad to hear that!",
+        "dialogue_id": "empathetic-grade_00278",
+        "model_name": "transformer_ranker",
+        "response": "Thats good! I would of been anxious to get out of that place if that happend."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                1,
+                5,
+                2,
+                4,
+                1,
+                4
+            ]
+        },
+        "context": "I was horribly wronged by someone I thought I could trust. The feeling was devastating, and I've always struggled with forgiveness.\nOh my, what happened? I'm so sorry, no one should treat anyone they care about poorly.",
+        "dialogue_id": "empathetic-grade_00279",
+        "model_name": "transformer_ranker",
+        "response": "that's sad news, i am sorry for this news you must have been extra drained after coming back from work from that news"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                2,
+                4,
+                4,
+                3,
+                5,
+                4,
+                5
+            ]
+        },
+        "context": "My partner left me the other day.\nThat's rough, I'm sorry to hear that",
+        "dialogue_id": "empathetic-grade_00280",
+        "model_name": "transformer_ranker",
+        "response": "Being a punching bag in a relationship is no good. It's a 2 way street. Is your partner doing their part?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                3,
+                2,
+                4,
+                4,
+                3,
+                3,
+                4,
+                4
+            ]
+        },
+        "context": "I told a lie to my mother.\nWas it a bad one? And did she find out?",
+        "dialogue_id": "empathetic-grade_00281",
+        "model_name": "transformer_ranker",
+        "response": "Was she mad at you?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                2,
+                3,
+                4,
+                4,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "I feel the same way.\nHow do you channel the anger? Obviously, it too easily turns into the same kind of negative emotion I'm upset about -- so that can feel hypocritical!",
+        "dialogue_id": "empathetic-grade_00282",
+        "model_name": "transformer_ranker",
+        "response": "I am too.  I don't go out much so maybe you should make sure you do that"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                3,
+                3,
+                4,
+                4,
+                3,
+                4,
+                5,
+                3
+            ]
+        },
+        "context": "I was annoyed when my favorite show wasn't on\nwhat did you end up watching instead",
+        "dialogue_id": "empathetic-grade_00283",
+        "model_name": "transformer_ranker",
+        "response": "Well thats disappointing. Maybe you can find a show similar to it to watch."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                3,
+                4,
+                4,
+                3,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "My dad called me one day crying out for help. I had to drive over to his house.\nOh my goodness! What happened?",
+        "dialogue_id": "empathetic-grade_00284",
+        "model_name": "transformer_ranker",
+        "response": "Wow good for him. Now he can drive you around."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                5,
+                3,
+                1,
+                2,
+                5,
+                4,
+                5
+            ]
+        },
+        "context": "oopsy. I hope it was worth it.\nIt might not be when my wife returns and sees it gone. I look super guilty right now.",
+        "dialogue_id": "empathetic-grade_00285",
+        "model_name": "transformer_ranker",
+        "response": "your husband is a lucky guy!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                1,
+                2,
+                5,
+                4,
+                4
+            ]
+        },
+        "context": "I ate way too many sweets today!\ntheres always tomorrow!",
+        "dialogue_id": "empathetic-grade_00286",
+        "model_name": "transformer_ranker",
+        "response": "Well done! What are you going to spend it on?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                4,
+                2,
+                1,
+                2,
+                5,
+                4,
+                3
+            ]
+        },
+        "context": "I was heartbroken when my mom told me that my childhood dog had died\nOh god.. sorry.. How are you holding up?",
+        "dialogue_id": "empathetic-grade_00287",
+        "model_name": "transformer_ranker",
+        "response": "Aw I am so sorry to hear of your dogs passing. It's hard to lose a pet. We just lost our cat this year."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                3,
+                3,
+                1,
+                2,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "I'm a little anxious about an upcoming move. It's to a *very* different state with a *very* different climate and way of life!\nWhat is the state and do you like change?",
+        "dialogue_id": "empathetic-grade_00288",
+        "model_name": "transformer_ranker",
+        "response": "It sounds like you're patient and prepared to take it. I wish the best for you guys!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                3,
+                1,
+                2,
+                5,
+                4,
+                4
+            ]
+        },
+        "context": "I have only a few more semesters in college. I feel very hopeful about my chances of finishing.\nThat's awesome. What are you majoring in?",
+        "dialogue_id": "empathetic-grade_00289",
+        "model_name": "transformer_ranker",
+        "response": "Awesome!  I bet that's a really versatile degree, you should be really successful!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                5,
+                3,
+                1,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "I sold some stuff I didnt need last week.\ndid yo make some good money?",
+        "dialogue_id": "empathetic-grade_00290",
+        "model_name": "transformer_ranker",
+        "response": "Thats what you should do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                4,
+                3,
+                3,
+                1,
+                3,
+                3,
+                3
+            ]
+        },
+        "context": "i cant believe the growth video games are having this past couple of years\nWhat do you mean by that? I'm not a gamer really",
+        "dialogue_id": "empathetic-grade_00291",
+        "model_name": "transformer_ranker",
+        "response": "I love video games. Thats not a bad weekend"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                2,
+                3,
+                1,
+                2,
+                2,
+                1
+            ]
+        },
+        "context": "I've been teaching my young daughter to play video games with me, she's such a quick learner.\nWhat video games are the two of you playing?",
+        "dialogue_id": "empathetic-grade_00292",
+        "model_name": "transformer_ranker",
+        "response": "Good. I hope you enjoy the game and play well."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                4,
+                3,
+                1,
+                4,
+                2,
+                1
+            ]
+        },
+        "context": "I am so proud of my sister\nWhat did she do?",
+        "dialogue_id": "empathetic-grade_00293",
+        "model_name": "transformer_ranker",
+        "response": "You got a good sister!"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                2,
+                3,
+                1,
+                1,
+                2,
+                1
+            ]
+        },
+        "context": "I enjoy visiting the nursing home on occasion.\nOh yeah?  Do you know someone that lives there?",
+        "dialogue_id": "empathetic-grade_00294",
+        "model_name": "transformer_ranker",
+        "response": "Nice, you must do whatever you want each day."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                5,
+                1,
+                4,
+                5,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "I see, you must have felt hopeful\nI gave thanks in spite of the difficulties",
+        "dialogue_id": "empathetic-grade_00295",
+        "model_name": "transformer_ranker",
+        "response": "Thats what you should do"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                1,
+                1,
+                4,
+                2,
+                4,
+                5,
+                3
+            ]
+        },
+        "context": "No matter how many times I told her that I didn't do it, my roommate insisted that I ate her ice cream last night! Unbelievable!\nWell, did you eat her ice cream?",
+        "dialogue_id": "empathetic-grade_00296",
+        "model_name": "transformer_ranker",
+        "response": "Wow, that is really thoughtful."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                5,
+                1,
+                1,
+                4,
+                2,
+                3,
+                5,
+                3
+            ]
+        },
+        "context": "I tripped and fell in front of some people.\nOuch! Was it a serious fall?",
+        "dialogue_id": "empathetic-grade_00297",
+        "model_name": "transformer_ranker",
+        "response": "Oh my god, I would have been so embarrassed! How'd you react?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                5,
+                2,
+                1,
+                4,
+                2,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "Are you cleaning out a house or do you not have garbage pick-up?\nThe company in my city just quit picking up for any of the residents, so the dump has a line every day.",
+        "dialogue_id": "empathetic-grade_00298",
+        "model_name": "transformer_ranker",
+        "response": "That too bad. They are other work from home opportunities though."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                1,
+                1,
+                4,
+                2,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "I had to wait in line for 15 minutes at the store today. There was only one poor cashier working.\nThat must of been a pain! I hate waiting in lines for cashiers, they are so slow sometimes.",
+        "dialogue_id": "empathetic-grade_00299",
+        "model_name": "transformer_ranker",
+        "response": "That sounds pretty healthy.  Have you always been this health conscious"
+    }
+]

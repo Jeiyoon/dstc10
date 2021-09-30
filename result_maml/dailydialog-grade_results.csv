@@ -1,0 +1,601 @@
+context,dialogue_id,model_name,response,annotations.relevance,am_scores,fm_scores,am_fm_scores
+"yes , that's my only day off until Thursday .
+ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?",dailydialog-grade_00000,transformer_generator,ok . I ' ll be there in the afternoon .,0.2944357454254621,0.08303666146610057,0.5058348293848236,0.2944357454254621
+"Hello , 332440 .
+Oh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?",dailydialog-grade_00001,transformer_generator,"This is Jim , please .",0.21755190382447376,0.13858303039799608,0.29652077725095144,0.21755190382447376
+"If only our company prescribe flex time .
+The board has been considering introducing flex time .",dailydialog-grade_00002,transformer_generator,"But it ' s not a very high - worker , but it ' s not a very high - time job .",0.19597903407608297,0.00803430945625388,0.38392375869591205,0.19597903407608297
+"Thank you so much . Does he read his e-mails daily ?
+Yes . He usually replies immediately .",dailydialog-grade_00003,transformer_generator,"Oh , he ' s a man of the first person . He ' s a successful successful successful man .",0.25296509295132796,0.12260422223538109,0.3833259636672748,0.25296509295132796
+"I'll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup .
+Ok . What do you think about our living room ?",dailydialog-grade_00004,transformer_generator,It ' s a very good idea .,0.28043958694876325,0.11871432712007107,0.4421648467774555,0.28043958694876325
+"I want to take a look at that home with the Open House flags out front .
+What a wonderful neighborhood ! Can you find that house on our Open House list ?",dailydialog-grade_00005,transformer_generator,I am sorry I can ' t go there .,0.23381092823707186,0.06420713385636466,0.40341472261777905,0.23381092823707186
+"Take it easy . We are going to have our own baby . You should be happy .
+Yeah , I know .",dailydialog-grade_00006,transformer_generator,"Well , you know .",0.26107685528220975,0.14334558145119738,0.37880812911322215,0.26107685528220975
+"Wow ! Your calligraphy is very beautiful . It was worth the wait !
+Thank you . Today I'm writing a kind of poem called a Chinese couplet .",dailydialog-grade_00007,transformer_generator,It ' s so bad .,0.21311900036387843,0.060839357270138505,0.36539864345761836,0.21311900036387843
+"Anything wrong with it ?
+Yes . When I spread it out back home , I found this hole .",dailydialog-grade_00008,transformer_generator,How do you think it is ?,0.3063444659835542,0.09171217311180035,0.520976758855308,0.3063444659835542
+"The service did not help the situation .
+Is this a restaurant that you want to come back to ?",dailydialog-grade_00009,transformer_generator,I am afraid I can ' t make it .,0.25681266375800926,0.07699451872072405,0.4366308087952944,0.25681266375800926
+"Well , there will be charity performance on Saturday night . And also , there will be a solo concert by an opera star on Sunday night .
+It's a good thing that I have choices here . Can you tell me about the one on Saturday ?",dailydialog-grade_00010,transformer_generator,"Sure , let ' s go to the concert with a night .",0.22055683805563556,0.10006122510387687,0.34105245100739423,0.22055683805563556
+"What do you think about the equipment in our company ?
+We have to equip our company with a network of work stations at every office and show room as soon as possible .",dailydialog-grade_00011,transformer_generator,"We have a lot of work , but we have to work overtime . We need to work with a company .",0.30782759302184043,0.11158029794515635,0.5040748880985245,0.30782759302184043
+"I shouted it back of course .
+Hold it , Mike . You won't accomplish anything by hollering at him , right ? You worked it all up till now . Why not wait until you cool down a bit ?",dailydialog-grade_00012,transformer_generator,I ' ve been a little sick for a while . I was a little boy and I haven ' t lost my temper .,0.25048230662580157,0.01768970620182134,0.48327490704978177,0.25048230662580157
+"What did they say ?
+They said I need a new hard drive .",dailydialog-grade_00013,transformer_generator,They are very good .,0.1954593928087869,0.11304528112169258,0.2778735044958812,0.1954593928087869
+"That is right up my alley . You say party and I'm there .
+Perfect . It will be open to the public and we anticipate roughly about five to seven hundred people .",dailydialog-grade_00014,transformer_generator,Are you serious ?,0.05536445494208288,0.033893818524057595,0.07683509136010816,0.05536445494208288
+"I can check that for you right now . Would you mind holding ?
+Sure . No problem .",dailydialog-grade_00015,transformer_generator,I ' m afraid I can ' t .,0.24848145282101816,0.07267650231879091,0.4242864033232454,0.24848145282101816
+"Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !
+Oh no you didn't . You didn't just insult the Sals-bury Seals , did you ? Why don't you just . just go and return all of those stupid clothes and not come back until the sales are over ?",dailydialog-grade_00016,transformer_generator,I ' m not so serious ! I ' m just gonna go to the game .,0.2616576502375947,0.06542880878606981,0.45788649168911955,0.2616576502375947
+"I wasn't all that impressed by the food .
+The service certainly could have been better .",dailydialog-grade_00017,transformer_generator,What do you think of the food ?,0.3120193788669191,0.10153922328321535,0.5224995344506229,0.3120193788669191
+"Me ? No way , keep him away from me , please .
+Why are you acting so strange today ?",dailydialog-grade_00018,transformer_generator,Because he ' s a little boy .,0.21584969303096194,0.0731148909965136,0.3585844950654103,0.21584969303096194
+"Did you lend him a lot of money ?
+Not much . I had to pay an unexpected bill , so I needed the money back .",dailydialog-grade_00019,transformer_generator,I didn ' t pay attention to it .,0.3138533117636581,0.08979650931045043,0.5379101142168657,0.3138533117636581
+"Here you are .
+Thanks . What kind of stone is this ?",dailydialog-grade_00020,transformer_generator,I ' m going to have a big fan of meat .,0.269311240934995,0.09817498966997426,0.44044749220001567,0.269311240934995
+"Excuse me . Do you mind if I try this on ?
+Not at all . The changing rooms are just this way .",dailydialog-grade_00021,transformer_generator,"I am sorry , but I ' m afraid I can ' t .",0.24184997567939193,0.016332675242972713,0.46736727611581114,0.24184997567939193
+"Well , it's specially made of a platinum alloy , sir , and the lustre will never fade out .
+I'II take them . Please wrap them up tor me and give me the receipt .",dailydialog-grade_00022,transformer_generator,OK . I ' ll take it .,0.21903593486876283,0.0992929784106881,0.3387788913268376,0.21903593486876283
+"That's for the phone calls you made from your room .
+Can I pay with traveller's cheques ?",dailydialog-grade_00023,transformer_generator,"Yes , I have .",0.141017309341423,0.09575759751059734,0.18627702117224867,0.141017309341423
+"Yes , I have been working in the Public Relations Section of a company in the past two years . I plan the advertising campaign and cooperate the work of artists and typographers . Sometimes I have to do the work of a specialist when there's something urgent .
+Do you have any practical experience as a secretary ?",dailydialog-grade_00024,transformer_generator,"I ' m not familiar with the company , but I don ' t have any other questions . I ' m not familiar with the customer . I ' m afraid I can ' t do any other things .",0.2953987953324251,0.03714988300289771,0.5536477076619525,0.2953987953324251
+"How long will the induction training be ?
+About two weeks .",dailydialog-grade_00025,transformer_generator,You ' re welcome .,0.15442283962771527,0.005135000665337844,0.3037106785900927,0.15442283962771527
+"Yeah , about .
+Do you know Chinese better now ?",dailydialog-grade_00026,transformer_generator,I know . But I know you ' re a student now .,0.18612388456520204,0.11113431718246569,0.2611134519479384,0.18612388456520204
+"Hum , Edward Norton , or something like that . Did you like him ?
+Yes . He was excellent . They worked well together , don't you think ?",dailydialog-grade_00027,transformer_generator,"Yes , I was a little boy .",0.16817943572511715,0.06523929588415474,0.2711195755660796,0.16817943572511715
+"What sort of job would you like to take ?
+I prefer a sedentary job and I used to work as an operator .",dailydialog-grade_00028,transformer_generator,What kind of job do you want ?,0.32650412175008614,0.02637179765449337,0.6266364458456789,0.32650412175008614
+"Yes , I'd like a book about law .
+Would you tell me the name of the book and the author ?",dailydialog-grade_00029,transformer_generator,It ' s author author .,0.11999459347165789,0.06893345981843303,0.17105572712488273,0.11999459347165789
+"I like the sound of that .
+Yes , that is today's sale price .",dailydialog-grade_00030,transformer_generator,"I ' m sorry , but I didn ' t expect you to pay for it .",0.328617637225572,0.0960519534906417,0.5611833209605024,0.328617637225572
+"Good morning .
+What does the paper say ?",dailydialog-grade_00031,transformer_generator,It means that you can only afford it .,0.2308619508118728,0.09154832868763417,0.3701755729361114,0.2308619508118728
+"All right , can I have your passbook ?
+Yes , here you go .",dailydialog-grade_00032,transformer_generator,I want to go to the bank .,0.2773668101481033,0.0627610224338917,0.49197259786231495,0.2773668101481033
+"I'm very sorry to hear that . May I have your name and room number , please ?
+Yes , it's Yao Lan . Room 406 .",dailydialog-grade_00033,transformer_generator,Thanks .,0.06199871849925085,0.1127377655277037,0.011259671470797993,0.06199871849925085
+"I should tell you that I'm checking out in about 30 minutes .
+I'm ready when you are , sir .",dailydialog-grade_00034,transformer_generator,I ' m afraid I ' ll be back in a minute .,0.32726223379838,0.11396009120754898,0.540564376389211,0.32726223379838
+"Hello ! How do I get more amenities ?
+I'm sorry , sir . I'm not sure I understand .",dailydialog-grade_00035,transformer_generator,"Well , sir , you are quite right .",0.29990772313496794,0.12859134044113252,0.4712241058288033,0.29990772313496794
+"And they will yell back at you .
+Yelling doesn't do any good .",dailydialog-grade_00036,transformer_generator,I ' ll go .,0.20919718410905166,0.0939810496280893,0.32441331859001404,0.20919718410905166
+"The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it .
+No , but we'Ve got a hurry . It will be the rush hour soon .",dailydialog-grade_00037,transformer_generator,I ' m afraid we can ' t wait until the traffic jam .,0.3331094640611653,0.15702933848077663,0.509189589641554,0.3331094640611653
+"What style do you want ?
+I want to buy a V-neck checked sweater , and it should be tight .",dailydialog-grade_00038,transformer_generator,OK . Here you are .,0.019667471961939124,0.023495843563050272,0.01583910036082798,0.019667471961939124
+"Mr . Smith , please .
+Sorry , he is out .",dailydialog-grade_00039,transformer_generator,"I ' m sorry , Mr . Smith .",0.18092176359687678,0.09679388095594146,0.2650496462378121,0.18092176359687678
+"Surely of course .
+Here is the film . Can I get my pictures tomorrow ?",dailydialog-grade_00040,transformer_generator,Sure . What is it ?,0.10386900752473396,0.09011393076768325,0.11762408428178468,0.10386900752473396
+"I need to stay home tonight and finish my term paper .
+OK . What about going to the movies on Friday night ?",dailydialog-grade_00041,transformer_generator,I ' m not sure .,0.30482800251115943,0.08758663414019836,0.5220693708821205,0.30482800251115943
+"Let me check . Yes , we have .
+May I try it on ?",dailydialog-grade_00042,transformer_generator,Here you are .,0.0545053999153339,0.08486375094282403,0.024147048887843775,0.0545053999153339
+"And they're very dear , too .
+They're on special offer today .",dailydialog-grade_00043,transformer_generator,"They ' re quite different , but they ' re not going to be able to get a raise .",0.3379594621668728,0.14141437195205586,0.5345045523816897,0.3379594621668728
+"You can't come any earlier than that ?
+I'm sorry . That's the only available time .",dailydialog-grade_00044,transformer_generator,What time does the next time ?,0.21302390846334995,0.1183309629819735,0.3077168539447264,0.21302390846334995
+"Hello .
+Hi . It's Tony calling from the dentist's office . Is Lily there ?",dailydialog-grade_00045,transformer_generator,"Yes , he is .",0.22943615831427613,0.06464009961625306,0.3942322170122992,0.22943615831427613
+"Excuse me . I have an appointment with Mr . Li at nine . May I come in ?
+Yes , come in please . I am Mr . Li . You must be My Liu , right ?",dailydialog-grade_00046,transformer_generator,"Yes , I am . I am afraid I can ' t .",0.18995283292037698,0.037562964730727115,0.34234270111002685,0.18995283292037698
+"You need a babysitter .
+Yes , I'd ask Jill , the girl I've had before , but I need someone overnight . Maybe even for two nights .",dailydialog-grade_00047,transformer_generator,"I know , but I ' m a girl of my own friends .",0.24365865215111454,0.1379744344058483,0.3493428698963808,0.24365865215111454
+"What is it ? What happened ?
+I think someone is stalking me .",dailydialog-grade_00048,transformer_generator,"Yeah , I just got it . I just got it . I just got it .",0.287273352230501,0.09705888087410963,0.4774878235868924,0.287273352230501
+"What is it used for ? I mean , why bother to get this special account ?
+Group companies can use this to make their arrangement of funds flexible , when dealing with their subsidiaries .",dailydialog-grade_00049,transformer_generator,What does the company have ?,0.1222840085822083,0.0,0.2445680171644166,0.1222840085822083
+"The boss wanted to pay Bob with stock options . But Bob didn't want to play that game again .
+Again ?",dailydialog-grade_00050,transformer_generator,I don ' t know . I don ' t know .,0.3129057646918922,0.069977841487743,0.5558336878960414,0.3129057646918922
+"Shall we drop in somewhere for a couple of drinks ?
+That sounds like a good idea .",dailydialog-grade_00051,transformer_generator,What do you mean ?,0.2413352486170358,0.11669316949045175,0.36597732774361985,0.2413352486170358
+"Ah , some products are successful at home , but not be popular overseas .
+That's because the fashion , taste and social customs and so on vary considerably .",dailydialog-grade_00052,transformer_generator,I see . I ' ll look for you to find a job .,0.22017569650499724,0.017232807297891006,0.4231185857121035,0.22017569650499724
+"How can you be so sure ?
+I can tell form the way he spoke to us .",dailydialog-grade_00053,transformer_generator,I see .,0.09282997478068604,0.08687637651505077,0.09878357304632131,0.09282997478068604
+"You know , I fell in love with this house the first moment I laid eyes on it .
+The style of the exterior is just what I'Ve been looking for !",dailydialog-grade_00054,transformer_generator,Have you ever been to the windows ?,0.23102151563864512,0.10992305425500233,0.3521199770222879,0.23102151563864512
+"I want to go traveling .
+Do you have any where in mind ?",dailydialog-grade_00055,transformer_generator,I ' m not sure .,0.3213295865208997,0.10293862530674243,0.539720547735057,0.3213295865208997
+"Not bad .
+Say I've got two tickets for the concert this evening . Would you like to come with me ?",dailydialog-grade_00056,transformer_generator,That ' s fine .,0.2300519540302476,0.09275163800227391,0.3673522700582213,0.2300519540302476
+"With everything , with everybody , with all this !
+A good suggestion for you . You need a holiday .",dailydialog-grade_00057,transformer_generator,What ?,0.03922205040530547,0.07844410081061094,0.0,0.03922205040530547
+"Good afternoon . I come here specially to pick up my tickets . I booked it last month . This is my reservation note .
+I am terribly sorry . You didn't come to reconfirm recently . You should have come to pick up your ticket three days ago since it's an international flight , any reservation without reconfirmation within 72 hours will be cancelled .",dailydialog-grade_00058,transformer_generator,That ' s fine . We will have a reservation for us .,0.18792041476747276,0.08360498325513245,0.2922358462798131,0.18792041476747276
+"Are these the clothes you want to have washed ?
+Yes . When can I get them back ?",dailydialog-grade_00059,transformer_generator,"You can wash the clothes without clothes , and then you will be washed by the window .",0.16233527871756687,0.0,0.32467055743513373,0.16233527871756687
+"Exactly ! I searched on the web and found a couple of HMO's with low co-pays and good coverage . The deductibles are low , too .
+Sounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money .",dailydialog-grade_00060,transformer_generator,"If we are not , we should start to work overtime , we should start the rest .",0.22539090103199438,0.04152950375142819,0.4092522983125606,0.22539090103199438
+"Then tell me something about your background .
+My major was computer science when I was at college , and I am quite familiar with Visual C + + and Java language .",dailydialog-grade_00061,transformer_generator,What ' s your computer qualifications ?,0.15404449704197637,0.07781113784099453,0.23027785624295818,0.15404449704197637
+"Hi . What's your name ?
+My name is Jung Min . What's your name ?",dailydialog-grade_00062,transformer_generator,It ' s Snow .,0.02227991511861014,0.04455983023722028,0.0,0.02227991511861014
+"Great ! B , most of the items listed are available this year . I hope we can come to an agreement and sign the contracts , so as to enable our timely delivery .
+That sounds good . But I have a proposal now .",dailydialog-grade_00063,transformer_generator,We have a problem with your business . We will be ready by Thursday .,0.1763063540635762,0.08417482346115791,0.2684378846659945,0.1763063540635762
+"Why don't you watch where you're going ?
+Me ? You're the one who pulled out in front of me !",dailydialog-grade_00064,transformer_generator,I ' m not sure .,0.2696159922086468,0.08130964289981224,0.45792234151748135,0.2696159922086468
+"How much is that one ?
+It's two hundred and eighty dollars .",dailydialog-grade_00065,transformer_generator,That ' s good .,0.24069477865287436,0.09243334887818762,0.3889562084275611,0.24069477865287436
+"I need to book a plane ticket to London .
+Round-trip or one-way ?",dailydialog-grade_00066,transformer_generator,When will you be arriving ?,0.23601392335855556,0.0569660201306158,0.4150618265864953,0.23601392335855556
+"I don't know . But this is definitely the last straw .
+Maybe you should start seeing someone else .",dailydialog-grade_00067,transformer_generator,"I ' m sorry , but I ' m not sure .",0.3257688318582697,0.12121949824279211,0.5303181654737473,0.3257688318582697
+"Oh , I know a place where you might like to eat .
+Is it close by ?",dailydialog-grade_00068,transformer_generator,I think you ' re right .,0.2432637456844335,0.08218837250567794,0.4043391188631891,0.2432637456844335
+"That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?
+It's all the way to the back . See that yellow door ?",dailydialog-grade_00069,transformer_generator,"Yes , it ' s my first time .",0.2922939866245387,0.07546417130789204,0.5091238019411853,0.2922939866245387
+"I think that's just steam . Your engine's overheated .
+Do you know a lot about cars ?",dailydialog-grade_00070,transformer_generator,"No , I don ' t .",0.2750805861920694,0.1004481322149595,0.4497130401691793,0.2750805861920694
+"Sorry . I was too worried .
+I firmly believe that you love your brother very much .",dailydialog-grade_00071,transformer_generator,"Oh , I ' m sorry . I ' ve never heard about it .",0.2557944624127413,0.10223509209970934,0.40935383272577325,0.2557944624127413
+"Not really . I don't think pop music has much depth .
+I see what you mean . I think that's way I like it so much .",dailydialog-grade_00072,transformer_generator,Really ? What ' s that ?,0.12667081472918534,0.10445848841176152,0.14888314104660916,0.12667081472918534
+"Fine . I'll take the compact .
+Alright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?",dailydialog-grade_00073,transformer_generator,"Yes , I ' d like to .",0.24564706191809813,0.041649964832920196,0.44964415900327603,0.24564706191809813
+"Um , ninety-five dollars ?
+Yes , that's the price they were advertising it at . I was hoping it might go on sale soon . Why , how much did you pay for it ?",dailydialog-grade_00074,transformer_generator,"Well , I think it ' s a little expensive .",0.2806047941132772,0.08497784913405715,0.4762317390924972,0.2806047941132772
+"I went to Salt Lake City on business . What's up ?
+I got fired .",dailydialog-grade_00075,transformer_generator,Really ? Why ?,0.03422859151072078,0.06845718302144156,0.0,0.03422859151072078
+"Really ? Wow with who ?
+This girl I've been chatting with for the past couple of months . She's really cool and she's driving over here this weekend .",dailydialog-grade_00076,transformer_generator,"Oh , I know . I ' ve heard that she ' s going to be a good thing .",0.2913484764159084,0.10024820731080261,0.4824487455210142,0.2913484764159084
+"Why aren't you eating anything else ?
+Well , fruits and vegetables are very healthy .",dailydialog-grade_00077,transformer_generator,What kind of vegetables do you want to eat ?,0.33740822991357833,0.04610471106984815,0.6287117487573085,0.33740822991357833
+"Lucky you ! I can't buy anything else . I'm flat broke .
+I got a replace my party outfit , I trashed it last week .",dailydialog-grade_00078,transformer_generator,You did a good one . It was a little hard on me .,0.22967707238057536,0.07071051383993893,0.3886436309212118,0.22967707238057536
+"It is an exhibition of Chinese jades . It is held each year . A nice collection jades of are on display and sold .
+Sounds great ! Can you stop somewhere here for a minute ? I will get some souvenirs for my friends .",dailydialog-grade_00079,transformer_generator,"Oh , I am really sorry . I have been looking forward to seeing you .",0.2659498745530288,0.10473766022186992,0.4271620888841877,0.2659498745530288
+"Have you ever tried shopping online ?
+No , never . I prefer to actually see and touch what I'm buying before I pay for it , especially for clothes and shoes .",dailydialog-grade_00080,transformer_generator,What about the size ?,0.10515961453797087,0.0,0.21031922907594175,0.10515961453797087
+"How nice of him . I'll be delighted to go . But what time would be convenient ?
+If you could be ready by , say 6:30 o'clock , I'll be at the hotel to pick you up .",dailydialog-grade_00081,transformer_generator,That ' s fine .,0.22239563117183697,0.0765586607379907,0.3682326016056832,0.22239563117183697
+"Barely . Will you be checking any luggage today ?
+Yes , One suitcase . I also have a carry-on bag .",dailydialog-grade_00082,transformer_generator,Do you have anything to declare ?,0.21625439569232066,0.05578895773829394,0.37671983364634737,0.21625439569232066
+"I'm Du Juan , in Room 312 .
+I see . Wait in the room , please .",dailydialog-grade_00083,transformer_generator,OK .,0.03382776557719684,0.06765553115439368,0.0,0.03382776557719684
+"What do you feel about gay marriage ?
+I think everyone has the right to love who they want .",dailydialog-grade_00084,transformer_generator,They ' re really popular .,0.21739398882579353,0.12365793132336601,0.31113004632822105,0.21739398882579353
+"The bartender just gave the last call . Let's order another round , okay ?
+Sure , but let's get a pitcher this time We should be able to down it before they close .",dailydialog-grade_00085,transformer_generator,That ' s good . I ' ll be there .,0.2655702181343324,0.04892882206679559,0.48221161420186925,0.2655702181343324
+"How do you do ? Please be seated , How is your trip here ?
+Quite good , I think . I came here by bus , and it took me about 15 minutes .",dailydialog-grade_00086,transformer_generator,Really ?,0.008058132334299818,0.016116264668599636,0.0,0.008058132334299818
+"Does the class start again , Mam ?
+Yes , but to the heath , this break has long enough .",dailydialog-grade_00087,transformer_generator,"Yes , but I have a lot of time .",0.24287057961291794,0.062105861653940324,0.42363529757189555,0.24287057961291794
+"Sure ! Are you okay ? You seem a bit worried . What's on your mind ?
+We need to talk .",dailydialog-grade_00088,transformer_generator,I need to talk with you .,0.37486663034316137,0.18732819269885898,0.5624050679874637,0.37486663034316137
+"Good afternoon ! Trans Pacific Airline . How can I help you ?
+I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",dailydialog-grade_00089,transformer_generator,Sure . I ' m afraid you can ' t .,0.19558632421450978,0.033160856949577176,0.3580117914794424,0.19558632421450978
+"Have I got a high fever ?
+Yes , thirty-eight point seven . Do you have a headache , chest or throat pain ?",dailydialog-grade_00090,transformer_generator,"No , I don ' t . I don ' t have a fever .",0.29608310364448653,0.09688129839142995,0.4952849088975431,0.29608310364448653
+"That one truly is a beautiful piece of work , isn't it ?
+One last question",dailydialog-grade_00091,transformer_generator,"Yes , I do .",0.06677848408531123,0.08104572756521093,0.05251124060541153,0.06677848408531123
+"You'll need to make an appointment .
+Could I do that right now , please ?",dailydialog-grade_00092,transformer_generator,I ' m sorry . I can ' t .,0.2891183427413629,0.08952731566915709,0.4887093698135687,0.2891183427413629
+"You get your bus pass ?
+I'm not going to buy one .",dailydialog-grade_00093,transformer_generator,How much do you want to get ?,0.32747911352033615,0.10313717640504798,0.5518210506356244,0.32747911352033615
+"You're made a good choice . This china tea set is unusual .
+Where was it from ?",dailydialog-grade_00094,transformer_generator,It was great . But I didn ' t know you were in the middle of the tea .,0.23759179325182475,0.07389304355294629,0.4012905429507032,0.23759179325182475
+"Well , you should come this weekend . I think you could do the climb .
+Yeah , I will . See you then !",dailydialog-grade_00095,transformer_generator,See you !,0.10309759319455321,0.058411119275093036,0.14778406711401337,0.10309759319455321
+"Let me guess , from Sarah . It looks like something she would drive .
+You guessed right . Besides , the color violet is a little girly for me .",dailydialog-grade_00096,transformer_generator,What ?,0.03737572764666312,0.07475145529332625,0.0,0.03737572764666312
+"Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .
+It's nice to meet you , Mr . Cooper .",dailydialog-grade_00097,transformer_generator,"Yes , I ' m glad to hear you .",0.28429920827294963,0.1720819845828688,0.3965164319630305,0.28429920827294963
+"Have you ever listened to AM radio ? It's quite a different experience than the traditional news stations on TV and FM radio .
+I don't remember the last time I listened to AM radio .",dailydialog-grade_00098,transformer_generator,But you should have a lot of money .,0.23757996104087906,0.021975257402319957,0.45318466467943813,0.23757996104087906
+"It is too bad today .
+What happened ?",dailydialog-grade_00099,transformer_generator,It was a little accident .,0.21202284562049192,0.11265902476075006,0.3113866664802338,0.21202284562049192
+"Hey Tina . What are you doing ?
+I was just watching TV . What's going on with you ?",dailydialog-grade_00100,transformer_generator,I ' m going to the movies .,0.3261970963257266,0.09392913422802253,0.5584650584234306,0.3261970963257266
+"Here's my name card .
+And here's mine .",dailydialog-grade_00101,transformer_generator,Thank you .,0.2374176192251099,0.11847955093063259,0.3563556875195872,0.2374176192251099
+"Thank you ! Would you like an aisle seat or a window seat ?
+An aisle seat , please . I'm tall and need to get up and walk pretty often .",dailydialog-grade_00102,transformer_generator,OK . I ' ll come back with you .,0.20528292041951357,0.04397965033452413,0.36658619050450303,0.20528292041951357
+"Why doesn't he ask her ?
+He is too scared to ask her .",dailydialog-grade_00103,transformer_generator,But I don ' t know .,0.20966902962729686,0.09792004022619227,0.32141801902840145,0.20966902962729686
+"What if I don't want to find another girl ?
+You'll change your mind . Look at everyone in the world . They all break up and move on . The faster you understand this , the quicker you will recover .",dailydialog-grade_00104,transformer_generator,Thank you .,0.23211580143244953,0.027181113912080362,0.43705048895281867,0.23211580143244953
+"I'd like to speak Dr . Johnson .
+Sorry , but he's not in . May I take a message for you ?",dailydialog-grade_00105,transformer_generator,"Yes , please .",0.21305218634944764,0.04981246845149769,0.3762919042473976,0.21305218634944764
+"Well , known , Jim , I'm  .  .  .  I'm pretty much in favour of your computers , I think computers teach kids to think , because they require logical thoughts .
+But I  .  .  .  I don't agree with thatbecause computers weaken kids'ability to thinkbecause kids don't learn basic skills .",dailydialog-grade_00106,transformer_generator,What do you mean ?,0.24993381874207166,0.0,0.4998676374841433,0.24993381874207166
+"I have a lot of luggage . Will those fit in the taxi ?
+Take it easy . I'll send a larger to pick you up .",dailydialog-grade_00107,transformer_generator,Thank you .,0.26017193505006164,0.08475442491928507,0.4355894451808382,0.26017193505006164
+"Anyway , the show is breathtaking . By the way , where did they get so much snow here ?
+Well , they have the most advanced snowmaking machine .",dailydialog-grade_00108,transformer_generator,"Yes , they did .",0.17178171791440885,0.06344373163644118,0.28011970419237653,0.17178171791440885
+"Nothing , Mummy . I was hungry so I came here for some milk .
+Milk ? I thought you didn't like milk .",dailydialog-grade_00109,transformer_generator,What about some of milk ?,0.16625509180116288,0.13675478403213462,0.19575539957019114,0.16625509180116288
+"Please be at the airport two hours before your departure to check in . You also need to reconfirm your reservation with the airline at least 7 days prior to your departure .
+What happens if I can't leave on April 13 ? Can I cancel my ticket or change the reservation to another date ?",dailydialog-grade_00110,transformer_generator,"No , you don ' t have to pay for your ticket .",0.2999169221214691,0.07226226370182354,0.5275715805411146,0.2999169221214691
+"Thank you for your inition . I'm free tonight .
+Which kind of food do you like , chinese food , western food or sea food ?",dailydialog-grade_00111,transformer_generator,I like it .,0.1747976896110307,0.04253165896720196,0.30706372025485945,0.1747976896110307
+"Yes . There have been a few there recently . They say that this one was not a big quake . The Iranians are dealing with it on their own . They have purchased some special equipment to find people buried u
+Does the newspaper say anything about casualties ?",dailydialog-grade_00112,transformer_generator,"For example , the people are in the past two months , as the people are in the country , but not as bad as the government is highly competitive .",0.22488920426713377,0.013802486392642898,0.4359759221416246,0.22488920426713377
+"Turn on the TV for what ?
+So that we can sit down together and listen to some music .",dailydialog-grade_00113,transformer_generator,Really ? What kind of music do you like ?,0.28775115266495493,0.0653813763314127,0.5101209289984971,0.28775115266495493
+"Yes , I'd like a glass of iced tea .
+Okay . I'll be back in a minute with your drink and salad .",dailydialog-grade_00114,transformer_generator,Thank you .,0.24384577148669648,0.0844270252932372,0.40326451768015575,0.24384577148669648
+"Wait a moment , please . Let me check it .
+By the way , I want a large room .",dailydialog-grade_00115,transformer_generator,Here you are .,0.14717541515675886,0.09541761671517394,0.19893321359834376,0.14717541515675886
+"It was alright . I ran into Bill and we got to talking for a while . He's in a bit of a jam .
+Why ? What happened ?",dailydialog-grade_00116,transformer_generator,"Well , he was a little accident .",0.16448341414277473,0.03452266007611996,0.2944441682094295,0.16448341414277473
+"Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .
+I'm sure . Okay , now let's move on to your work experience , shall we ?",dailydialog-grade_00117,transformer_generator,"Yeah , why not ?",0.18762560173808493,0.08280513902736265,0.2924460644488072,0.18762560173808493
+"Thank God ! I am finished writing that service guide ! It took me forever !
+When did you finish ?",dailydialog-grade_00118,transformer_generator,I had no time .,0.20865634661890456,0.11337557297058541,0.3039371202672237,0.20865634661890456
+"What's the matter , John ? you seemed to be restless today .
+You see , I've been offered a new job . I can't decide whether to take it or not .",dailydialog-grade_00119,transformer_generator,"Well , I ' ve got to say . I ' ve got a promotion .",0.25849610878163787,0.12109860332787337,0.3958936142354024,0.25849610878163787
+"Look ! Mom , that's amazing ! I can't believe the girls have so neat movements .
+Yeah , they all received very strict training . A minute on the stage takes ten-year practice .",dailydialog-grade_00120,transformer_generator,"Oh , no ! I see , you must have a lot of trouble with the pictures of the basketball team .",0.2606851870505605,0.07343057712003945,0.4479397969810815,0.2606851870505605
+"Thank you .
+What was your major in school ?",dailydialog-grade_00121,transformer_generator,I was born in college .,0.2050528659337255,0.08726031909771735,0.3228454127697336,0.2050528659337255
+"I didn't just find out about one job . There were several ones that looked good .
+Maybe I should try looking on the web for work .",dailydialog-grade_00122,transformer_generator,That ' s good .,0.24820812916738522,0.09893390894448807,0.3974823493902824,0.24820812916738522
+"Good afternoon ! Trans Pacific Airline . How can I help you ?
+I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",dailydialog-grade_00123,transformer_generator,Sure . I ' m afraid you can ' t .,0.19558632421450978,0.033160856949577176,0.3580117914794424,0.19558632421450978
+"The washer costs 50 cents and the dryer costs a dollar .
+Where do I put the change ?",dailydialog-grade_00124,transformer_generator,Do you need to change it for you ?,0.3351940272177762,0.14785672603360178,0.5225313284019506,0.3351940272177762
+"I see . We will go the day after tomorrow .
+By the way , what kind of stores do we need to go ?",dailydialog-grade_00125,transformer_generator,OK . Let ' s go .,0.093847599082902,0.09525391690215,0.09244128126365397,0.093847599082902
+"Heard what ?
+Deborah already had her baby .",dailydialog-grade_00126,transformer_generator,"Oh , what ?",0.08866470967344531,0.08583047642874721,0.09149894291814342,0.08866470967344531
+"I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily .
+Really ? Have you had an auto-reverse break before ?",dailydialog-grade_00127,transformer_generator,"I don ' t know , but I don ' t know how to use it .",0.33640935959890017,0.05665423850793064,0.6161644806898697,0.33640935959890017
+"How much per night are we talking about ?
+Each night will be $ 308 .",dailydialog-grade_00128,transformer_generator,$ 308 a night ?,0.23559073758200635,0.05446533195330444,0.41671614321070827,0.23559073758200635
+"This is Bill Burton from Milford Insurance , I'm calling in regards to our meeting next Tuesday .
+Thank you , Mr . Burton . Can you please hold for a moment ? I'll check to see if she is available .",dailydialog-grade_00129,transformer_generator,OK .,0.017632944520849972,0.035265889041699944,0.0,0.017632944520849972
+"First of all , we'll design a custom-made work-out plan according to your habits .
+How can you get that done ?",dailydialog-grade_00130,transformer_generator,"Well , I think we ' ll have a try .",0.23265743872514685,0.10180675389637285,0.36350812355392087,0.23265743872514685
+"You can touch them only between the shoulder and the knees .
+The touchdown lines are there and there . OK , let's play !",dailydialog-grade_00131,transformer_generator,No kidding ! I don ' t think I can see it .,0.21869163926500762,0.08166835083815666,0.3557149276918586,0.21869163926500762
+"I am not surprised , you eat too much .
+And I suppose sitting at the desk all day in the office doesn't help .",dailydialog-grade_00132,transformer_generator,"Yes , I think I should go to find a place where you are .",0.19691993192234394,0.10971192198732128,0.2841279418573666,0.19691993192234394
+"I would prefer next Thursday .
+What time would be best for you ?",dailydialog-grade_00133,transformer_generator,At 9 : 00 o ' clock .,0.0971228780240144,0.01702413341962816,0.17722162262840063,0.0971228780240144
+"Yes .
+What's the weather like in your country ?",dailydialog-grade_00134,transformer_generator,It ' s very hot . The summers are very rainy .,0.1894777361317963,0.07400974474473987,0.30494572751885274,0.1894777361317963
+"Don't feel like it . I'm broke .
+Well , we can still do some window shopping , can we ?",dailydialog-grade_00135,transformer_generator,I ' ll have to go to the hospital .,0.3074600914758528,0.08235344612455323,0.5325667368271524,0.3074600914758528
+"I Like pop music best . Classical music is a bit too heavy for me . I can't get fully relaxed in it .
+Pop music doesn't have any depth for me .",dailydialog-grade_00136,transformer_generator,"Oh , it ' s so interesting . I ' ve been to the past several years , I ' ve been to the movie , too .",0.2550015790197425,0.06108960685179745,0.4489135511876876,0.2550015790197425
+"My appointment was on Monday .
+What time had you chosen ?",dailydialog-grade_00137,transformer_generator,I was waiting for my invitation .,0.22778282745731954,0.09929919668980473,0.3562664582248343,0.22778282745731954
+"No . I am a transit passenger going to Sweden .
+How long are you going to stay here ?",dailydialog-grade_00138,transformer_generator,I have no idea .,0.2767948722000292,0.12581827717739838,0.42777146722266,0.2767948722000292
+"she said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .
+wow ! That's really great news . How often does the magazine come out ?",dailydialog-grade_00139,transformer_generator,The news is a very good idea .,0.20706291956022432,0.06864553903421866,0.34548030008623,0.20706291956022432
+"Can't beat that ! Thank you accounting guy !
+The game starts at seven so we'd better hustle , it's already five .",dailydialog-grade_00140,transformer_generator,"I ' m sorry , but I ' m still waiting for the next one .",0.31600065013771667,0.09921358689359434,0.532787713381839,0.31600065013771667
+"Of course you do . They are silly stories just for little kids like you .
+Don't call me kid . I am a grownup .",dailydialog-grade_00141,transformer_generator,Really ? I am sorry .,0.1314395562661674,0.12625977499467936,0.13661933753765546,0.1314395562661674
+"Not long , because people rush for lunch .
+The line sure does move fast .",dailydialog-grade_00142,transformer_generator,How much does it cost ?,0.28518500769346583,0.10612332418688351,0.46424669120004813,0.28518500769346583
+"Bank of American card . The number is 6786 9182 12300 8657 .
+Thank you ! Would you like an aisle seat or a window seat ?",dailydialog-grade_00143,transformer_generator,I ' m afraid I can ' t .,0.2457778426826473,0.04608533317678701,0.44547035218850756,0.2457778426826473
+"I'm forming a music band .
+Do you already know how to play an instrument ?",dailydialog-grade_00144,transformer_generator,"Yeah , it ' s a good idea . You can play a musical instrument or so .",0.2815939697604816,0.1273706777894231,0.4358172617315401,0.2815939697604816
+"Morning , Michael . I'Ve been very busy lately . One of our other vendors is going out of business and I'Ve been searching for a suitable replacement .
+Well , rest assured that you can count on us to be here for the long run , sitdown . Coffee ?",dailydialog-grade_00145,transformer_generator,"No , I ' m afraid not . I ' m not interested in the spot .",0.23940748218006763,0.03225804958852731,0.44655691477160797,0.23940748218006763
+"I am dying from the heat .
+Turn on the air conditioner .",dailydialog-grade_00146,transformer_generator,How long will it take ?,0.25106570059525357,0.0,0.5021314011905071,0.25106570059525357
+"That's how much this t . v costs .
+That's too expensive for me .",dailydialog-grade_00147,transformer_generator,I ' m not sure .,0.32179581723336775,0.13208717019381866,0.5115044642729168,0.32179581723336775
+"Have you seen this news article ? Apparently an organization has made a list to name the new seven wonders of the world and people could vote for them online .
+Wow , that's really interesting . So who won ?",dailydialog-grade_00148,transformer_generator,It ' s a lot of people who give their skills .,0.20184794654103172,0.0454802078520532,0.35821568523001024,0.20184794654103172
+"Yes , smoking or non-smoking ?
+We'd like a non-smoking table , please .",dailydialog-grade_00149,transformer_generator,"Yes , please .",0.18789991184503688,0.03603514801288443,0.3397646756771893,0.18789991184503688
+"yes , that's my only day off until Thursday .
+ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?",dailydialog-grade_00150,transformer_ranker,"Ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?",0.5390728424754586,0.21308632935594735,0.8650593555949699,0.5390728424754586
+"Hello , 332440 .
+Oh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?",dailydialog-grade_00151,transformer_ranker,Yes . He's in the line-up .,0.14521119043710748,0.08012686836737161,0.21029551250684334,0.14521119043710748
+"If only our company prescribe flex time .
+The board has been considering introducing flex time .",dailydialog-grade_00152,transformer_ranker,I'm wondering if you often trade with others on the internet .,0.1408311920701007,0.01256071051416537,0.26910167362603604,0.1408311920701007
+"Thank you so much . Does he read his e-mails daily ?
+Yes . He usually replies immediately .",dailydialog-grade_00153,transformer_ranker,He is afraid of his father-in-law .,0.26624698158079646,0.07034312923305967,0.4621508339285333,0.26624698158079646
+"I'll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup .
+Ok . What do you think about our living room ?",dailydialog-grade_00154,transformer_ranker,"It doesn't seem like that . Sorry , sir , we've tried everything , but we're not able to get it off the shirt . It was from the sugar I think .",0.12597104344292875,0.020082369855873975,0.2318597170299835,0.12597104344292875
+"I want to take a look at that home with the Open House flags out front .
+What a wonderful neighborhood ! Can you find that house on our Open House list ?",dailydialog-grade_00155,transformer_ranker,"Yes , it looks perfect .",0.1999652907547426,0.09324302666363023,0.30668755484585497,0.1999652907547426
+"Take it easy . We are going to have our own baby . You should be happy .
+Yeah , I know .",dailydialog-grade_00156,transformer_ranker,"I know , mom .",0.16093765624793932,0.15551525982144745,0.1663600526744312,0.16093765624793932
+"Wow ! Your calligraphy is very beautiful . It was worth the wait !
+Thank you . Today I'm writing a kind of poem called a Chinese couplet .",dailydialog-grade_00157,transformer_ranker,"oh , she keeps saying that . She never allows me to have them .",0.20216699303403357,0.04358124663763283,0.3607527394304343,0.20216699303403357
+"Anything wrong with it ?
+Yes . When I spread it out back home , I found this hole .",dailydialog-grade_00158,transformer_ranker,You're right . Let's ask her to give us one more week .,0.16962880029708094,0.06967582111715953,0.26958177947700235,0.16962880029708094
+"The service did not help the situation .
+Is this a restaurant that you want to come back to ?",dailydialog-grade_00159,transformer_ranker,I went up there early this morning .,0.20518221266668984,0.09481567283556958,0.3155487524978101,0.20518221266668984
+"Well , there will be charity performance on Saturday night . And also , there will be a solo concert by an opera star on Sunday night .
+It's a good thing that I have choices here . Can you tell me about the one on Saturday ?",dailydialog-grade_00160,transformer_ranker,"Sure , it's spelled Office and then D - E - P - O - T . It ' s in the Yellow Pages .",0.06271514198805896,0.07589475098393336,0.04953553299218456,0.06271514198805896
+"What do you think about the equipment in our company ?
+We have to equip our company with a network of work stations at every office and show room as soon as possible .",dailydialog-grade_00161,transformer_ranker,How do you ensure quality ?,0.19767857383014048,0.08343448671842288,0.3119226609418581,0.19767857383014048
+"I shouted it back of course .
+Hold it , Mike . You won't accomplish anything by hollering at him , right ? You worked it all up till now . Why not wait until you cool down a bit ?",dailydialog-grade_00162,transformer_ranker,"well , I wish someone could talk to me about Western table manners",0.10873233909451092,0.02628430791343376,0.1911803702755881,0.10873233909451092
+"What did they say ?
+They said I need a new hard drive .",dailydialog-grade_00163,transformer_ranker,They're still fighting hard . Let ' s wait and see .,0.16041950264396687,0.04857828465798814,0.2722607206299456,0.16041950264396687
+"That is right up my alley . You say party and I'm there .
+Perfect . It will be open to the public and we anticipate roughly about five to seven hundred people .",dailydialog-grade_00164,transformer_ranker,Not until the 31st . So can you change the church reservations ?,0.07330809366758426,0.06464429333937824,0.08197189399579029,0.07330809366758426
+"I can check that for you right now . Would you mind holding ?
+Sure . No problem .",dailydialog-grade_00165,transformer_ranker,Is this a promise ?,0.097580873185309,0.07510502953612089,0.12005671683449712,0.097580873185309
+"Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !
+Oh no you didn't . You didn't just insult the Sals-bury Seals , did you ? Why don't you just . just go and return all of those stupid clothes and not come back until the sales are over ?",dailydialog-grade_00166,transformer_ranker,"Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !",0.188830377454747,0.06935304904766357,0.3083077058618305,0.188830377454747
+"I wasn't all that impressed by the food .
+The service certainly could have been better .",dailydialog-grade_00167,transformer_ranker,It wasn't as good as you think .,0.2454274435211582,0.09740291078151594,0.3934519762608005,0.2454274435211582
+"Me ? No way , keep him away from me , please .
+Why are you acting so strange today ?",dailydialog-grade_00168,transformer_ranker,I just had a quarrel with him .,0.22249404334431555,0.09966245987912994,0.3453256268095012,0.22249404334431555
+"Did you lend him a lot of money ?
+Not much . I had to pay an unexpected bill , so I needed the money back .",dailydialog-grade_00169,transformer_ranker,"not much . I had to pay an unexpected bill , so I needed the money back .",0.5143519848223056,0.2130861847448051,0.8156177848998062,0.5143519848223056
+"Here you are .
+Thanks . What kind of stone is this ?",dailydialog-grade_00170,transformer_ranker,It's C261 .,0.04969583775763594,0.09939167551527188,0.0,0.04969583775763594
+"Excuse me . Do you mind if I try this on ?
+Not at all . The changing rooms are just this way .",dailydialog-grade_00171,transformer_ranker,That is all right .,0.1372419112252247,0.0,0.2744838224504494,0.1372419112252247
+"Well , it's specially made of a platinum alloy , sir , and the lustre will never fade out .
+I'II take them . Please wrap them up tor me and give me the receipt .",dailydialog-grade_00172,transformer_ranker,All right . Here it is .,0.12342550578833673,0.02763078225889833,0.21922022931777513,0.12342550578833673
+"That's for the phone calls you made from your room .
+Can I pay with traveller's cheques ?",dailydialog-grade_00173,transformer_ranker,"No , there's no charge for those .",0.24018681483300364,0.10988733530286726,0.37048629436314,0.24018681483300364
+"Yes , I have been working in the Public Relations Section of a company in the past two years . I plan the advertising campaign and cooperate the work of artists and typographers . Sometimes I have to do the work of a specialist when there's something urgent .
+Do you have any practical experience as a secretary ?",dailydialog-grade_00174,transformer_ranker,"First , I worked as a servant .",0.100102898287795,0.0,0.20020579657559,0.100102898287795
+"How long will the induction training be ?
+About two weeks .",dailydialog-grade_00175,transformer_ranker,Is the training center helpful ?,0.0426556732600901,0.023978917083727364,0.06133242943645284,0.0426556732600901
+"Yeah , about .
+Do you know Chinese better now ?",dailydialog-grade_00176,transformer_ranker,"Just as usual , you know .",0.1449715229729044,0.09031696481139845,0.19962608113441035,0.1449715229729044
+"Hum , Edward Norton , or something like that . Did you like him ?
+Yes . He was excellent . They worked well together , don't you think ?",dailydialog-grade_00177,transformer_ranker,Yes . He was excellent . They worked well together .,0.3371281623450403,0.12041589412532389,0.5538404305647566,0.3371281623450403
+"What sort of job would you like to take ?
+I prefer a sedentary job and I used to work as an operator .",dailydialog-grade_00178,transformer_ranker,How ' d you get that job ?,0.23026639470732627,0.015189234941223343,0.4453435544734292,0.23026639470732627
+"Yes , I'd like a book about law .
+Would you tell me the name of the book and the author ?",dailydialog-grade_00179,transformer_ranker,Let me give you a hand . The author is ...,0.18686513629115453,0.03097607181250503,0.34275420076980406,0.18686513629115453
+"I like the sound of that .
+Yes , that is today's sale price .",dailydialog-grade_00180,transformer_ranker,"Well , the sale price is $ 1 each .",0.29181395957989853,0.1410989027452434,0.44252901641455367,0.29181395957989853
+"Good morning .
+What does the paper say ?",dailydialog-grade_00181,transformer_ranker,It's 5:30 by my watch .,0.10332411459016737,0.05701887550310719,0.14962935367722754,0.10332411459016737
+"All right , can I have your passbook ?
+Yes , here you go .",dailydialog-grade_00182,transformer_ranker,All right . Now can I have your passbook ?,0.10884932018268785,0.1335442720631024,0.0841543683022733,0.10884932018268785
+"I'm very sorry to hear that . May I have your name and room number , please ?
+Yes , it's Yao Lan . Room 406 .",dailydialog-grade_00183,transformer_ranker,Mr . Lee in Room 1234 .,0.10130909769678073,0.11545312894568119,0.08716506644788026,0.10130909769678073
+"I should tell you that I'm checking out in about 30 minutes .
+I'm ready when you are , sir .",dailydialog-grade_00184,transformer_ranker,Please put your luggage outside your room by eight . The bellboy will pick them up .,0.17828617059454477,0.10297188586945931,0.2536004553196302,0.17828617059454477
+"Hello ! How do I get more amenities ?
+I'm sorry , sir . I'm not sure I understand .",dailydialog-grade_00185,transformer_ranker,"I'm losing you , sir . What's the problem ?",0.16267862390018584,0.13493051447268498,0.1904267333276867,0.16267862390018584
+"And they will yell back at you .
+Yelling doesn't do any good .",dailydialog-grade_00186,transformer_ranker,I'm happy to help .,0.1906441000463208,0.10003085676400493,0.28125734332863667,0.1906441000463208
+"The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it .
+No , but we'Ve got a hurry . It will be the rush hour soon .",dailydialog-grade_00187,transformer_ranker,We'll have to hurry ; visiting hours will be over soon,0.16069224382487557,0.14443385260217942,0.17695063504757175,0.16069224382487557
+"What style do you want ?
+I want to buy a V-neck checked sweater , and it should be tight .",dailydialog-grade_00188,transformer_ranker,It doesn't fit quite right . It feels a little tight in the waist . Do you have this in a larger size ?,0.2395520513476542,0.048844079937438674,0.43026002275786973,0.2395520513476542
+"Mr . Smith , please .
+Sorry , he is out .",dailydialog-grade_00189,transformer_ranker,Could you leave him a message ?,0.2638201616151242,0.08999513271432709,0.4376451905159214,0.2638201616151242
+"Surely of course .
+Here is the film . Can I get my pictures tomorrow ?",dailydialog-grade_00190,transformer_ranker,"Yes , give me two rolls of Kodak color film .",0.21815074586926284,0.10111363269158156,0.3351878590469441,0.21815074586926284
+"I need to stay home tonight and finish my term paper .
+OK . What about going to the movies on Friday night ?",dailydialog-grade_00191,transformer_ranker,I ' d love to but I have to help John with his math problems right now .,0.22694707897869468,0.10321642331099949,0.35067773464638985,0.22694707897869468
+"Let me check . Yes , we have .
+May I try it on ?",dailydialog-grade_00192,transformer_ranker,You'd like it .,0.045994261879661,0.08917786284391649,0.002810660915405509,0.045994261879661
+"And they're very dear , too .
+They're on special offer today .",dailydialog-grade_00193,transformer_ranker,I wonder if they left it sitting around too long before they served it .,0.22626359012273453,0.08204260447429267,0.3704845757711764,0.22626359012273453
+"You can't come any earlier than that ?
+I'm sorry . That's the only available time .",dailydialog-grade_00194,transformer_ranker,I can't catch the bus with you anymore .,0.2484116890734635,0.1589664770367503,0.3378569011101767,0.2484116890734635
+"Hello .
+Hi . It's Tony calling from the dentist's office . Is Lily there ?",dailydialog-grade_00195,transformer_ranker,"Yes , It's John eng .",0.04836205303990357,0.09672410607980714,0.0,0.04836205303990357
+"Excuse me . I have an appointment with Mr . Li at nine . May I come in ?
+Yes , come in please . I am Mr . Li . You must be My Liu , right ?",dailydialog-grade_00196,transformer_ranker,"I'm sorry , but he's not in the office now . Do you have an appointment ?",0.2557097176855235,0.12457599515992297,0.38684344021112393,0.2557097176855235
+"You need a babysitter .
+Yes , I'd ask Jill , the girl I've had before , but I need someone overnight . Maybe even for two nights .",dailydialog-grade_00197,transformer_ranker,You need a babysitter .,0.2859511572805521,0.09220066955031173,0.47970164501079243,0.2859511572805521
+"What is it ? What happened ?
+I think someone is stalking me .",dailydialog-grade_00198,transformer_ranker,"No . Really , what happened ?",0.07979945757515035,0.08585007123852172,0.07374884391177898,0.07979945757515035
+"What is it used for ? I mean , why bother to get this special account ?
+Group companies can use this to make their arrangement of funds flexible , when dealing with their subsidiaries .",dailydialog-grade_00199,transformer_ranker,What kind of action is required ?,0.18389886454760015,0.0,0.3677977290952003,0.18389886454760015
+"The boss wanted to pay Bob with stock options . But Bob didn't want to play that game again .
+Again ?",dailydialog-grade_00200,transformer_ranker,"It's only seven minutes into the game , too early to cheer up .",0.2292587427234188,0.06845024168661369,0.39006724376022395,0.2292587427234188
+"Shall we drop in somewhere for a couple of drinks ?
+That sounds like a good idea .",dailydialog-grade_00201,transformer_ranker,OK . Shall we go to a bar ?,0.17750778157577654,0.1343783891315848,0.22063717401996827,0.17750778157577654
+"Ah , some products are successful at home , but not be popular overseas .
+That's because the fashion , taste and social customs and so on vary considerably .",dailydialog-grade_00202,transformer_ranker,Well I guess you have fewer characters but I think Chinese grammar is easier .,0.037081268624274126,0.025588728319224263,0.04857380892932399,0.037081268624274126
+"How can you be so sure ?
+I can tell form the way he spoke to us .",dailydialog-grade_00203,transformer_ranker,That doesn ' t make any sense .,0.32202483392549736,0.11149953262221124,0.5325501352287835,0.32202483392549736
+"You know , I fell in love with this house the first moment I laid eyes on it .
+The style of the exterior is just what I'Ve been looking for !",dailydialog-grade_00204,transformer_ranker,Well could you do me the favor of making this quick ? It ' s the third quarter and you ' Ve been blabbering on since the first !,0.20717677158423978,0.0745907923142895,0.33976275085419005,0.20717677158423978
+"I want to go traveling .
+Do you have any where in mind ?",dailydialog-grade_00205,transformer_ranker,There are student passes .,0.036827398348046936,0.07365479669609387,0.0,0.036827398348046936
+"Not bad .
+Say I've got two tickets for the concert this evening . Would you like to come with me ?",dailydialog-grade_00206,transformer_ranker,"Oh , I'd rather not .",0.06928153195567616,0.04668011880485014,0.09188294510650219,0.06928153195567616
+"With everything , with everybody , with all this !
+A good suggestion for you . You need a holiday .",dailydialog-grade_00207,transformer_ranker,A good suggestion for you . You need a holiday .,0.41130468651108554,0.2130861847448051,0.609523188277366,0.41130468651108554
+"Good afternoon . I come here specially to pick up my tickets . I booked it last month . This is my reservation note .
+I am terribly sorry . You didn't come to reconfirm recently . You should have come to pick up your ticket three days ago since it's an international flight , any reservation without reconfirmation within 72 hours will be cancelled .",dailydialog-grade_00208,transformer_ranker,"I understand . So that ' s one ticket to New York , and you ' ll be departing tonight . Will that be one-way or round trip ?",0.20802791753065736,0.04942035533929415,0.3666354797220206,0.20802791753065736
+"Are these the clothes you want to have washed ?
+Yes . When can I get them back ?",dailydialog-grade_00209,transformer_ranker,Or maybe make the beds .,0.034412526009417896,0.008841167324422668,0.05998388469441312,0.034412526009417896
+"Exactly ! I searched on the web and found a couple of HMO's with low co-pays and good coverage . The deductibles are low , too .
+Sounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money .",dailydialog-grade_00210,transformer_ranker,"Exactly ! I searched on the web and found a couple of HMO ' s with low co-pays and good coverage . The deductibles are low , too .",0.2495711387729252,0.1071977126682098,0.3919445648776406,0.2495711387729252
+"Then tell me something about your background .
+My major was computer science when I was at college , and I am quite familiar with Visual C + + and Java language .",dailydialog-grade_00211,transformer_ranker,What are you basing this information on ?,0.22857780084593052,0.049879134188073694,0.4072764675037873,0.22857780084593052
+"Hi . What's your name ?
+My name is Jung Min . What's your name ?",dailydialog-grade_00212,transformer_ranker,I'm an engineer at IBM .,0.11910381236645015,0.07777520197214607,0.16043242276075423,0.11910381236645015
+"Great ! B , most of the items listed are available this year . I hope we can come to an agreement and sign the contracts , so as to enable our timely delivery .
+That sounds good . But I have a proposal now .",dailydialog-grade_00213,transformer_ranker,It seems this is the only proposal for me to accept . I ' ll come again tomorrow to discuss it in detail .,0.27359682609253405,0.12296155636787416,0.42423209581719395,0.27359682609253405
+"Why don't you watch where you're going ?
+Me ? You're the one who pulled out in front of me !",dailydialog-grade_00214,transformer_ranker,Me ? You're the one who pulled out in front of me !,0.45001687600328527,0.21308596782809172,0.6869477841784788,0.45001687600328527
+"How much is that one ?
+It's two hundred and eighty dollars .",dailydialog-grade_00215,transformer_ranker,That's 20 dollars . Keep the change !,0.05219307520044268,0.09361785874433522,0.01076829165655015,0.05219307520044268
+"I need to book a plane ticket to London .
+Round-trip or one-way ?",dailydialog-grade_00216,transformer_ranker,Round trip or one way trip ?,0.2580464442040225,0.18299882432225942,0.3330940640857856,0.2580464442040225
+"I don't know . But this is definitely the last straw .
+Maybe you should start seeing someone else .",dailydialog-grade_00217,transformer_ranker,Yes . It could happen .,0.06546849028446561,0.09799046585246671,0.03294651471646451,0.06546849028446561
+"Oh , I know a place where you might like to eat .
+Is it close by ?",dailydialog-grade_00218,transformer_ranker,"No , it's not far .",0.21796092729155486,0.12570548048644548,0.31021637409666425,0.21796092729155486
+"That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?
+It's all the way to the back . See that yellow door ?",dailydialog-grade_00219,transformer_ranker,It's all the way to the back . See that yellow door ?,0.4734746426496702,0.21308632935594735,0.7338629559433931,0.4734746426496702
+"I think that's just steam . Your engine's overheated .
+Do you know a lot about cars ?",dailydialog-grade_00220,transformer_ranker,I usually only have 2 beers .,0.16535160469991342,0.07881907750245819,0.25188413189736863,0.16535160469991342
+"Sorry . I was too worried .
+I firmly believe that you love your brother very much .",dailydialog-grade_00221,transformer_ranker,But I want you to be fit .,0.16997771236928857,0.14165623408746447,0.19829919065111268,0.16997771236928857
+"Not really . I don't think pop music has much depth .
+I see what you mean . I think that's way I like it so much .",dailydialog-grade_00222,transformer_ranker,not really . I don't think pop music has much depth .,0.2147001751345468,0.11356624276163846,0.31583410750745516,0.2147001751345468
+"Fine . I'll take the compact .
+Alright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?",dailydialog-grade_00223,transformer_ranker,"Yes , I do . Do you accept American Express ?",0.1352505066096192,0.10546042671082191,0.1650405865084165,0.1352505066096192
+"Um , ninety-five dollars ?
+Yes , that's the price they were advertising it at . I was hoping it might go on sale soon . Why , how much did you pay for it ?",dailydialog-grade_00224,transformer_ranker,"The price of CPU is 260 dollars above 1,000 Units .",0.008704466608723468,0.008241681834236503,0.009167251383210435,0.008704466608723468
+"I went to Salt Lake City on business . What's up ?
+I got fired .",dailydialog-grade_00225,transformer_ranker,Come on . Don ' t hesitate .,0.1462479462313989,0.02785767714108434,0.26463821532171344,0.1462479462313989
+"Really ? Wow with who ?
+This girl I've been chatting with for the past couple of months . She's really cool and she's driving over here this weekend .",dailydialog-grade_00226,transformer_ranker,Really ? That's really wonderful . I'm so happy for her .,0.16088018495490333,0.120437007352092,0.20132336255771469,0.16088018495490333
+"Why aren't you eating anything else ?
+Well , fruits and vegetables are very healthy .",dailydialog-grade_00227,transformer_ranker,And vegetables with porridge .,0.08713093965442814,0.05221214574594932,0.12204973356290695,0.08713093965442814
+"Lucky you ! I can't buy anything else . I'm flat broke .
+I got a replace my party outfit , I trashed it last week .",dailydialog-grade_00228,transformer_ranker,"yeah , maybe you ' re right . How about this outfit ?",0.2163918391447814,0.017975240902188626,0.4148084373873742,0.2163918391447814
+"It is an exhibition of Chinese jades . It is held each year . A nice collection jades of are on display and sold .
+Sounds great ! Can you stop somewhere here for a minute ? I will get some souvenirs for my friends .",dailydialog-grade_00229,transformer_ranker,We share the same desire . Have you seen the display of our products in the exhibition hall downstairs ?,0.19046387222295158,0.08517112192567067,0.2957566225202325,0.19046387222295158
+"Have you ever tried shopping online ?
+No , never . I prefer to actually see and touch what I'm buying before I pay for it , especially for clothes and shoes .",dailydialog-grade_00230,transformer_ranker,Why don't you go shopping online ?,0.17377618602248396,0.0,0.3475523720449679,0.17377618602248396
+"How nice of him . I'll be delighted to go . But what time would be convenient ?
+If you could be ready by , say 6:30 o'clock , I'll be at the hotel to pick you up .",dailydialog-grade_00231,transformer_ranker,That's fine . I'll be waiting for you .,0.20054860507544403,0.14066940765276892,0.26042780249811914,0.20054860507544403
+"Barely . Will you be checking any luggage today ?
+Yes , One suitcase . I also have a carry-on bag .",dailydialog-grade_00232,transformer_ranker,"Are you keeping this small bag as carry-on luggage , sir ?",0.21992422532469025,0.08743356324612961,0.3524148874032509,0.21992422532469025
+"I'm Du Juan , in Room 312 .
+I see . Wait in the room , please .",dailydialog-grade_00233,transformer_ranker,Could I have your name and room number ?,0.21122605879242806,0.08438884795168392,0.33806326963317224,0.21122605879242806
+"What do you feel about gay marriage ?
+I think everyone has the right to love who they want .",dailydialog-grade_00234,transformer_ranker,Would you make gay marriage legal ?,0.17726308970782595,0.07639344250797317,0.27813273690767876,0.17726308970782595
+"The bartender just gave the last call . Let's order another round , okay ?
+Sure , but let's get a pitcher this time We should be able to down it before they close .",dailydialog-grade_00235,transformer_ranker,"The bartender just gave the last call . Let's order another round , okay ?",0.12048550821275347,0.08216885000147454,0.1588021664240324,0.12048550821275347
+"How do you do ? Please be seated , How is your trip here ?
+Quite good , I think . I came here by bus , and it took me about 15 minutes .",dailydialog-grade_00236,transformer_ranker,"Wow , thanks a lot .",0.20185365944433722,0.06206717817338917,0.34164014071528526,0.20185365944433722
+"Does the class start again , Mam ?
+Yes , but to the heath , this break has long enough .",dailydialog-grade_00237,transformer_ranker,"Yes , I mean it .",0.15112029576300554,0.0814721858236982,0.22076840570231288,0.15112029576300554
+"Sure ! Are you okay ? You seem a bit worried . What's on your mind ?
+We need to talk .",dailydialog-grade_00238,transformer_ranker,We need to talk .,0.40590196614086727,0.2130861847448051,0.5987177475369294,0.40590196614086727
+"Good afternoon ! Trans Pacific Airline . How can I help you ?
+I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",dailydialog-grade_00239,transformer_ranker,"Yes there are . How do you want to go , First class or coach ?",0.11375913760489198,0.07846492481509455,0.1490533503946894,0.11375913760489198
+"Have I got a high fever ?
+Yes , thirty-eight point seven . Do you have a headache , chest or throat pain ?",dailydialog-grade_00240,transformer_ranker,"No , but I have a low fever .",0.18716307681008143,0.0745822602568969,0.29974389336326596,0.18716307681008143
+"That one truly is a beautiful piece of work , isn't it ?
+One last question",dailydialog-grade_00241,transformer_ranker,It's fashionable .,0.02959966115295596,0.05919932230591192,0.0,0.02959966115295596
+"You'll need to make an appointment .
+Could I do that right now , please ?",dailydialog-grade_00242,transformer_ranker,You need an appointment .,0.17776605837913464,0.09464655010471136,0.26088556665355794,0.17776605837913464
+"You get your bus pass ?
+I'm not going to buy one .",dailydialog-grade_00243,transformer_ranker,Is it fun driving the bus ?,0.19419655962517096,0.1269298307222822,0.2614632885280597,0.19419655962517096
+"You're made a good choice . This china tea set is unusual .
+Where was it from ?",dailydialog-grade_00244,transformer_ranker,Tea and silk .,0.05282952505734929,0.10565905011469857,0.0,0.05282952505734929
+"Well , you should come this weekend . I think you could do the climb .
+Yeah , I will . See you then !",dailydialog-grade_00245,transformer_ranker,"Well , you should come this weekend . I think you could do the climb .",0.22233675724635216,0.06265429941091319,0.3820192150817911,0.22233675724635216
+"Let me guess , from Sarah . It looks like something she would drive .
+You guessed right . Besides , the color violet is a little girly for me .",dailydialog-grade_00246,transformer_ranker,"You guessed right . Besides , the color violet is a little girly for me ...",0.4414021465366456,0.16302889324476133,0.7197753998285299,0.4414021465366456
+"Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .
+It's nice to meet you , Mr . Cooper .",dailydialog-grade_00247,transformer_ranker,"It's nice to meet you , Mr . Cooper .",0.39849400272959246,0.2130858955225206,0.5839021099366644,0.39849400272959246
+"Have you ever listened to AM radio ? It's quite a different experience than the traditional news stations on TV and FM radio .
+I don't remember the last time I listened to AM radio .",dailydialog-grade_00248,transformer_ranker,Are you kidding ? Don't you know I can't swim ?,0.0993897513665573,0.0,0.1987795027331146,0.0993897513665573
+"It is too bad today .
+What happened ?",dailydialog-grade_00249,transformer_ranker,It ' s been leaking for a couple of days now .,0.2644841229290683,0.0,0.5289682458581366,0.2644841229290683
+"Hey Tina . What are you doing ?
+I was just watching TV . What's going on with you ?",dailydialog-grade_00250,transformer_ranker,I'm watching TV .,0.0512677434251503,0.10120199009949465,0.0013334967508059476,0.0512677434251503
+"Here's my name card .
+And here's mine .",dailydialog-grade_00251,transformer_ranker,It's all yours .,0.15676955432483747,0.1099932629645634,0.20354584568511155,0.15676955432483747
+"Thank you ! Would you like an aisle seat or a window seat ?
+An aisle seat , please . I'm tall and need to get up and walk pretty often .",dailydialog-grade_00252,transformer_ranker,Anything but a center seat is fine with me . The middle seat drives me crazy !,0.2102704588274718,0.11848764915459845,0.30205326850034514,0.2102704588274718
+"Why doesn't he ask her ?
+He is too scared to ask her .",dailydialog-grade_00253,transformer_ranker,He is too scared to ask her .,0.39944244920035915,0.2130861847448051,0.5857987136559132,0.39944244920035915
+"What if I don't want to find another girl ?
+You'll change your mind . Look at everyone in the world . They all break up and move on . The faster you understand this , the quicker you will recover .",dailydialog-grade_00254,transformer_ranker,Right . Thanks .,0.01336456589349322,0.02672913178698644,0.0,0.01336456589349322
+"I'd like to speak Dr . Johnson .
+Sorry , but he's not in . May I take a message for you ?",dailydialog-grade_00255,transformer_ranker,"Yes . He's waiting for you in his office . This way , please .",0.19081544731605063,0.10032405585491132,0.2813068387771899,0.19081544731605063
+"Well , known , Jim , I'm  .  .  .  I'm pretty much in favour of your computers , I think computers teach kids to think , because they require logical thoughts .
+But I  .  .  .  I don't agree with thatbecause computers weaken kids'ability to thinkbecause kids don't learn basic skills .",dailydialog-grade_00256,transformer_ranker,"But I ... I don't agree with that , because computers weaken kids ' ability to think , because kids don't learn basic skills .",0.3578961238774615,0.18220418609561054,0.5335880616593125,0.3578961238774615
+"I have a lot of luggage . Will those fit in the taxi ?
+Take it easy . I'll send a larger to pick you up .",dailydialog-grade_00257,transformer_ranker,"By the way , don't forget your luggage on the ship .",0.24592460894052653,0.13639029164810032,0.3554589262329527,0.24592460894052653
+"Anyway , the show is breathtaking . By the way , where did they get so much snow here ?
+Well , they have the most advanced snowmaking machine .",dailydialog-grade_00258,transformer_ranker,"No way , if it still has 21 .",0.07516438568178822,0.05836628982099637,0.09196248154258008,0.07516438568178822
+"Nothing , Mummy . I was hungry so I came here for some milk .
+Milk ? I thought you didn't like milk .",dailydialog-grade_00259,transformer_ranker,Why don't you get a new one ?,0.2608639828369027,0.13928721435516928,0.3824407513186361,0.2608639828369027
+"Please be at the airport two hours before your departure to check in . You also need to reconfirm your reservation with the airline at least 7 days prior to your departure .
+What happens if I can't leave on April 13 ? Can I cancel my ticket or change the reservation to another date ?",dailydialog-grade_00260,transformer_ranker,"I think so . I won't forget anything important . As long as I have my passport , VISA card and airline ticket . It will be OK .",0.17188333187428775,0.07848047051288615,0.26528619323568936,0.17188333187428775
+"Thank you for your inition . I'm free tonight .
+Which kind of food do you like , chinese food , western food or sea food ?",dailydialog-grade_00261,transformer_ranker,Chinese food .,0.03475468759363543,0.06710485192471598,0.002404523262554885,0.03475468759363543
+"Yes . There have been a few there recently . They say that this one was not a big quake . The Iranians are dealing with it on their own . They have purchased some special equipment to find people buried u
+Does the newspaper say anything about casualties ?",dailydialog-grade_00262,transformer_ranker,"Moving to to Latin American , Ecuador has suffered a six month drought that has not only affected farming , but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country . In Chile , a major earthquake that registered seven point five on the Richter scale struck the southern region . Losses are reported to be in the billions . Authorities have not yet released an official statement .",0.1875338927817632,0.0,0.3750677855635264,0.1875338927817632
+"Turn on the TV for what ?
+So that we can sit down together and listen to some music .",dailydialog-grade_00263,transformer_ranker,So that we can sit down together and listen to some music .,0.48736410526184304,0.21308632935594735,0.7616418811677387,0.48736410526184304
+"Yes , I'd like a glass of iced tea .
+Okay . I'll be back in a minute with your drink and salad .",dailydialog-grade_00264,transformer_ranker,All right . And would you like a salad ?,0.18593486534437578,0.10668239086281156,0.26518733982594,0.18593486534437578
+"Wait a moment , please . Let me check it .
+By the way , I want a large room .",dailydialog-grade_00265,transformer_ranker,"By the way , what's the rate for a single room ?",0.26905335468611585,0.10508284701841422,0.4330238623538175,0.26905335468611585
+"It was alright . I ran into Bill and we got to talking for a while . He's in a bit of a jam .
+Why ? What happened ?",dailydialog-grade_00266,transformer_ranker,It was alright . I ran into Bill and we got to talking for a while . He ' s in a bit of a jam .,0.20283812607729507,0.0,0.40567625215459013,0.20283812607729507
+"Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .
+I'm sure . Okay , now let's move on to your work experience , shall we ?",dailydialog-grade_00267,transformer_ranker,"Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .",0.21242063170992478,0.043190651942422886,0.3816506114774267,0.21242063170992478
+"Thank God ! I am finished writing that service guide ! It took me forever !
+When did you finish ?",dailydialog-grade_00268,transformer_ranker,About 2 o ' clock .,0.060533960094288734,0.01962424175723454,0.10144367843134293,0.060533960094288734
+"What's the matter , John ? you seemed to be restless today .
+You see , I've been offered a new job . I can't decide whether to take it or not .",dailydialog-grade_00269,transformer_ranker,But I don't know what else I can do . I am willing to work hard . Sometimes I make mistakes and the boss is not happy .,0.2320499862327264,0.09872697039993218,0.36537300206552065,0.2320499862327264
+"Look ! Mom , that's amazing ! I can't believe the girls have so neat movements .
+Yeah , they all received very strict training . A minute on the stage takes ten-year practice .",dailydialog-grade_00270,transformer_ranker,Tell me ! Tell me ! What's your secret ? !,0.10952214327280735,0.010011939132056776,0.20903234741355792,0.10952214327280735
+"Thank you .
+What was your major in school ?",dailydialog-grade_00271,transformer_ranker,I ' m going back to college .,0.32584094342861075,0.09011421998996773,0.5615676668672538,0.32584094342861075
+"I didn't just find out about one job . There were several ones that looked good .
+Maybe I should try looking on the web for work .",dailydialog-grade_00272,transformer_ranker,It seems that you can e-mail the seller and ask questions .,0.2521057327414667,0.07007154950791925,0.43413991597501417,0.2521057327414667
+"Good afternoon ! Trans Pacific Airline . How can I help you ?
+I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",dailydialog-grade_00273,transformer_ranker,"Yes there are . How do you want to go , First class or coach ?",0.11375913760489198,0.07846492481509455,0.1490533503946894,0.11375913760489198
+"The washer costs 50 cents and the dryer costs a dollar .
+Where do I put the change ?",dailydialog-grade_00274,transformer_ranker,You need to put 50 cents into the washer machine and a dollar into the dryer .,0.22185516462618207,0.002411755940107889,0.44129857331225625,0.22185516462618207
+"I see . We will go the day after tomorrow .
+By the way , what kind of stores do we need to go ?",dailydialog-grade_00275,transformer_ranker,Half an hours later .,0.020616453149339495,0.04123290629867899,0.0,0.020616453149339495
+"Heard what ?
+Deborah already had her baby .",dailydialog-grade_00276,transformer_ranker,You never guess she is going to have a baby .,0.288622907889915,0.09023974246143839,0.48700607331839163,0.288622907889915
+"I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily .
+Really ? Have you had an auto-reverse break before ?",dailydialog-grade_00277,transformer_ranker,"Yes , this price is very affordable , but driving this car you'll also notice a significant annual saving in gas consumption . The main attraction for this model is the fuel economy .",0.17693673943611793,0.021350537267811637,0.33252294160442425,0.17693673943611793
+"How much per night are we talking about ?
+Each night will be $ 308 .",dailydialog-grade_00278,transformer_ranker,$ 308 a night ? That's a fair price .,0.23538680369873255,0.07418602572713931,0.39658758167032576,0.23538680369873255
+"This is Bill Burton from Milford Insurance , I'm calling in regards to our meeting next Tuesday .
+Thank you , Mr . Burton . Can you please hold for a moment ? I'll check to see if she is available .",dailydialog-grade_00279,transformer_ranker,All right . I ' ll call you back later .,0.24758487675572077,0.1172305444950427,0.3779392090163989,0.24758487675572077
+"First of all , we'll design a custom-made work-out plan according to your habits .
+How can you get that done ?",dailydialog-grade_00280,transformer_ranker,About 2 days .,0.003440487061061374,0.0,0.006880974122122748,0.003440487061061374
+"You can touch them only between the shoulder and the knees .
+The touchdown lines are there and there . OK , let's play !",dailydialog-grade_00281,transformer_ranker,is that why my knees have felt sore after every time I've ridden my bike ?,0.17704470166820055,0.029906238582159534,0.3241831647542416,0.17704470166820055
+"I am not surprised , you eat too much .
+And I suppose sitting at the desk all day in the office doesn't help .",dailydialog-grade_00282,transformer_ranker,"No , I wouldn't think so .",0.13403095607854468,0.13561662203707728,0.13244529012001208,0.13403095607854468
+"I would prefer next Thursday .
+What time would be best for you ?",dailydialog-grade_00283,transformer_ranker,I would like to meet on Monday .,0.21233671292839115,0.12104798942808681,0.3036254364286955,0.21233671292839115
+"Yes .
+What's the weather like in your country ?",dailydialog-grade_00284,transformer_ranker,"I love winter , I love snow .",0.20266599164733073,0.07758583368137324,0.32774614961328824,0.20266599164733073
+"Don't feel like it . I'm broke .
+Well , we can still do some window shopping , can we ?",dailydialog-grade_00285,transformer_ranker,"Well , we can still do some window shopping , can't we ?",0.40296666574362705,0.20254555089197082,0.6033877805952833,0.40296666574362705
+"I Like pop music best . Classical music is a bit too heavy for me . I can't get fully relaxed in it .
+Pop music doesn't have any depth for me .",dailydialog-grade_00286,transformer_ranker,That is a perfect reason to like a certain kind of music .,0.2822340296601302,0.10296949978561223,0.4614985595346482,0.2822340296601302
+"My appointment was on Monday .
+What time had you chosen ?",dailydialog-grade_00287,transformer_ranker,It's Friday .,0.02463281070854477,0.04926562141708954,0.0,0.02463281070854477
+"No . I am a transit passenger going to Sweden .
+How long are you going to stay here ?",dailydialog-grade_00288,transformer_ranker,Only four days .,0.04645770105999937,0.09188245273179654,0.0010329493882022022,0.04645770105999937
+"she said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .
+wow ! That's really great news . How often does the magazine come out ?",dailydialog-grade_00289,transformer_ranker,She said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .,0.14764606185352466,5.300359891224403e-05,0.2952391201081371,0.14764606185352466
+"Can't beat that ! Thank you accounting guy !
+The game starts at seven so we'd better hustle , it's already five .",dailydialog-grade_00290,transformer_ranker,You mean half-and-half ?,0.15506172408538688,0.020770574281828855,0.2893528738889449,0.15506172408538688
+"Of course you do . They are silly stories just for little kids like you .
+Don't call me kid . I am a grownup .",dailydialog-grade_00291,transformer_ranker,Don't forger to come straight home after school .,0.09119743392032062,0.11515653149293198,0.06723833634770925,0.09119743392032062
+"Not long , because people rush for lunch .
+The line sure does move fast .",dailydialog-grade_00292,transformer_ranker,What kind of lease is it ?,0.21429584168545263,0.08644297692173562,0.3421487064491696,0.21429584168545263
+"Bank of American card . The number is 6786 9182 12300 8657 .
+Thank you ! Would you like an aisle seat or a window seat ?",dailydialog-grade_00293,transformer_ranker,"Aisle , please .",0.07715352116508115,0.09386044393545506,0.060446598394707216,0.07715352116508115
+"I'm forming a music band .
+Do you already know how to play an instrument ?",dailydialog-grade_00294,transformer_ranker,Do you already know how to play an instrument ?,0.4499622644935192,0.2130861847448051,0.6868383442422333,0.4499622644935192
+"Morning , Michael . I'Ve been very busy lately . One of our other vendors is going out of business and I'Ve been searching for a suitable replacement .
+Well , rest assured that you can count on us to be here for the long run , sitdown . Coffee ?",dailydialog-grade_00295,transformer_ranker,"Well , rest assured that you can count on us to be here for the long run , please sit down . Coffee ?",0.5016446940612505,0.19532641805984355,0.8079629700626573,0.5016446940612505
+"I am dying from the heat .
+Turn on the air conditioner .",dailydialog-grade_00296,transformer_ranker,Let's stand in the line now .,0.08955648372812036,0.0,0.17911296745624072,0.08955648372812036
+"That's how much this t . v costs .
+That's too expensive for me .",dailydialog-grade_00297,transformer_ranker,That's how much this t . v costs .,0.17215567833862006,0.14834175180469922,0.19596960487254092,0.17215567833862006
+"Have you seen this news article ? Apparently an organization has made a list to name the new seven wonders of the world and people could vote for them online .
+Wow , that's really interesting . So who won ?",dailydialog-grade_00298,transformer_ranker,"Yeah , I had been in the charity organization for 2 months and I learned a lot from that experience , including love , sympathy , equality , and so on .",0.19177367117103994,0.025968911012192404,0.3575784313298875,0.19177367117103994
+"Yes , smoking or non-smoking ?
+We'd like a non-smoking table , please .",dailydialog-grade_00299,transformer_ranker,Smoking or non-smoking ?,0.16491518062480107,0.033619274270501105,0.29621108697910103,0.16491518062480107

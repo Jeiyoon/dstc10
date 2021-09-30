@@ -1,0 +1,601 @@
+context,dialogue_id,model_name,response,annotations.relevance,am_scores,fm_scores,am_fm_scores
+"Someone let me cut in line at the store so I could check out faster.
+wow that was really nice of them",empathetic-grade_00000,transformer_generator,thats cool,0.11722730431331166,0.14660701200918222,0.08784759661744108,0.11722730431331166
+"My sunday was great. All my chores were done ahead of time. It was a rare and welcomed day.
+that is awesome. sundays are usually my veg out days.",empathetic-grade_00001,transformer_generator,oh thats cool,0.21975436979377722,0.160712009772276,0.2787967298152784,0.21975436979377722
+"Well, it takes perseverance and a bit of luck, but you can do it!
+My dream job is being born rich. Its too late for that",empathetic-grade_00002,transformer_generator,thats cool,0.046815679701528085,0.09363135940305617,0.0,0.046815679701528085
+"I always feel like no one hears me. Like When I speak it falls on deaf ears.
+That sucks. Maybe it's time to get new friends?",empathetic-grade_00003,transformer_generator,That ' s cool . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,0.4900472164725248,0.0,0.9800944329450496,0.4900472164725248
+"As I look at my 21 year old son, I often reflect on when he was smaller. Time really flies!
+Time sure does fly and change is inevitable",empathetic-grade_00004,transformer_generator,thats cool,0.15790274494270315,0.04293320991472867,0.27287227997067764,0.15790274494270315
+"I was excited when I bought my car
+that is exciting! what kind of car?",empathetic-grade_00005,transformer_generator,oh wow that ' s cool . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,0.49010224612435477,0.0,0.9802044922487095,0.49010224612435477
+"A dog chased me through a street the other day
+did he catch you?",empathetic-grade_00006,transformer_generator,oh thats cool,0.2165199867651698,0.16283701500165132,0.27020295852868825,0.2165199867651698
+"A year ago, I found an injured baby kitten in the road while driving.
+Oh no! Did you take the kitten to an animal hospital or care for it yourself?",empathetic-grade_00007,transformer_generator,oh wow that ' s so sweet ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !,0.4897897216659779,0.0,0.9795794433319558,0.4897897216659779
+"Omg! That is terrible. They should really be considerate of people's time
+I wouldn't have minded as much if he actually seemed to care.  If they make you wait and then spend alot of time with you that is one thing",empathetic-grade_00008,transformer_generator,thats a good thing to do,0.364750678264401,0.056786435173915725,0.6727149213548863,0.364750678264401
+"I was planning my wedding and trying to get a caterer.  The one we were looking at was completely ignoring every time my wife tried to communicate with them, to the point where I told them off and went with someone else.
+Sounds like you made the right decision.  What a bunch of A-holes",empathetic-grade_00009,transformer_generator,oh thats cool,0.19842140920899304,0.14500487825268787,0.2518379401652982,0.19842140920899304
+"I've been training a new girl at work this week!
+How is she doing",empathetic-grade_00010,transformer_generator,thats cool,0.11644661510139695,0.16198144145239346,0.07091178875040043,0.11644661510139695
+"It is a blessing and curse. When I am having problems I think about what she would say to me.
+That's a good way to remember her and keep her close to your heart.",empathetic-grade_00011,transformer_generator,thats cool,0.06065999666822308,0.12131999333644616,0.0,0.06065999666822308
+"My husband might loose his job, I'm not sure what we will do if he does.
+That is terrible. Why do you think that he will lose his job?",empathetic-grade_00012,transformer_generator,thats a good thing to do . i hope he is a good job,0.4064505451886148,0.1587274233906568,0.6541736669865728,0.4064505451886148
+"We walked, we ate ice cream, we rode a bike, we laughed a lot, we enjoyed the outdoors, we were exhausted
+Who did you do all those things with? Sounds like a wonderful day!",empathetic-grade_00013,transformer_generator,thats cool,0.06661843644133929,0.13323687288267858,0.0,0.06661843644133929
+"Did I tell you what happened with Li the other night? Boy do I feel dumb.
+No, you didn't tell me! What happened?",empathetic-grade_00014,transformer_generator,Oh no ! That ' s a good time !,0.3352838108905345,0.1551856976790285,0.5153819241020404,0.3352838108905345
+"I am impressed in my sisters camping skills. They are very good
+what did she do ?",empathetic-grade_00015,transformer_generator,thats cool,0.13809929412607758,0.1337882810891358,0.14241030716301933,0.13809929412607758
+"I just went today to visit my son in his new house.
+how was it",empathetic-grade_00016,transformer_generator,thats cool,0.11104558879273321,0.1687886603143922,0.053302517271074205,0.11104558879273321
+"I was stunned with fear to find a rattlesnake right where i was about to step into last week
+holy cow! Thats terrifying. What did you do?",empathetic-grade_00017,transformer_generator,oh wow ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !,0.49380187329999015,0.0,0.9876037465999803,0.49380187329999015
+"I'm gonna need your support here, because I'm going through something a little bit rough, okay?
+Anything you need!! I'm here for you!",empathetic-grade_00018,transformer_generator,thats cool,0.07997942268249582,0.07163187812990822,0.08832696723508342,0.07997942268249582
+"I think that in the past i have spent time caring about things that aren't important.
+What kind of thing?  You could always change that in the future.",empathetic-grade_00019,transformer_generator,That ' s great ! I hope you have a good time !,0.3900814774301876,0.13046563897760866,0.6496973158827666,0.3900814774301876
+"I'm in contract to buy my first house, fingers crossed closing goes well and I close next Friday!
+That is so exciting!! buying a house can be such a great experience.",empathetic-grade_00020,transformer_generator,thats cool,0.05867368281303837,0.11421072296376349,0.003136642662313252,0.05867368281303837
+"Every year when the kids go back to school, it brings back so many memories of when my kids were going to school.
+I know what you mean.  I love to see all the pictures, and think back to how little mine used to be.",empathetic-grade_00021,transformer_generator,thats cool,0.04001440564553509,0.07077758797872125,0.009251223312348927,0.04001440564553509
+"First day of school I remember ,my kids first day of school, how did it make you feel?
+It just gave me the feeling that time flies by too quickly sometimes.  My youngest in the pic was in first grade and his older sister was in 7th grade.",empathetic-grade_00022,transformer_generator,thats cool,0.057903921579482764,0.0,0.11580784315896553,0.057903921579482764
+"I love teaching people how to skydive - it is so much fun helping them to learn.
+That's sound like a lot of fun! Do you know where I can go get lessons?",empathetic-grade_00023,transformer_generator,That ' s great ! i hope you have a good time,0.4147110649988271,0.13530669199500567,0.6941154380026485,0.4147110649988271
+"Yes, I think they offer a great bridge to the past. Do you?
+Absolutely. I love to hear my mámá tell me stories from her childhood trapping nutria and trawling with her family.",empathetic-grade_00024,transformer_generator,thats cool,0.045331693458931226,0.0679784967861126,0.022684890131749846,0.045331693458931226
+"I worked hard all night for that exam. it takes 5 months to get the results back. the wait is killing me
+I hope you did well on it.",empathetic-grade_00025,transformer_generator,thats cool,0.057018366207349805,0.11323224517571696,0.0008044872389826444,0.057018366207349805
+"I have a wonderful sister-in-law.  who is always there for me when I need her
+That must be comforting!  It is good to have people in your life that are supportive.",empathetic-grade_00026,transformer_generator,thats cool,0.04994135795617586,0.09988271591235172,0.0,0.04994135795617586
+"Oh man! What happened to your hip?
+I fell and fractured it two years ago. My then surgeon botched the operation and I have to use a walker to get around. If this new guy can do something I could walk properly again!",empathetic-grade_00027,transformer_generator,That ' s great ! I hope you find it !,0.2755377680320051,0.015352003949272486,0.5357235321147377,0.2755377680320051
+"My husband is on the road a lot, I hardley ever see him.
+I'm sorry. My wife could sympathize with you since I'm gone a lot on business as well.",empathetic-grade_00028,transformer_generator,thats cool,0.02180953647130626,0.04361907294261252,0.0,0.02180953647130626
+"I watched The Lion King today with my daughter, reminded me of my childhood.
+thats a good movie, cant wait for the live action version coming out",empathetic-grade_00029,transformer_generator,"oh cool , did you see it ?",0.3454788507327484,0.08600012348554256,0.6049575779799543,0.3454788507327484
+"We ate good food, drank wine and went swimming.
+That sounds fun.  Was the weather nice?",empathetic-grade_00030,transformer_generator,That ' s a good time . I bet you were able to go to visit .,0.35177764281934293,0.14943856562358393,0.5541167200151019,0.35177764281934293
+"I came home from work last night and my step dad scared me!
+How did he scare you?",empathetic-grade_00031,transformer_generator,thats cool,0.16669914857241266,0.16019819757989542,0.1732000995649299,0.16669914857241266
+"Thats sad. Have you been to Scotand since?
+Only for funerals, unfortunately. Both my parents have since died. Unpleasant fact of life, I'm afraid.",empathetic-grade_00032,transformer_generator,That ' s a good way to work .,0.3278918151410416,0.07894090563762454,0.5768427246444586,0.3278918151410416
+"Sounds like fund, you must be excited!
+I am, I have been watching all my favorite movies.",empathetic-grade_00033,transformer_generator,thats cool,0.11064261198747286,0.09468676558135185,0.12659845839359388,0.11064261198747286
+"I recently had a shop fix my car. They worked so fast!
+That's good, did you have to wait there or were you able to go home?",empathetic-grade_00034,transformer_generator,That ' s great ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !,0.48992009482197235,0.0,0.9798401896439447,0.48992009482197235
+"The other night i heard a sound like someone was breaking in my house, i was pretty scared.
+Wow, that sounds quite disturbing. Was someone breaking in?",empathetic-grade_00035,transformer_generator,oh thats cool,0.1595750256933922,0.11191789456311842,0.20723215682366597,0.1595750256933922
+"I remember being in Scotland and arranging a trip to California to see my then boyfriend. I was so very happy to be seeing him again!
+I bet! Is it hard to have a long distance relationship?",empathetic-grade_00036,transformer_generator,That ' s great ! I hope you have a great time !,0.4045482144779553,0.17959200329911812,0.6295044256567925,0.4045482144779553
+"My mother fell and injured herself. I wanted help and comfort her in any way possible.
+Oh no! I'm sorry. Is she going to be ok?",empathetic-grade_00037,transformer_generator,"thats cool , i hope you have a good time",0.3607379853207204,0.12329197221936901,0.5981839984220717,0.3607379853207204
+"When I do things that are challenging I feel more self-reliant. I recently tried taking an ice bath
+Oh man! thats impressive, those baths are rough.",empathetic-grade_00038,transformer_generator,"thats cool , i hope you have a great time",0.3947461593206803,0.11019934905219404,0.6792929695891665,0.3947461593206803
+"My aggressive pet rat attacked the baby rat and left her a horrible gash on her abdomen!
+Wow, that sounds very disgusting.",empathetic-grade_00039,transformer_generator,thats cool,0.133160351063697,0.1674265219971541,0.09889418013023987,0.133160351063697
+"I just enjoyed grocery shopping for the first time in a very long time. I've found my perfect restaurant/store and spent a very happy 40 mins or so wandering around it.
+That's great! Did you get anything you are especially excited about? It's a restaurant and a store?",empathetic-grade_00040,transformer_generator,"oh thats cool , i hope you have a great time !",0.40387077702931284,0.12945975686604844,0.6782817971925773,0.40387077702931284
+"I still live and work in the place where I grew up, but all of my friends have moved away.
+Aw, that has to be tough not to see your friends. Do they visit often?",empathetic-grade_00041,transformer_generator,oh thats cool,0.1665382758641947,0.13527060586101244,0.19780594586737696,0.1665382758641947
+"My parents gave me a car for graduating from college. It makes my life so much easier.
+You deserved for graduating.",empathetic-grade_00042,transformer_generator,thats cool,0.15221536943979064,0.1015020623017968,0.20292867657778446,0.15221536943979064
+"My birthday was last week and I never heard from my brother OR my sister to wish me a happy birthday.
+oh no I am sorry to hear that! They must have been really busy and it must have slipped their mind",empathetic-grade_00043,transformer_generator,thats cool,0.047720513088506826,0.09544102617701365,0.0,0.047720513088506826
+"Needing some extra money, I used the spare change in my car to buy a scratch off ticket.
+Nice.. what type of ticket.. Monopoly?  Price is Right?  Scrabble?  Bingo?",empathetic-grade_00044,transformer_generator,oh thats cool,0.16135099782296536,0.042822611198619714,0.279879384447311,0.16135099782296536
+"I woke up and the first thing I saw that my cat had decided to play with my shoes and ruin them!
+Oh my, you must have been annoyed with your cat. I guess he just wanted your attention.",empathetic-grade_00045,transformer_generator,oh thats cool,0.19348092559230265,0.17371932471473894,0.21324252646986636,0.19348092559230265
+"No, I didn't.  We live in a rural area and the grocery store is 20 minutes away.  Lucky for him, I forgot some other stuff for tomorrow's dinner [mom brain!] and I told him that we could ride together tomorrow back to the store.
+Maybe you should let him get a couple of things to make up for it.",empathetic-grade_00046,transformer_generator,oh thats cool,0.1694962976903226,0.12938562175395357,0.20960697362669165,0.1694962976903226
+"Yeah it really does. It's even worse to try and close those accounts!
+They don't want to. I lost mine or it was stolen. But all my autopay bills are at a standstill and the companies are not happy about it.",empathetic-grade_00047,transformer_generator,oh thats a good way to go,0.24323597311746892,0.0,0.48647194623493784,0.24323597311746892
+"I'm eating a lot of food to make sure I can lift more weight in the gym next time!
+Are you taking protein?",empathetic-grade_00048,transformer_generator,thats cool,0.17926431955910355,0.18156066044585747,0.17696797867234965,0.17926431955910355
+"This afternoon i went to my sons soccer game and he scored three goals! happiest dad ever!
+I figure your son is pretty happy as well.",empathetic-grade_00049,transformer_generator,thats cool,0.11499652443582684,0.050334038131515636,0.17965901074013804,0.11499652443582684
+"I had a job interview yesterday. I was really nervous before it started.
+Was it on the phone or in person?",empathetic-grade_00050,transformer_generator,Oh no ! That ' s a good job .,0.28824673037200377,0.13104173372342942,0.4454517270205781,0.28824673037200377
+"Over the summer my family went to Alabama to visit family and I felt a lot of emotions
+I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",empathetic-grade_00051,transformer_generator,"oh thats cool , i bet you were happy",0.31315286793556424,0.1285290667826415,0.497776669088487,0.31315286793556424
+"Tomorrow I start my new job teaching kids. I really hope it goes well!
+Oh wow, now that really is exciting, congratulations! Did you get the grade level and subject you wanted?",empathetic-grade_00052,transformer_generator,That ' s great ! I hope you have a great time !,0.3907573000786733,0.14458709443361148,0.6369275057237351,0.3907573000786733
+"oh, how nice. What are your plans in that regard for the future?
+have my own restaurant",empathetic-grade_00053,transformer_generator,Oh that ' s cool !,0.3011913039551611,0.1263563493426308,0.4760262585676914,0.3011913039551611
+"I went to a court hearing for unemployment with my former employer, and I felt great about it since I was so prepared with all of the documents and everything I needed to show the court I was in the right for quitting.
+Did it go your way?",empathetic-grade_00054,transformer_generator,oh thats cool,0.17338079075453622,0.13520787034354723,0.21155371116552518,0.17338079075453622
+"So who annoyed you?
+A guy budged in front of some other people, I confronted him about it, and we got into an extremely heated exchange.",empathetic-grade_00055,transformer_generator,That ' s cool . How long did you take him ?,0.2602828009332866,0.03210865311483103,0.4884569487517421,0.2602828009332866
+"there is nothing i hate more than losing in something
+Yeah, that's never fun. Did you lose at something recently?",empathetic-grade_00056,transformer_generator,That ' s cool . I hope you have a good time .,0.3844007444376543,0.13016940050524584,0.6386320883700628,0.3844007444376543
+"My son was just born, my first boy after 11 girls!
+Thats amazing, congratulations. 12 Kids your amazing.",empathetic-grade_00057,transformer_generator,thats cool,0.15510110549100106,0.04488978802080085,0.2653124229612013,0.15510110549100106
+"If my upstairs neighbor wakes me at 3am again I think I'll explode! I get that she has to go to work, but why not get organized the night before for goodness sake?!
+I know the feeling.",empathetic-grade_00058,transformer_generator,thats a good thing to do,0.38207058069398825,0.14743004764264284,0.6167111137453337,0.38207058069398825
+"I feel nostalgic when playing old school games with my bro
+Nice, me too, are you playing Nintendo games?",empathetic-grade_00059,transformer_generator,"thats cool , i love to see my kids , i love to see my kids",0.34503207449757434,0.06625745997305062,0.623806689022098,0.34503207449757434
+"I agree, the writing part is easy part, but the speaking part is the worst!
+Yeah, it seems like the learning curve is impossible! Maybe I just need more life experience",empathetic-grade_00060,transformer_generator,i hope you have a great time,0.3683281973637011,0.08567904748580783,0.6509773472415944,0.3683281973637011
+"I had a terrifying experience what using the restroom yesterday.
+What happened??",empathetic-grade_00061,transformer_generator,Oh that ' s so sweet ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !,0.49071892712139137,0.0,0.9814378542427827,0.49071892712139137
+"I'm going overseas and I think I packed everything i need!
+Where are you headed ?",empathetic-grade_00062,transformer_generator,"thats awesome , i hope you have fun",0.3286528067727653,0.1038512847235568,0.5534543288219739,0.3286528067727653
+"Wow! Congrats to her, and I am sorry that you didn't get the prize. What did she win?
+A weekend trip to Gatlinburg. I would of loved that.",empathetic-grade_00063,transformer_generator,Oh wow ! That ' s a great time !,0.33011450466578807,0.15970567469669078,0.5005233346348853,0.33011450466578807
+"Did you think about moving after that?
+Funny you should mention that - in three weeks time, lol.",empathetic-grade_00064,transformer_generator,"thats cool , i love to see my kids , i love my kids",0.31445919932352256,0.06732562463805102,0.5615927740089941,0.31445919932352256
+"It's been a long week! My husband has been out of town and its been just me and a cranky toddler.
+Will he be back soon?",empathetic-grade_00065,transformer_generator,thats cool,0.1493094024892485,0.13656646044258935,0.1620523445359077,0.1493094024892485
+"My girlfriend's leg was bitten off by a bull shark last summer.
+Oh my! Is she ok, and was it while surfing?",empathetic-grade_00066,transformer_generator,oh thats cool,0.17796648831739145,0.11410276653780048,0.24183021009698244,0.17796648831739145
+"Well yeah, that sounds about right. He has to go to the Championship first and win, then party time !!!!!
+You got it! I've been watching him play for a while now and it's such a fantastic feeling to see him win - and in his own country too!",empathetic-grade_00067,transformer_generator,"thats cool , i hope you have a great time !",0.40151341843760135,0.12783044526805293,0.6751963916071497,0.40151341843760135
+"I recently found out that a person I very much intimately admired did not feel the same way for me. I was pretty surprised.
+I'm sorry to hear that! How did you find out?",empathetic-grade_00068,transformer_generator,thats cool,0.05159833810669966,0.10319667621339931,0.0,0.05159833810669966
+"My sister threw up the other day and made a huge mess.
+that must have been an explosion and a half, did  you clean it up?",empathetic-grade_00069,transformer_generator,That ' s so cool ! I bet it was a great time .,0.3839057787930699,0.16322037355482624,0.6045911840313136,0.3839057787930699
+"Over the summer my family went to Alabama to visit family and I felt a lot of emotions
+I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",empathetic-grade_00070,transformer_generator,"oh thats cool , i bet you were happy",0.31315286793556424,0.1285290667826415,0.497776669088487,0.31315286793556424
+"I'm sorry to hear that. I had a dog die once too.
+it is so sad to know but my mother is rather sick of flu and not dying",empathetic-grade_00071,transformer_generator,oh thats cool,0.07616237080155384,0.07198858729961116,0.08033615430349653,0.07616237080155384
+"I hope she hears some good news. Is it pretty serious?
+She had stage 3 cancer, but she was clear last screening a year ago.",empathetic-grade_00072,transformer_generator,That ' s so sweet . I hope you guys have a good time .,0.3242412944526498,0.033335128706575776,0.6151474601987239,0.3242412944526498
+"I just bought iced coffee yesterday and my brother drank the rest of it without asking me.
+Wow. Does he usually do stuff like that?",empathetic-grade_00073,transformer_generator,"oh thats cool , i bet he was a good time",0.33992211519581017,0.1271209526168639,0.5527232777747564,0.33992211519581017
+"Last night I was walking home from work in a bad part of town, I was a bit scared.
+You should have taken a Uber. You never know what will happen these days.",empathetic-grade_00074,transformer_generator,thats cool,0.04978032924528139,0.09956065849056278,0.0,0.04978032924528139
+"I drank a lot of alcohol at my friend's BBQ party, and I ended up puking and passing out. Not my finest moment.
+Haha, I can relate to that. I did that too, and my friends took a wonderful photo of it. They like to stick it on our yearly Christmas cards to each other",empathetic-grade_00075,transformer_generator,thats a good thing to do,0.2506351367191463,0.0001081036392710807,0.5011621697990215,0.2506351367191463
+"I'm looking forward to my best friend's surprise birthday party next week!
+That sounds like so much fun! I love parties!",empathetic-grade_00076,transformer_generator,thats cool,0.12318751962191185,0.11310533975470731,0.1332696994891164,0.12318751962191185
+"Ugh! I hate it when stuff like that happens. Were you able to get a refund on your tickets?
+No. We went ahead and went on. It actually turned out to be a great trip with zero incidents.",empathetic-grade_00077,transformer_generator,oh wow thats cool,0.19955481568580494,0.09933462944207799,0.2997750019295319,0.19955481568580494
+"Last year I made a bet with my friend and he lost, so he had to buy me a Nintendo Switch. I was so great.
+That's quite the win! What was the bet?",empathetic-grade_00078,transformer_generator,That ' s so cool ! I hope he was a good time !,0.3453004870397254,0.17329082074707042,0.5173101533323803,0.3453004870397254
+"I like going fishing, it reminds me of when I would go with my dad when I was a kid.
+Do you have any kids?",empathetic-grade_00079,transformer_generator,thats cool,0.15234583278500125,0.13966594227779017,0.16502572329221232,0.15234583278500125
+"I won a free trip to Florida. It's not the best vacation, but I'll take it for free.
+Why wasn't it good? Florida sounds like an ideal destination.",empathetic-grade_00080,transformer_generator,thats cool,0.06469947052213489,0.1263447987599928,0.00305414228427698,0.06469947052213489
+"Once I was suppose to go visit my sister and nieces who I hadn't seen in forever but I ended up breaking my heal and big toe and wasn't able to go. I was so upset!
+Dang, that sucks. MAybe they can visit you instead?",empathetic-grade_00081,transformer_generator,oh thats cool,0.24314074574549444,0.15958563923006058,0.3266958522609283,0.24314074574549444
+"One night when my children and I came home, I saw a shadow inside! I was so fearful and afraid!
+Oh that can be scary. I don't watch horror movies because I know that I'll do just that!",empathetic-grade_00082,transformer_generator,i hope it was a good time,0.31307349869895046,0.020556636090751906,0.605590361307149,0.31307349869895046
+"I went to the beach other day
+That is really cool . Did you have a good time?",empathetic-grade_00083,transformer_generator,That ' s cool . How long have you been together ?,0.3948768089368573,0.19548092438074743,0.5942726934929672,0.3948768089368573
+"I had a high risk pregnancy up until a few months ago. I felt the most grateful I'd ever been when my baby turned out healthy.
+Congrats, that must have been a very stressful time leading up the the birth.",empathetic-grade_00084,transformer_generator,thats cool,0.040862335773693345,0.08172467154738669,0.0,0.040862335773693345
+"Tomorrow is the big day, I have to deliver my proposal to the client.
+Are you ready for it?",empathetic-grade_00085,transformer_generator,oh thats cool,0.16231275434409492,0.16577841239212027,0.15884709629606955,0.16231275434409492
+"I was feeling kind of down so I ended up snuggling with a stuffed rabbit I have. It brought back a lot of good old memories.
+Never too old or too manly to snuggle a stuffed animal. My mom said I used to carry this blanket with me when I was a toddler, everywhere I went. I wish I still had it. If I did, I'd consider using it again, or at the very least passing it down to my own kid. What's the harm, you know? If something gives you comfort and doesn't bother anyone else, there should be no shame.",empathetic-grade_00086,transformer_generator,That ' s a great way to go to the same way .,0.3240474760996315,0.06807626152151267,0.5800186906777504,0.3240474760996315
+"I'm so excited about an upcoming move and life change -- it's a move to a verrrry different state, but should be interesting!
+What state are you going to move to?",empathetic-grade_00087,transformer_generator,That ' s great ! I hope you have a great time !,0.39442582886908184,0.16121781960021456,0.6276338381379492,0.39442582886908184
+"When I got the phone call that my mom had cancer I was so upset.
+I am so sorry to hear that. No one should have to go through something like that.",empathetic-grade_00088,transformer_generator,that ' s a good thing to do,0.40707384036089106,0.09614591369394833,0.7180017670278338,0.40707384036089106
+"I was very sad when I found out that my neighbors houses were going to be demolished because the city ordered it..
+Is the city going to build them new ones at least?",empathetic-grade_00089,transformer_generator,oh thats cool,0.1711347101037301,0.1479519376934696,0.19431748251399059,0.1711347101037301
+"I am going to a concert very soon.
+Cool! Who are you going to see?",empathetic-grade_00090,transformer_generator,That ' s cool . I love my favorite year .,0.2974653935118982,0.14476367490936495,0.4501671121144315,0.2974653935118982
+"Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.
+Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",empathetic-grade_00091,transformer_generator,thats cool,0.149926463440865,0.13503725389412316,0.16481567298760683,0.149926463440865
+"Hello, tomorrow I have the cooking test and I feel safe. I am sure that I will approve with an excellent rating
+oh, how nice. What are your plans in that regard for the future?",empathetic-grade_00092,transformer_generator,That ' s great ! I hope you have a good time !,0.3775905648069644,0.1401240398950933,0.6150570897188354,0.3775905648069644
+"I was trying to take a nap, but my cat kept on trying to play with my head.
+I love cats.",empathetic-grade_00093,transformer_generator,thats cool,0.16112052309919928,0.10554891839532611,0.21669212780307245,0.16112052309919928
+"Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.
+Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",empathetic-grade_00094,transformer_generator,thats cool,0.149926463440865,0.13503725389412316,0.16481567298760683,0.149926463440865
+"Same. And all these guys live in different places now so it's harder and harder to get everyone together.
+I bet it would be tough.  Was there a special occasion that brought you all together?",empathetic-grade_00095,transformer_generator,oh thats cool,0.10611680768276346,0.08488847427414029,0.12734514109138664,0.10611680768276346
+"You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!
+Its always nice to get some sleep",empathetic-grade_00096,transformer_generator,thats cool,0.09917333838951907,0.19834667677903814,0.0,0.09917333838951907
+"I ended up staying at home for the holidays
+why is that? comfort ?",empathetic-grade_00097,transformer_generator,thats cool,0.1487298118775743,0.12334572395033801,0.17411389980481062,0.1487298118775743
+"In college I was in a class with an older woman who stole my ideas for a paper.
+Oh wow! that stinks. Im sorry",empathetic-grade_00098,transformer_generator,thats cool,0.11418398752089005,0.031979407379692106,0.196388567662088,0.11418398752089005
+"I am so happy it's a boy
+You just had a baby?! I didn't even know you were expecting!",empathetic-grade_00099,transformer_generator,thats cool,0.047533742327236145,0.0075420737238886485,0.08752541093058364,0.047533742327236145
+"my son just used a potty for the first time! he is only 16 months. i'm so proud of him
+Watch out! Next thing you turn around, and he's driving.",empathetic-grade_00100,transformer_generator,thats cool,0.14700015836350697,0.038205397903586555,0.25579491882342736,0.14700015836350697
+"I understand, but coming at me head on, on a two lane highway, while I'm on a bridge with nowhere to go is not cool.
+I cant imagine how scared you must have been.",empathetic-grade_00101,transformer_generator,"thats cool , i hope you have a great time !",0.4249566599570219,0.14602842596122384,0.70388489395282,0.4249566599570219
+"OKay. I care for everyone
+well you sound like a good person",empathetic-grade_00102,transformer_generator,thats cool,0.1282196707310429,0.19592867931947933,0.06051066214260646,0.1282196707310429
+"I love youtube. been listening to all my classic tracks. Tupac forever
+I love me some Tupac. Real talk.",empathetic-grade_00103,transformer_generator,thats cool,0.0906015598578083,0.0528478374823661,0.1283552822332505,0.0906015598578083
+"When my daughter was born doctors said she wouldn't ever go to school and basically be mentally handicapped.
+And how is she doing now",empathetic-grade_00104,transformer_generator,thats cool,0.07768678233495711,0.12566376734837584,0.029709797321538386,0.07768678233495711
+"I was going through my photos today and I saw a picture of me and my ex together. It just made me feel odd, I miss him.
+Nice, when did you guys break up",empathetic-grade_00105,transformer_generator,"thats cool , i bet you were happy",0.3180628416580223,0.16621514520624334,0.46991053810980127,0.3180628416580223
+"One time when I was kicked out of the place I was staying at, my best friend immediately told me I could stay with her until I got on my feet.
+Oh no, that sounds like an awful situation. What did you end up doing after that?",empathetic-grade_00106,transformer_generator,That ' s cool ! I hope you have a good time !,0.372013032739985,0.1476544158230359,0.5963716496569341,0.372013032739985
+"When I got the phone call that my mom had cancer I was so upset.
+I am so sorry to hear that. No one should have to go through something like that.",empathetic-grade_00107,transformer_generator,that ' s a good thing to do,0.40707384036089106,0.09614591369394833,0.7180017670278338,0.40707384036089106
+"I'm so proud of my wife
+i bet she's a wonderful woman",empathetic-grade_00108,transformer_generator,thats cool,0.14288436997305898,0.2142861788434613,0.07148256110265663,0.14288436997305898
+"I feel like deepening my connection to God is the most important thing in my life
+I think that is a lovely thing",empathetic-grade_00109,transformer_generator,thats cool,0.10602894890819077,0.21205789781638154,0.0,0.10602894890819077
+"The other night I was driving home in the rain and slid into the guard rail. It is going to cost so much to get my car fixed!
+Oh man, now that sucks! You gotta be careful on those wet roads. At least you're okay.",empathetic-grade_00110,transformer_generator,thats a good thing to do,0.3347360330236985,0.09595966998566109,0.5735123960617359,0.3347360330236985
+"I have the best kids in the world.
+What did they do this time?",empathetic-grade_00111,transformer_generator,That ' s cool . How long have you been together ?,0.37395819573705125,0.15658852726451422,0.5913278642095883,0.37395819573705125
+"I got to go to a cat cafe when no one else was around!
+I've been to one before with my girlfriend, what an amazing experience eh?",empathetic-grade_00112,transformer_generator,"thats cool , i hope you have a good time",0.37220623454802254,0.10630914301731735,0.6381033260787278,0.37220623454802254
+"I'm gonna take the family out to the lake this weekend, we might rent a boat.
+That sounds like a great way to spend the weekend.  What type of boat are you thinking about renting?",empathetic-grade_00113,transformer_generator,That ' s great ! I bet you ' re happy !,0.32377551900523327,0.11665144411857745,0.5308995938918891,0.32377551900523327
+"I felt sooooo nervous going to my last job interview! Nerves must occur in proportion to how badly you *want* something!
+I know what you mean. Did you get the job?",empathetic-grade_00114,transformer_generator,thats cool,0.07785880420440884,0.09783154381905461,0.05788606458976307,0.07785880420440884
+"Wow, that is sweet of him, does he have a crush on you?
+It was a nice gesture on his part. But I do not know",empathetic-grade_00115,transformer_generator,thats cool,0.13210070972925814,0.07792913499373909,0.18627228446477717,0.13210070972925814
+"I have a big exam coming up! My nerves are getting to me.
+ohh good luck!",empathetic-grade_00116,transformer_generator,thats cool,0.1825833009660383,0.18066937823262724,0.18449722369944938,0.1825833009660383
+"i was so stressed when i found out that i did not get accepted in my dream college
+Oh no. Did you have a good backup plan ?",empathetic-grade_00117,transformer_generator,"thats cool , i hope you have a good time",0.3718139508351887,0.12070079151424437,0.622927110156133,0.3718139508351887
+"I went to see Hamilton last month in NYC
+Oh the broadway musical? I heard really good reviews of it",empathetic-grade_00118,transformer_generator,thats cool,0.059939671240909126,0.06373143059352462,0.05614791188829362,0.059939671240909126
+"i cant wait to see my dog back home it has been 2 years since i see him
+I would go mad, were you away at college or in the service?",empathetic-grade_00119,transformer_generator,oh thats cool,0.13055417734837277,0.10878557283610368,0.15232278186064188,0.13055417734837277
+"Nothing really! I just love that I can work at home and have time to clean or cook whenever I want.
+I work from home too.  Its so nice to be able to do laundry and things on my breaks.  Im so productive around the house",empathetic-grade_00120,transformer_generator,thats cool,0.09611245192317608,0.0,0.19222490384635216,0.09611245192317608
+"A good friend of mine moved away recently and we lost contact. I really wish we would still speak.
+I know how that feels. Maybe try reaching out.",empathetic-grade_00121,transformer_generator,thats cool,0.10471018058216705,0.13367035945462233,0.07575000170971179,0.10471018058216705
+"I got to hear a lot of cool songs on a radio station I usually don't listen to.
+Nice! Which ones did you hear!",empathetic-grade_00122,transformer_generator,thats cool,0.15684924441704057,0.19570785935728224,0.11799062947679889,0.15684924441704057
+"I wore wrong pair of socks to the college. But, no was there to spot it. But, when we have to go in for a church we have to first remove the shoes. At, that time friend of mine spotted with with wrong pair of shoes. They made a fun of me. That was very awkward situation.
+Oh that sucks :( Maybe organize the socks better?",empathetic-grade_00123,transformer_generator,That sounds like a lot of fun .,0.3578695999613671,0.0281637894209353,0.6875754105017988,0.3578695999613671
+"They arrested 9 people at a nearby farm for animal cruelty and they are already out of jail on bond!
+Oh, that's not right. I have a rescue dog, she had a litter of puppies at a puppy mill before she was a year.",empathetic-grade_00124,transformer_generator,oh no ! i bet you were so happy ! i hope you get it back,0.36392990378297896,0.10133869327677306,0.6265211142891849,0.36392990378297896
+"I was quite distressed to hear of the passing of Anthony Bourdain. That someone who has given so much joy to a huge number of people should take his own life is just awful.
+I know!  I was just watching his show on Netflix!  So sad, especially since he had a little girl he is leaving behind.",empathetic-grade_00125,transformer_generator,oh thats cool,0.14830967750941343,0.11991640881091875,0.1767029462079081,0.14830967750941343
+"I'm pretty excited for the upcoming Halloween season.
+I am too! What are your plans?",empathetic-grade_00126,transformer_generator,"That ' s great ! I love to see my kids , but it ' s a good time .",0.3647842401676249,0.13938872829447815,0.5901797520407717,0.3647842401676249
+"Not until about 8am, but it's so loud I can hear it in my first floor apartment with the doors and windows closed. Idiot man!
+So inconsiderate! It reminds me of my neighbours doing building work one morning at 6AM!",empathetic-grade_00127,transformer_generator,thats cool,0.13009644912322743,0.10367025010155731,0.15652264814489758,0.13009644912322743
+"So I asked out a girl in my class and she said yes. Was a big morale boost.
+im glad to hear that!",empathetic-grade_00128,transformer_generator,oh thats cool,0.1718290421056632,0.14059436754107202,0.20306371667025436,0.1718290421056632
+"I was horribly wronged by someone I thought I could trust. The feeling was devastating, and I've always struggled with forgiveness.
+Oh my, what happened? I'm so sorry, no one should treat anyone they care about poorly.",empathetic-grade_00129,transformer_generator,thats cool,0.04486634901985622,0.08973269803971244,0.0,0.04486634901985622
+"My partner left me the other day.
+That's rough, I'm sorry to hear that",empathetic-grade_00130,transformer_generator,thats cool,0.07491960615185689,0.14983921230371378,0.0,0.07491960615185689
+"I told a lie to my mother.
+Was it a bad one? And did she find out?",empathetic-grade_00131,transformer_generator,That ' s a good time . How did it go ?,0.3571722880282041,0.15290155108886297,0.5614430249675453,0.3571722880282041
+"I feel the same way.
+How do you channel the anger? Obviously, it too easily turns into the same kind of negative emotion I'm upset about -- so that can feel hypocritical!",empathetic-grade_00132,transformer_generator,That ' s great ! I hope you can find it !,0.30618489723455555,0.07568296188767104,0.5366868325814401,0.30618489723455555
+"I was annoyed when my favorite show wasn't on
+what did you end up watching instead",empathetic-grade_00133,transformer_generator,thats cool,0.0862695634737752,0.1725391269475504,0.0,0.0862695634737752
+"My dad called me one day crying out for help. I had to drive over to his house.
+Oh my goodness! What happened?",empathetic-grade_00134,transformer_generator,That ' s great ! I hope you have a good time !,0.38155916080494245,0.14714973840515988,0.615968583204725,0.38155916080494245
+"oopsy. I hope it was worth it.
+It might not be when my wife returns and sees it gone. I look super guilty right now.",empathetic-grade_00135,transformer_generator,thats cool,0.03648972152557229,0.06776726456244513,0.005212178488699456,0.03648972152557229
+"I ate way too many sweets today!
+theres always tomorrow!",empathetic-grade_00136,transformer_generator,thats cool,0.15560472767329858,0.09549560834202851,0.21571384700456867,0.15560472767329858
+"I was heartbroken when my mom told me that my childhood dog had died
+Oh god.. sorry.. How are you holding up?",empathetic-grade_00137,transformer_generator,That ' s so sweet . I hope you have a good time,0.37431412845656953,0.14816203750707452,0.6004662194060646,0.37431412845656953
+"I'm a little anxious about an upcoming move. It's to a *very* different state with a *very* different climate and way of life!
+What is the state and do you like change?",empathetic-grade_00138,transformer_generator,That ' s great ! I love my favorite years !,0.2863078507308298,0.13567985885761766,0.43693584260404195,0.2863078507308298
+"I have only a few more semesters in college. I feel very hopeful about my chances of finishing.
+That's awesome. What are you majoring in?",empathetic-grade_00139,transformer_generator,That ' s great ! I hope you have a great time !,0.39397207163223147,0.1725403348516171,0.6154038084128458,0.39397207163223147
+"I sold some stuff I didnt need last week.
+did yo make some good money?",empathetic-grade_00140,transformer_generator,thats cool,0.22768722125338253,0.1101274032662201,0.34524703924054495,0.22768722125338253
+"i cant believe the growth video games are having this past couple of years
+What do you mean by that? I'm not a gamer really",empathetic-grade_00141,transformer_generator,Oh that ' s a good time . I love my favorite favorite year .,0.29277002117144385,0.15999587364872,0.4255441686941677,0.29277002117144385
+"I've been teaching my young daughter to play video games with me, she's such a quick learner.
+What video games are the two of you playing?",empathetic-grade_00142,transformer_generator,"Oh wow , that ' s a good time . I love it",0.3254639585267287,0.13798431333490488,0.5129436037185525,0.3254639585267287
+"I am so proud of my sister
+What did she do?",empathetic-grade_00143,transformer_generator,That ' s great ! What did you do ?,0.3656641768824146,0.1865785204210205,0.5447498333438087,0.3656641768824146
+"I enjoy visiting the nursing home on occasion.
+Oh yeah?  Do you know someone that lives there?",empathetic-grade_00144,transformer_generator,That ' s cool . I hope you have a good time .,0.3980222565802507,0.1432393754711698,0.6528051376893316,0.3980222565802507
+"I see, you must have felt hopeful
+I gave thanks in spite of the difficulties",empathetic-grade_00145,transformer_generator,thats cool,0.09163782886929293,0.18327565773858587,0.0,0.09163782886929293
+"No matter how many times I told her that I didn't do it, my roommate insisted that I ate her ice cream last night! Unbelievable!
+Well, did you eat her ice cream?",empathetic-grade_00146,transformer_generator,Wow ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !,0.49325572300237547,0.0,0.9865114460047509,0.49325572300237547
+"I tripped and fell in front of some people.
+Ouch! Was it a serious fall?",empathetic-grade_00147,transformer_generator,Oh that ' s terrible . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,0.48972574146943376,0.0,0.9794514829388675,0.48972574146943376
+"Are you cleaning out a house or do you not have garbage pick-up?
+The company in my city just quit picking up for any of the residents, so the dump has a line every day.",empathetic-grade_00148,transformer_generator,oh thats cool,0.15409051348859368,0.016231131627831366,0.291949895349356,0.15409051348859368
+"I had to wait in line for 15 minutes at the store today. There was only one poor cashier working.
+That must of been a pain! I hate waiting in lines for cashiers, they are so slow sometimes.",empathetic-grade_00149,transformer_generator,oh thats cool,0.08227796985273529,0.014492202735781109,0.15006373696968947,0.08227796985273529
+"Someone let me cut in line at the store so I could check out faster.
+wow that was really nice of them",empathetic-grade_00150,transformer_ranker,oh well you lived through it!,0.19387918008423102,0.1724331333656958,0.21532522680276625,0.19387918008423102
+"My sunday was great. All my chores were done ahead of time. It was a rare and welcomed day.
+that is awesome. sundays are usually my veg out days.",empathetic-grade_00151,transformer_ranker,When is it?,0.1362424750020176,0.08991411013173278,0.18257083987230244,0.1362424750020176
+"Well, it takes perseverance and a bit of luck, but you can do it!
+My dream job is being born rich. Its too late for that",empathetic-grade_00152,transformer_ranker,"Yes, and you will succeed eventually.",0.17703519583248017,0.12107977141517744,0.23299062024978293,0.17703519583248017
+"I always feel like no one hears me. Like When I speak it falls on deaf ears.
+That sucks. Maybe it's time to get new friends?",empathetic-grade_00153,transformer_ranker,Glad you had fun. What breed is it?,0.16562680158950474,0.08389429373322642,0.24735930944578308,0.16562680158950474
+"As I look at my 21 year old son, I often reflect on when he was smaller. Time really flies!
+Time sure does fly and change is inevitable",empathetic-grade_00154,transformer_ranker,your husband is a lucky guy!,0.16695564222412201,0.028511439310137845,0.3053998451381062,0.16695564222412201
+"I was excited when I bought my car
+that is exciting! what kind of car?",empathetic-grade_00155,transformer_ranker,That would be great! It would certainly save you from having to buy a new car for a while.,0.3204800521957821,0.12289268443131422,0.51806741996025,0.3204800521957821
+"A dog chased me through a street the other day
+did he catch you?",empathetic-grade_00156,transformer_ranker,What kind of dog was it?,0.3259382347673405,0.18571003739704955,0.4661664321376315,0.3259382347673405
+"A year ago, I found an injured baby kitten in the road while driving.
+Oh no! Did you take the kitten to an animal hospital or care for it yourself?",empathetic-grade_00157,transformer_ranker,That's very kind of you. Too often people neglect stray animals and they suffer terrible short lives.,0.2255908000312907,0.10210480643108956,0.34907679363149186,0.2255908000312907
+"Omg! That is terrible. They should really be considerate of people's time
+I wouldn't have minded as much if he actually seemed to care.  If they make you wait and then spend alot of time with you that is one thing",empathetic-grade_00158,transformer_ranker,I hope you keep it forever.,0.19054838218386969,0.0,0.38109676436773937,0.19054838218386969
+"I was planning my wedding and trying to get a caterer.  The one we were looking at was completely ignoring every time my wife tried to communicate with them, to the point where I told them off and went with someone else.
+Sounds like you made the right decision.  What a bunch of A-holes",empathetic-grade_00159,transformer_ranker,Ah ok. Good you stayed committed to your wife.,0.15598225311478991,0.18508456957250166,0.12687993665707817,0.15598225311478991
+"I've been training a new girl at work this week!
+How is she doing",empathetic-grade_00160,transformer_ranker,"That is awesome, good luck",0.16552424724030473,0.12456155488749479,0.20648693959311465,0.16552424724030473
+"It is a blessing and curse. When I am having problems I think about what she would say to me.
+That's a good way to remember her and keep her close to your heart.",empathetic-grade_00161,transformer_ranker,She is probably working hard to provide a better life for the family.,0.34864880972551493,0.1741959938570679,0.523101625593962,0.34864880972551493
+"My husband might loose his job, I'm not sure what we will do if he does.
+That is terrible. Why do you think that he will lose his job?",empathetic-grade_00162,transformer_ranker,What kind of job is it?   I will keep my fingers crossed he gets it!,0.3472766007415339,0.17090913590351733,0.5236440655795505,0.3472766007415339
+"We walked, we ate ice cream, we rode a bike, we laughed a lot, we enjoyed the outdoors, we were exhausted
+Who did you do all those things with? Sounds like a wonderful day!",empathetic-grade_00163,transformer_ranker,That sounds good!,0.14049905627955217,0.20844369786075012,0.07255441469835419,0.14049905627955217
+"Did I tell you what happened with Li the other night? Boy do I feel dumb.
+No, you didn't tell me! What happened?",empathetic-grade_00164,transformer_ranker,Please tell me you caught him!! That is awful!!,0.23570514205348062,0.16772177904746272,0.3036885050594985,0.23570514205348062
+"I am impressed in my sisters camping skills. They are very good
+what did she do ?",empathetic-grade_00165,transformer_ranker,Sounds amazing! What kind of art does she want to produce?,0.21381388936983203,0.1439100642042155,0.28371771453544853,0.21381388936983203
+"I just went today to visit my son in his new house.
+how was it",empathetic-grade_00166,transformer_ranker,That is great. Did you buy him a present for graduation?,0.17014574541942268,0.0794537364079509,0.26083775443089446,0.17014574541942268
+"I was stunned with fear to find a rattlesnake right where i was about to step into last week
+holy cow! Thats terrifying. What did you do?",empathetic-grade_00167,transformer_ranker,sounds super scary! my god.,0.13340578303644762,0.15266963350805293,0.11414193256484231,0.13340578303644762
+"I'm gonna need your support here, because I'm going through something a little bit rough, okay?
+Anything you need!! I'm here for you!",empathetic-grade_00168,transformer_ranker,That's great! You have to keep a good attitude about it. I hope you get the part you want!,0.2909286203574951,0.1807112019109374,0.4011460388040528,0.2909286203574951
+"I think that in the past i have spent time caring about things that aren't important.
+What kind of thing?  You could always change that in the future.",empathetic-grade_00169,transformer_ranker,Good for you.What is the reason of all this happiness?,0.24109820485189548,0.12453935965026883,0.3576570500535221,0.24109820485189548
+"I'm in contract to buy my first house, fingers crossed closing goes well and I close next Friday!
+That is so exciting!! buying a house can be such a great experience.",empathetic-grade_00170,transformer_ranker,How much is the house?,0.24617594135527066,0.11233907561238247,0.3800128070981588,0.24617594135527066
+"Every year when the kids go back to school, it brings back so many memories of when my kids were going to school.
+I know what you mean.  I love to see all the pictures, and think back to how little mine used to be.",empathetic-grade_00171,transformer_ranker,I have those kinds of feelings as well. I think memories are a good thing though,0.3250315908480869,0.16385165441769522,0.4862115272784786,0.3250315908480869
+"First day of school I remember ,my kids first day of school, how did it make you feel?
+It just gave me the feeling that time flies by too quickly sometimes.  My youngest in the pic was in first grade and his older sister was in 7th grade.",empathetic-grade_00172,transformer_ranker,That's awesome. That's a good amount for a little effort which is always nice.,0.16726400739724442,0.0,0.33452801479448885,0.16726400739724442
+"I love teaching people how to skydive - it is so much fun helping them to learn.
+That's sound like a lot of fun! Do you know where I can go get lessons?",empathetic-grade_00173,transformer_ranker,It does just bring about a great feeling doesn't it?,0.21800189953564347,0.15701129368786584,0.2789925053834211,0.21800189953564347
+"Yes, I think they offer a great bridge to the past. Do you?
+Absolutely. I love to hear my mámá tell me stories from her childhood trapping nutria and trawling with her family.",empathetic-grade_00174,transformer_ranker,"well, as long as you're happy",0.24432319646735384,0.030955029237110267,0.45769136369759744,0.24432319646735384
+"I worked hard all night for that exam. it takes 5 months to get the results back. the wait is killing me
+I hope you did well on it.",empathetic-grade_00175,transformer_ranker,That is the confidence to have!,0.2372424999086627,0.1484493676869453,0.3260356321303801,0.2372424999086627
+"I have a wonderful sister-in-law.  who is always there for me when I need her
+That must be comforting!  It is good to have people in your life that are supportive.",empathetic-grade_00176,transformer_ranker,"Oh, that does not seem very nice.",0.2677460557075717,0.1396469932827435,0.39584511813239986,0.2677460557075717
+"Oh man! What happened to your hip?
+I fell and fractured it two years ago. My then surgeon botched the operation and I have to use a walker to get around. If this new guy can do something I could walk properly again!",empathetic-grade_00177,transformer_ranker,Sounds cool! There isn't anything like that around here.,0.1507415192506914,0.09651953352058533,0.2049635049807975,0.1507415192506914
+"My husband is on the road a lot, I hardley ever see him.
+I'm sorry. My wife could sympathize with you since I'm gone a lot on business as well.",empathetic-grade_00178,transformer_ranker,it is so nice to see a marriage as strong these days!,0.28835252589086935,0.11683459257269371,0.459870459209045,0.28835252589086935
+"I watched The Lion King today with my daughter, reminded me of my childhood.
+thats a good movie, cant wait for the live action version coming out",empathetic-grade_00179,transformer_ranker,Nice you must feel pretty lucky,0.07668098763962113,0.02601726840037157,0.12734470687887067,0.07668098763962113
+"We ate good food, drank wine and went swimming.
+That sounds fun.  Was the weather nice?",empathetic-grade_00180,transformer_ranker,I bet so. I've never done anything like that before.,0.26365578054026284,0.13608065652575582,0.3912309045547699,0.26365578054026284
+"I came home from work last night and my step dad scared me!
+How did he scare you?",empathetic-grade_00181,transformer_ranker,That's so sweet!  I bet he is an awesome dad!,0.22468083601086103,0.12902415646198792,0.3203375155597341,0.22468083601086103
+"Thats sad. Have you been to Scotand since?
+Only for funerals, unfortunately. Both my parents have since died. Unpleasant fact of life, I'm afraid.",empathetic-grade_00182,transformer_ranker,"don't feel sad,day will pass and present is the best moment and live",0.12604744271081478,0.0,0.25209488542162956,0.12604744271081478
+"Sounds like fund, you must be excited!
+I am, I have been watching all my favorite movies.",empathetic-grade_00183,transformer_ranker,"me too, i use it for work , to relax and play games or watch movies on it",0.3365244976530346,0.13900423733124068,0.5340447579748285,0.3365244976530346
+"I recently had a shop fix my car. They worked so fast!
+That's good, did you have to wait there or were you able to go home?",empathetic-grade_00184,transformer_ranker,Oh sorry to hear that.. Don't you like florida?,0.276054013864974,0.17834831507442261,0.37375971265552543,0.276054013864974
+"The other night i heard a sound like someone was breaking in my house, i was pretty scared.
+Wow, that sounds quite disturbing. Was someone breaking in?",empathetic-grade_00185,transformer_ranker,Oh my god. That's so scary!,0.18531372610706176,0.14792815708215606,0.22269929513196748,0.18531372610706176
+"I remember being in Scotland and arranging a trip to California to see my then boyfriend. I was so very happy to be seeing him again!
+I bet! Is it hard to have a long distance relationship?",empathetic-grade_00186,transformer_ranker,That's great! I went on a nice trip too,0.20976529509504616,0.18145610125008213,0.23807448894001018,0.20976529509504616
+"My mother fell and injured herself. I wanted help and comfort her in any way possible.
+Oh no! I'm sorry. Is she going to be ok?",empathetic-grade_00187,transformer_ranker,That sad. I hope she is okay.,0.23009214389903165,0.18872466397156337,0.27145962382649996,0.23009214389903165
+"When I do things that are challenging I feel more self-reliant. I recently tried taking an ice bath
+Oh man! thats impressive, those baths are rough.",empathetic-grade_00188,transformer_ranker,Sounds like somebody needs an accountabili-buddy...,0.1545391131646357,0.11261160896743594,0.1964666173618355,0.1545391131646357
+"My aggressive pet rat attacked the baby rat and left her a horrible gash on her abdomen!
+Wow, that sounds very disgusting.",empathetic-grade_00189,transformer_ranker,sounds like a good idea i hope her pain goes away asap!,0.33393269015561433,0.1547746328263232,0.5130907474849055,0.33393269015561433
+"I just enjoyed grocery shopping for the first time in a very long time. I've found my perfect restaurant/store and spent a very happy 40 mins or so wandering around it.
+That's great! Did you get anything you are especially excited about? It's a restaurant and a store?",empathetic-grade_00190,transformer_ranker,"Ford makes some pretty nifty cars! I have a Ford Focus myself. Not much, but it has killer gas mileage.",0.17451459791466534,0.09661994054613134,0.25240925528319935,0.17451459791466534
+"I still live and work in the place where I grew up, but all of my friends have moved away.
+Aw, that has to be tough not to see your friends. Do they visit often?",empathetic-grade_00191,transformer_ranker,I have a friend like that. We lose touch but we will always be great friends.,0.29656035805518194,0.16132079342190236,0.4317999226884615,0.29656035805518194
+"My parents gave me a car for graduating from college. It makes my life so much easier.
+You deserved for graduating.",empathetic-grade_00192,transformer_ranker,Good for you. Many are getting into car loan and struggling with car payments,0.19962174803500404,0.06319383778983052,0.3360496582801776,0.19962174803500404
+"My birthday was last week and I never heard from my brother OR my sister to wish me a happy birthday.
+oh no I am sorry to hear that! They must have been really busy and it must have slipped their mind",empathetic-grade_00193,transformer_ranker,wow thats a nice little drive!,0.17747752222590835,0.15093508326824454,0.20401996118357213,0.17747752222590835
+"Needing some extra money, I used the spare change in my car to buy a scratch off ticket.
+Nice.. what type of ticket.. Monopoly?  Price is Right?  Scrabble?  Bingo?",empathetic-grade_00194,transformer_ranker,Smart move!  Good for you for deciding to use it responsibly.,0.20815946998681406,0.05697524567834473,0.3593436942952834,0.20815946998681406
+"I woke up and the first thing I saw that my cat had decided to play with my shoes and ruin them!
+Oh my, you must have been annoyed with your cat. I guess he just wanted your attention.",empathetic-grade_00195,transformer_ranker,"well , glad it wasn't something important. it was just a cat. and you are safe. so that is great!",0.29307867962994466,0.1554234282981596,0.4307339309617297,0.29307867962994466
+"No, I didn't.  We live in a rural area and the grocery store is 20 minutes away.  Lucky for him, I forgot some other stuff for tomorrow's dinner [mom brain!] and I told him that we could ride together tomorrow back to the store.
+Maybe you should let him get a couple of things to make up for it.",empathetic-grade_00196,transformer_ranker,"Oh, well hopefully that works. Wouldn't want you up all night!",0.18303533562799992,0.14105593788256698,0.22501473337343286,0.18303533562799992
+"Yeah it really does. It's even worse to try and close those accounts!
+They don't want to. I lost mine or it was stolen. But all my autopay bills are at a standstill and the companies are not happy about it.",empathetic-grade_00197,transformer_ranker,yea that sucks.. feeling those cars zoom by you,0.06991207274577357,0.013351337344765067,0.12647280814678208,0.06991207274577357
+"I'm eating a lot of food to make sure I can lift more weight in the gym next time!
+Are you taking protein?",empathetic-grade_00198,transformer_ranker,Wow!  That is impressive!  You must be really prod of yourself!,0.13068604727203767,0.13050700969189377,0.13086508485218157,0.13068604727203767
+"This afternoon i went to my sons soccer game and he scored three goals! happiest dad ever!
+I figure your son is pretty happy as well.",empathetic-grade_00199,transformer_ranker,You will grow to love it. Football is amazing sport. Your son will love it.,0.21902519411640126,0.16188428066902674,0.2761661075637758,0.21902519411640126
+"I had a job interview yesterday. I was really nervous before it started.
+Was it on the phone or in person?",empathetic-grade_00200,transformer_ranker,So you must have prepared well for it. I hope you get the job!,0.24071982832846106,0.08164125067277891,0.39979840598414323,0.24071982832846106
+"Over the summer my family went to Alabama to visit family and I felt a lot of emotions
+I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",empathetic-grade_00201,transformer_ranker,"Oh, sometimes you just have to accept weather changing your plans. I am sure you can go another time.",0.26588314361460147,0.1419897232201449,0.3897765640090581,0.26588314361460147
+"Tomorrow I start my new job teaching kids. I really hope it goes well!
+Oh wow, now that really is exciting, congratulations! Did you get the grade level and subject you wanted?",empathetic-grade_00202,transformer_ranker,That's great!  What finally convinved the boss?,0.07919064877919345,0.14247696152305764,0.01590433603532927,0.07919064877919345
+"oh, how nice. What are your plans in that regard for the future?
+have my own restaurant",empathetic-grade_00203,transformer_ranker,Oh nice. What color is it?,0.09704387677022547,0.12606977410280173,0.0680179794376492,0.09704387677022547
+"I went to a court hearing for unemployment with my former employer, and I felt great about it since I was so prepared with all of the documents and everything I needed to show the court I was in the right for quitting.
+Did it go your way?",empathetic-grade_00204,transformer_ranker,"Wow, that's some high praise, I might just have to try it out myself!",0.2349705387618964,0.11725109299369924,0.3526899845300936,0.2349705387618964
+"So who annoyed you?
+A guy budged in front of some other people, I confronted him about it, and we got into an extremely heated exchange.",empathetic-grade_00205,transformer_ranker,"That is so sweet of him, those are the people we need more of in the world",0.27747626241589984,0.0,0.5549525248317997,0.27747626241589984
+"there is nothing i hate more than losing in something
+Yeah, that's never fun. Did you lose at something recently?",empathetic-grade_00206,transformer_ranker,That is the illusion of winning when in reality you are expected to lose,0.24815530810296357,0.023676425813074425,0.4726341903928527,0.24815530810296357
+"My son was just born, my first boy after 11 girls!
+Thats amazing, congratulations. 12 Kids your amazing.",empathetic-grade_00207,transformer_ranker,"Amazing! Congratulations. When so many children have issues, it is always great to see one that is healthy and well.",0.23207271300364166,0.10328643858435736,0.36085898742292594,0.23207271300364166
+"If my upstairs neighbor wakes me at 3am again I think I'll explode! I get that she has to go to work, but why not get organized the night before for goodness sake?!
+I know the feeling.",empathetic-grade_00208,transformer_ranker,I do hate flooding as well,0.2100393870961166,0.1687590666647576,0.2513197075274756,0.2100393870961166
+"I feel nostalgic when playing old school games with my bro
+Nice, me too, are you playing Nintendo games?",empathetic-grade_00209,transformer_ranker,I don't know much about video games but remember playing Mario and games on a Nintendo 64.,0.2950227106235279,0.11687052771867859,0.47317489352837727,0.2950227106235279
+"I agree, the writing part is easy part, but the speaking part is the worst!
+Yeah, it seems like the learning curve is impossible! Maybe I just need more life experience",empathetic-grade_00210,transformer_ranker,"Yes! life is a blessing, and we need to make the most of every day.",0.2972113263750007,0.13831263675903993,0.45611001599096146,0.2972113263750007
+"I had a terrifying experience what using the restroom yesterday.
+What happened??",empathetic-grade_00211,transformer_ranker,That is so terrible! was this recent? if you dont mind me asking,0.22591376605427022,0.054196009408832777,0.39763152269970764,0.22591376605427022
+"I'm going overseas and I think I packed everything i need!
+Where are you headed ?",empathetic-grade_00212,transformer_ranker,Nice! You sound like you prepared very well,0.14622105090443704,0.16089953687863412,0.13154256493023997,0.14622105090443704
+"Wow! Congrats to her, and I am sorry that you didn't get the prize. What did she win?
+A weekend trip to Gatlinburg. I would of loved that.",empathetic-grade_00213,transformer_ranker,"Aw, well you can't win everything. Be happy for her!",0.1493936800508215,0.13994058946496038,0.15884677063668257,0.1493936800508215
+"Did you think about moving after that?
+Funny you should mention that - in three weeks time, lol.",empathetic-grade_00214,transformer_ranker,Nice. How many tickets did ya get?,0.1637303265839838,0.1666395724976867,0.16082108067028084,0.1637303265839838
+"It's been a long week! My husband has been out of town and its been just me and a cranky toddler.
+Will he be back soon?",empathetic-grade_00215,transformer_ranker,"That sounds amazing, I hope you both enjoy it!",0.21379899342069525,0.10166792262895814,0.32593006421243237,0.21379899342069525
+"My girlfriend's leg was bitten off by a bull shark last summer.
+Oh my! Is she ok, and was it while surfing?",empathetic-grade_00216,transformer_ranker,"Oh wow, I'm sorry to hear that! Put your leg up and relax this weekend!",0.20804293817102454,0.09213446428837471,0.32395141205367434,0.20804293817102454
+"Well yeah, that sounds about right. He has to go to the Championship first and win, then party time !!!!!
+You got it! I've been watching him play for a while now and it's such a fantastic feeling to see him win - and in his own country too!",empathetic-grade_00217,transformer_ranker,That's great to hear!  Good luck to him!,0.26489414764051933,0.1500025813287375,0.3797857139523011,0.26489414764051933
+"I recently found out that a person I very much intimately admired did not feel the same way for me. I was pretty surprised.
+I'm sorry to hear that! How did you find out?",empathetic-grade_00218,transformer_ranker,Wow...You need to find a new place to live because that's completely unreasonable.,0.2520092306382182,0.16299592988042902,0.34102253139600736,0.2520092306382182
+"My sister threw up the other day and made a huge mess.
+that must have been an explosion and a half, did  you clean it up?",empathetic-grade_00219,transformer_ranker,Wow! That is really impressive!,0.1408846796525968,0.1441955825279862,0.1375737767772074,0.1408846796525968
+"Over the summer my family went to Alabama to visit family and I felt a lot of emotions
+I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!",empathetic-grade_00220,transformer_ranker,"Oh, sometimes you just have to accept weather changing your plans. I am sure you can go another time.",0.26588314361460147,0.1419897232201449,0.3897765640090581,0.26588314361460147
+"I'm sorry to hear that. I had a dog die once too.
+it is so sad to know but my mother is rather sick of flu and not dying",empathetic-grade_00221,transformer_ranker,Aw I hate to hear that. I also hope she feels better. I love my dog so much.,0.2408969729359598,0.12088084471418965,0.36091310115772995,0.2408969729359598
+"I hope she hears some good news. Is it pretty serious?
+She had stage 3 cancer, but she was clear last screening a year ago.",empathetic-grade_00222,transformer_ranker,I hope she was able to fend for herself. I'm sorry she went through that loss.,0.2782957507294238,0.06764617217975655,0.48894532927909107,0.2782957507294238
+"I just bought iced coffee yesterday and my brother drank the rest of it without asking me.
+Wow. Does he usually do stuff like that?",empathetic-grade_00223,transformer_ranker,I know that feeling but I crashed my car my dad bought for me like 1 year later. But that feeling of happiness was awesome!,0.20599746267198366,0.021770579677804443,0.3902243456661629,0.20599746267198366
+"Last night I was walking home from work in a bad part of town, I was a bit scared.
+You should have taken a Uber. You never know what will happen these days.",empathetic-grade_00224,transformer_ranker,Was the drive a necessary one to take?,0.1830591729965568,0.11739740037378056,0.24872094561933306,0.1830591729965568
+"I drank a lot of alcohol at my friend's BBQ party, and I ended up puking and passing out. Not my finest moment.
+Haha, I can relate to that. I did that too, and my friends took a wonderful photo of it. They like to stick it on our yearly Christmas cards to each other",empathetic-grade_00225,transformer_ranker,I am such a lucky guy to have a friend like you,0.3388906319745799,0.08547642157861572,0.5923048423705441,0.3388906319745799
+"I'm looking forward to my best friend's surprise birthday party next week!
+That sounds like so much fun! I love parties!",empathetic-grade_00226,transformer_ranker,"Parties are so much fun! Are you celebrating anything special, or is the party just a get together?",0.28405063512999795,0.1565187708046612,0.41158249945533465,0.28405063512999795
+"Ugh! I hate it when stuff like that happens. Were you able to get a refund on your tickets?
+No. We went ahead and went on. It actually turned out to be a great trip with zero incidents.",empathetic-grade_00227,transformer_ranker,It's awful when you spend money on tickets and popcorn and it's a bad time. Did they put all of the best moments in the trailer?,0.2653168009307046,0.09767617715847289,0.43295742470293624,0.2653168009307046
+"Last year I made a bet with my friend and he lost, so he had to buy me a Nintendo Switch. I was so great.
+That's quite the win! What was the bet?",empathetic-grade_00228,transformer_ranker,"Wow I love nintendo, you should get an NES classic!",0.18630135735074638,0.13855180176425028,0.2340509129372425,0.18630135735074638
+"I like going fishing, it reminds me of when I would go with my dad when I was a kid.
+Do you have any kids?",empathetic-grade_00229,transformer_ranker,Nice. I love finding old stuff from my childhood.,0.18310889060777757,0.14945585375053885,0.21676192746501632,0.18310889060777757
+"I won a free trip to Florida. It's not the best vacation, but I'll take it for free.
+Why wasn't it good? Florida sounds like an ideal destination.",empathetic-grade_00230,transformer_ranker,"Oh awesome, what part of Florida?",0.17652777895399602,0.17411234650044763,0.17894321140754438,0.17652777895399602
+"Once I was suppose to go visit my sister and nieces who I hadn't seen in forever but I ended up breaking my heal and big toe and wasn't able to go. I was so upset!
+Dang, that sucks. MAybe they can visit you instead?",empathetic-grade_00231,transformer_ranker,I'm glad you found a job quick! That must have felt a little good to tell them at least,0.2822764619948205,0.16937253094264249,0.3951803930469984,0.2822764619948205
+"One night when my children and I came home, I saw a shadow inside! I was so fearful and afraid!
+Oh that can be scary. I don't watch horror movies because I know that I'll do just that!",empathetic-grade_00232,transformer_ranker,"Thank goodness! Yeah, I only watch scary movies in the daytime!",0.2194537595241533,0.20436551175549028,0.23454200729281632,0.2194537595241533
+"I went to the beach other day
+That is really cool . Did you have a good time?",empathetic-grade_00233,transformer_ranker,"oh, did you enjoy it? I love going to the beach",0.3437886094993019,0.19723329120553995,0.49034392779306385,0.3437886094993019
+"I had a high risk pregnancy up until a few months ago. I felt the most grateful I'd ever been when my baby turned out healthy.
+Congrats, that must have been a very stressful time leading up the the birth.",empathetic-grade_00234,transformer_ranker,That's an amazing feat. Studying is kind of a chore for me.,0.1859492809442415,0.005294617219749714,0.3666039446687333,0.1859492809442415
+"Tomorrow is the big day, I have to deliver my proposal to the client.
+Are you ready for it?",empathetic-grade_00235,transformer_ranker,"Wow, good luck.  I hope it all goes well. It sounds like you're confident that it will. Have you done one before?",0.27409296710727243,0.17210269610944398,0.3760832381051009,0.27409296710727243
+"I was feeling kind of down so I ended up snuggling with a stuffed rabbit I have. It brought back a lot of good old memories.
+Never too old or too manly to snuggle a stuffed animal. My mom said I used to carry this blanket with me when I was a toddler, everywhere I went. I wish I still had it. If I did, I'd consider using it again, or at the very least passing it down to my own kid. What's the harm, you know? If something gives you comfort and doesn't bother anyone else, there should be no shame.",empathetic-grade_00236,transformer_ranker,Same I've put my parents through a lot.  But now I'm trying to be the best version of myself so I can eventually pay them back,0.26186526134895777,0.09134207922060708,0.4323884434773084,0.26186526134895777
+"I'm so excited about an upcoming move and life change -- it's a move to a verrrry different state, but should be interesting!
+What state are you going to move to?",empathetic-grade_00237,transformer_ranker,"Awesome, you'll be able to make friends at work. I wish you the best in your new city, congrats!",0.28874631192789174,0.11444052671245676,0.46305209714332674,0.28874631192789174
+"When I got the phone call that my mom had cancer I was so upset.
+I am so sorry to hear that. No one should have to go through something like that.",empathetic-grade_00238,transformer_ranker,Then maybe you should think about trying to find a job somewhere else?,0.3217461089251838,0.11997597358020883,0.5235162442701587,0.3217461089251838
+"I was very sad when I found out that my neighbors houses were going to be demolished because the city ordered it..
+Is the city going to build them new ones at least?",empathetic-grade_00239,transformer_ranker,It is unbelievable to meet these wild animals in a city. You should definitely call them,0.2456919574452092,0.07258529190857031,0.41879862298184806,0.2456919574452092
+"I am going to a concert very soon.
+Cool! Who are you going to see?",empathetic-grade_00240,transformer_ranker,"Awesome, I hope you have a great time at the concert.",0.320506103147863,0.18205522166717472,0.4589569846285513,0.320506103147863
+"Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.
+Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",empathetic-grade_00241,transformer_ranker,If you live under his roof then you should obey him.,0.2954445278666459,0.12002059053667326,0.47086846519661846,0.2954445278666459
+"Hello, tomorrow I have the cooking test and I feel safe. I am sure that I will approve with an excellent rating
+oh, how nice. What are your plans in that regard for the future?",empathetic-grade_00242,transformer_ranker,I am glad you got some things done! Now you can rest,0.23374744248268428,0.11423548499713122,0.35325939996823735,0.23374744248268428
+"I was trying to take a nap, but my cat kept on trying to play with my head.
+I love cats.",empathetic-grade_00243,transformer_ranker,"Wow, that cat must have loved that shoe, he wanted it",0.1865483254213837,0.11551646725988667,0.2575801835828807,0.1865483254213837
+"Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.
+Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play.",empathetic-grade_00244,transformer_ranker,If you live under his roof then you should obey him.,0.2954445278666459,0.12002059053667326,0.47086846519661846,0.2954445278666459
+"Same. And all these guys live in different places now so it's harder and harder to get everyone together.
+I bet it would be tough.  Was there a special occasion that brought you all together?",empathetic-grade_00245,transformer_ranker,That's great you are happy with where you are in life. I think the place we work and the area in which we live make a big difference.,0.32758853105847224,0.12529482814999734,0.5298822339669471,0.32758853105847224
+"You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!
+Its always nice to get some sleep",empathetic-grade_00246,transformer_ranker,You will climb high in the company with that good attitude.,0.1802666205918142,0.10029763095926968,0.2602356102243587,0.1802666205918142
+"I ended up staying at home for the holidays
+why is that? comfort ?",empathetic-grade_00247,transformer_ranker,How long have you been with your boyfriend?,0.3534365475514132,0.13154037162097182,0.5753327234818546,0.3534365475514132
+"In college I was in a class with an older woman who stole my ideas for a paper.
+Oh wow! that stinks. Im sorry",empathetic-grade_00248,transformer_ranker,"Wow, you're so well spoken.",0.09135639479153462,0.0735123582797771,0.10920043130329213,0.09135639479153462
+"I am so happy it's a boy
+You just had a baby?! I didn't even know you were expecting!",empathetic-grade_00249,transformer_ranker,My dog needs some good training!,0.14854898026613234,0.09312283179096749,0.20397512874129717,0.14854898026613234
+"my son just used a potty for the first time! he is only 16 months. i'm so proud of him
+Watch out! Next thing you turn around, and he's driving.",empathetic-grade_00250,transformer_ranker,"That's great to hear, I hope his first day goes well!",0.2401219373113878,0.11093375472475916,0.3693101198980165,0.2401219373113878
+"I understand, but coming at me head on, on a two lane highway, while I'm on a bridge with nowhere to go is not cool.
+I cant imagine how scared you must have been.",empathetic-grade_00251,transformer_ranker,"i enjoy a little rain every once in a while, but i dont like thunderstorms either",0.3225621755932773,0.05261214520134756,0.592512205985207,0.3225621755932773
+"OKay. I care for everyone
+well you sound like a good person",empathetic-grade_00252,transformer_ranker,"That is really cool, everyone should do something like that",0.2491535479132571,0.08840619289244253,0.40990090293407166,0.2491535479132571
+"I love youtube. been listening to all my classic tracks. Tupac forever
+I love me some Tupac. Real talk.",empathetic-grade_00253,transformer_ranker,have you seen them do it on youtube?,0.27784481575338726,0.07559387896275052,0.480095752544024,0.27784481575338726
+"When my daughter was born doctors said she wouldn't ever go to school and basically be mentally handicapped.
+And how is she doing now",empathetic-grade_00254,transformer_ranker,"it is indeed, learning things at young age is a boon. you got an exceptional daughter",0.16441661931699833,0.05599140781600215,0.2728418308179945,0.16441661931699833
+"I was going through my photos today and I saw a picture of me and my ex together. It just made me feel odd, I miss him.
+Nice, when did you guys break up",empathetic-grade_00255,transformer_ranker,"Good to hear, glad you guys are happy!",0.16661383531287982,0.13200843444682542,0.2012192361789342,0.16661383531287982
+"One time when I was kicked out of the place I was staying at, my best friend immediately told me I could stay with her until I got on my feet.
+Oh no, that sounds like an awful situation. What did you end up doing after that?",empathetic-grade_00256,transformer_ranker,Oh well that sounds like it ended well at least. What was the fight about?,0.3198206646565557,0.19211374080676005,0.44752758850635127,0.3198206646565557
+"When I got the phone call that my mom had cancer I was so upset.
+I am so sorry to hear that. No one should have to go through something like that.",empathetic-grade_00257,transformer_ranker,Then maybe you should think about trying to find a job somewhere else?,0.3217461089251838,0.11997597358020883,0.5235162442701587,0.3217461089251838
+"I'm so proud of my wife
+i bet she's a wonderful woman",empathetic-grade_00258,transformer_ranker,Its great you trust an awesome woman,0.2112861489378894,0.2353763348363824,0.18719596303939642,0.2112861489378894
+"I feel like deepening my connection to God is the most important thing in my life
+I think that is a lovely thing",empathetic-grade_00259,transformer_ranker,Its good to have supportive siblings like you,0.25907427437622205,0.18169496427927578,0.3364535844731683,0.25907427437622205
+"The other night I was driving home in the rain and slid into the guard rail. It is going to cost so much to get my car fixed!
+Oh man, now that sucks! You gotta be careful on those wet roads. At least you're okay.",empathetic-grade_00260,transformer_ranker,Oh my!  I am glad to hear you managed to avoid the collision.,0.28943764192782084,0.1750768578977227,0.4037984259579189,0.28943764192782084
+"I have the best kids in the world.
+What did they do this time?",empathetic-grade_00261,transformer_ranker,Did you do anything special to honor it?,0.30907386666835146,0.16323071623339752,0.45491701710330534,0.30907386666835146
+"I got to go to a cat cafe when no one else was around!
+I've been to one before with my girlfriend, what an amazing experience eh?",empathetic-grade_00262,transformer_ranker,"Wow, that must be quite some distance then! Have a safe flight!",0.21127966850703273,0.15634407767901196,0.26621525933505347,0.21127966850703273
+"I'm gonna take the family out to the lake this weekend, we might rent a boat.
+That sounds like a great way to spend the weekend.  What type of boat are you thinking about renting?",empathetic-grade_00263,transformer_ranker,"Is there anything else you do besides work? A hobby you enjoy, video games, music, working out?",0.27742180020049134,0.1633565647383488,0.3914870356626338,0.27742180020049134
+"I felt sooooo nervous going to my last job interview! Nerves must occur in proportion to how badly you *want* something!
+I know what you mean. Did you get the job?",empathetic-grade_00264,transformer_ranker,"Good job, keep on moving up!",0.18641997663959647,0.129649246816515,0.24319070646267796,0.18641997663959647
+"Wow, that is sweet of him, does he have a crush on you?
+It was a nice gesture on his part. But I do not know",empathetic-grade_00265,transformer_ranker,"Yeah, that is a good thing he found it and not someone else. What are the odds.",0.2712581684848309,0.1284270743830079,0.4140892625866539,0.2712581684848309
+"I have a big exam coming up! My nerves are getting to me.
+ohh good luck!",empathetic-grade_00266,transformer_ranker,Good luck! Hope you do well,0.2543026040882754,0.21505138606972776,0.293553822106823,0.2543026040882754
+"i was so stressed when i found out that i did not get accepted in my dream college
+Oh no. Did you have a good backup plan ?",empathetic-grade_00267,transformer_ranker,Oh congratulations!  I am so happy for you!,0.22056974170744778,0.14862104105242774,0.2925184423624678,0.22056974170744778
+"I went to see Hamilton last month in NYC
+Oh the broadway musical? I heard really good reviews of it",empathetic-grade_00268,transformer_ranker,That's cool. Guess all that hard work pays off!,0.16739298697015612,0.11676075943661551,0.21802521450369672,0.16739298697015612
+"i cant wait to see my dog back home it has been 2 years since i see him
+I would go mad, were you away at college or in the service?",empathetic-grade_00269,transformer_ranker,I am sorry to hear that.  Maybe he will find his way back home some day.,0.3232952680089156,0.13212854540745977,0.5144619906103715,0.3232952680089156
+"Nothing really! I just love that I can work at home and have time to clean or cook whenever I want.
+I work from home too.  Its so nice to be able to do laundry and things on my breaks.  Im so productive around the house",empathetic-grade_00270,transformer_ranker,"I hope it was a good day for you, atleast you did something productive and got some laundry done haha",0.2756579556186794,0.023066207777368848,0.5282497034599899,0.2756579556186794
+"A good friend of mine moved away recently and we lost contact. I really wish we would still speak.
+I know how that feels. Maybe try reaching out.",empathetic-grade_00271,transformer_ranker,I understand it is usually hard moving to a new city leaving some many people and placed behind,0.24257791294140674,0.06715908486485214,0.4179967410179613,0.24257791294140674
+"I got to hear a lot of cool songs on a radio station I usually don't listen to.
+Nice! Which ones did you hear!",empathetic-grade_00272,transformer_ranker,Oh cool. I love visiting car shows myself.,0.1402015588295496,0.13670189668607022,0.143701220973029,0.1402015588295496
+"I wore wrong pair of socks to the college. But, no was there to spot it. But, when we have to go in for a church we have to first remove the shoes. At, that time friend of mine spotted with with wrong pair of shoes. They made a fun of me. That was very awkward situation.
+Oh that sucks :( Maybe organize the socks better?",empathetic-grade_00273,transformer_ranker,That's true. It's nice of you to put yourself in their shoes.,0.19328105415184657,0.029097197288492364,0.3574649110152008,0.19328105415184657
+"They arrested 9 people at a nearby farm for animal cruelty and they are already out of jail on bond!
+Oh, that's not right. I have a rescue dog, she had a litter of puppies at a puppy mill before she was a year.",empathetic-grade_00274,transformer_ranker,Perhaps she had an upset tummy or something.  Sometimes with dogs it's hard to tell.,0.2611568236829951,0.12780183304047252,0.39451181432551763,0.2611568236829951
+"I was quite distressed to hear of the passing of Anthony Bourdain. That someone who has given so much joy to a huge number of people should take his own life is just awful.
+I know!  I was just watching his show on Netflix!  So sad, especially since he had a little girl he is leaving behind.",empathetic-grade_00275,transformer_ranker,I'm sure he will! Best of luck to him!,0.2555493189946939,0.12395095938176837,0.3871476786076194,0.2555493189946939
+"I'm pretty excited for the upcoming Halloween season.
+I am too! What are your plans?",empathetic-grade_00276,transformer_ranker,Hiking and kayaking? Wow! Better pack some trail mix.,0.12337582828890091,0.15084464145124896,0.09590701512655286,0.12337582828890091
+"Not until about 8am, but it's so loud I can hear it in my first floor apartment with the doors and windows closed. Idiot man!
+So inconsiderate! It reminds me of my neighbours doing building work one morning at 6AM!",empathetic-grade_00277,transformer_ranker,Maybe you should child proof the house.,0.18610978297289205,0.13207290632638655,0.24014665961939755,0.18610978297289205
+"So I asked out a girl in my class and she said yes. Was a big morale boost.
+im glad to hear that!",empathetic-grade_00278,transformer_ranker,Thats good! I would of been anxious to get out of that place if that happend.,0.2580104165343417,0.13588422112690565,0.3801366119417777,0.2580104165343417
+"I was horribly wronged by someone I thought I could trust. The feeling was devastating, and I've always struggled with forgiveness.
+Oh my, what happened? I'm so sorry, no one should treat anyone they care about poorly.",empathetic-grade_00279,transformer_ranker,"that's sad news, i am sorry for this news you must have been extra drained after coming back from work from that news",0.2682259332145399,0.11885058446004762,0.4176012819690322,0.2682259332145399
+"My partner left me the other day.
+That's rough, I'm sorry to hear that",empathetic-grade_00280,transformer_ranker,Being a punching bag in a relationship is no good. It's a 2 way street. Is your partner doing their part?,0.23828696854286688,0.1322937262885836,0.34428021079715015,0.23828696854286688
+"I told a lie to my mother.
+Was it a bad one? And did she find out?",empathetic-grade_00281,transformer_ranker,Was she mad at you?,0.301482357975523,0.18298221254437733,0.4199825034066686,0.301482357975523
+"I feel the same way.
+How do you channel the anger? Obviously, it too easily turns into the same kind of negative emotion I'm upset about -- so that can feel hypocritical!",empathetic-grade_00282,transformer_ranker,I am too.  I don't go out much so maybe you should make sure you do that,0.27515789900955123,0.08465625471731357,0.4656595433017889,0.27515789900955123
+"I was annoyed when my favorite show wasn't on
+what did you end up watching instead",empathetic-grade_00283,transformer_ranker,Well thats disappointing. Maybe you can find a show similar to it to watch.,0.21007037232843873,0.08864716975375296,0.3314935749031245,0.21007037232843873
+"My dad called me one day crying out for help. I had to drive over to his house.
+Oh my goodness! What happened?",empathetic-grade_00284,transformer_ranker,Wow good for him. Now he can drive you around.,0.15270569225814534,0.09501848623567453,0.21039289828061614,0.15270569225814534
+"oopsy. I hope it was worth it.
+It might not be when my wife returns and sees it gone. I look super guilty right now.",empathetic-grade_00285,transformer_ranker,your husband is a lucky guy!,0.2460380081584137,0.06449142873350336,0.427584587583324,0.2460380081584137
+"I ate way too many sweets today!
+theres always tomorrow!",empathetic-grade_00286,transformer_ranker,Well done! What are you going to spend it on?,0.2607492092065791,0.13490468642280076,0.38659373199035746,0.2607492092065791
+"I was heartbroken when my mom told me that my childhood dog had died
+Oh god.. sorry.. How are you holding up?",empathetic-grade_00287,transformer_ranker,Aw I am so sorry to hear of your dogs passing. It's hard to lose a pet. We just lost our cat this year.,0.23506333233841392,0.08844371341251499,0.38168295126431284,0.23506333233841392
+"I'm a little anxious about an upcoming move. It's to a *very* different state with a *very* different climate and way of life!
+What is the state and do you like change?",empathetic-grade_00288,transformer_ranker,It sounds like you're patient and prepared to take it. I wish the best for you guys!,0.23706418789820036,0.07138372933820164,0.4027446464581991,0.23706418789820036
+"I have only a few more semesters in college. I feel very hopeful about my chances of finishing.
+That's awesome. What are you majoring in?",empathetic-grade_00289,transformer_ranker,"Awesome!  I bet that's a really versatile degree, you should be really successful!",0.1965657663638389,0.15591466778329338,0.23721686494438443,0.1965657663638389
+"I sold some stuff I didnt need last week.
+did yo make some good money?",empathetic-grade_00290,transformer_ranker,Thats what you should do,0.28869489889530997,0.1329405589163116,0.44444923887430837,0.28869489889530997
+"i cant believe the growth video games are having this past couple of years
+What do you mean by that? I'm not a gamer really",empathetic-grade_00291,transformer_ranker,I love video games. Thats not a bad weekend,0.18624848883864994,0.07970150772963663,0.29279546994766326,0.18624848883864994
+"I've been teaching my young daughter to play video games with me, she's such a quick learner.
+What video games are the two of you playing?",empathetic-grade_00292,transformer_ranker,Good. I hope you enjoy the game and play well.,0.253202190817541,0.15091915403336467,0.35548522760171725,0.253202190817541
+"I am so proud of my sister
+What did she do?",empathetic-grade_00293,transformer_ranker,You got a good sister!,0.17624217481165189,0.1471803134768487,0.2053040361464551,0.17624217481165189
+"I enjoy visiting the nursing home on occasion.
+Oh yeah?  Do you know someone that lives there?",empathetic-grade_00294,transformer_ranker,"Nice, you must do whatever you want each day.",0.21176760990831536,0.10107521920222,0.3224600006144107,0.21176760990831536
+"I see, you must have felt hopeful
+I gave thanks in spite of the difficulties",empathetic-grade_00295,transformer_ranker,Thats what you should do,0.29294253077343474,0.15335511906591595,0.43252994248095356,0.29294253077343474
+"No matter how many times I told her that I didn't do it, my roommate insisted that I ate her ice cream last night! Unbelievable!
+Well, did you eat her ice cream?",empathetic-grade_00296,transformer_ranker,"Wow, that is really thoughtful.",0.18927622904847619,0.14708934320182393,0.23146311489512844,0.18927622904847619
+"I tripped and fell in front of some people.
+Ouch! Was it a serious fall?",empathetic-grade_00297,transformer_ranker,"Oh my god, I would have been so embarrassed! How'd you react?",0.23546201106460066,0.16859720751981727,0.30232681460938404,0.23546201106460066
+"Are you cleaning out a house or do you not have garbage pick-up?
+The company in my city just quit picking up for any of the residents, so the dump has a line every day.",empathetic-grade_00298,transformer_ranker,That too bad. They are other work from home opportunities though.,0.15100917877392162,0.12405000751523931,0.17796835003260394,0.15100917877392162
+"I had to wait in line for 15 minutes at the store today. There was only one poor cashier working.
+That must of been a pain! I hate waiting in lines for cashiers, they are so slow sometimes.",empathetic-grade_00299,transformer_ranker,That sounds pretty healthy.  Have you always been this health conscious,0.13214344472180595,0.03275744858666744,0.23152944085694446,0.13214344472180595

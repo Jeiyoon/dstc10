@@ -1,0 +1,1201 @@
+context,dialogue_id,model_name,response,annotations.relevance,am_scores,fm_scores,am_fm_scores
+"i enjoy a great meal , but usually just eat when there is nothing else to do . haha
+yeah that is cool , what is your favorite color ?",convai2-grade_00000,bert_ranker,"the sky , hey what about your eyes ? are they blue ?",0.173551014091558,0.1135176677444814,0.23358436043863456,0.173551014091558
+"hi how are you tonight ?
+i am worn out from work today . how are you ?",convai2-grade_00001,bert_ranker,i feel you . i played football right after school so i always was a bit tired .,0.18483483221988184,0.021982036561035118,0.34768762787872853,0.18483483221988184
+"anywhere with delicious food . i am a big foodie , although i am a lousy cook .
+what kind of foods do you enjoy ? i love cooking but never do it",convai2-grade_00002,bert_ranker,i hate it ! i do enjoy grilling though,0.23458408301356845,0.11460649805721197,0.35456166796992494,0.23458408301356845
+"perfect . i don't , but my wife and kids would love a dog .
+dogs always chase my cats . i prefer cats .",convai2-grade_00003,bert_ranker,"they are cute , but they are meowing for my tacos , my favorite food !",0.2535719268529588,0.10086685655473646,0.4062769971511812,0.2535719268529588
+"i hope that i can find a new doctor job soon !
+my parents aren't supportive of my dream as a custodian",convai2-grade_00004,bert_ranker,that is no fun . both of my high school aged sons want to be doctors !,0.213982609733107,0.05549352591361769,0.37247169355259635,0.213982609733107
+"yes i do i've a dog and 2 cats at the moment
+i've one dog myself , she can be a bit of pain",convai2-grade_00005,bert_ranker,i'm in college and work with blind children . some dogs can be trained to help .,0.13255001324911042,0.08187476099472507,0.1832252655034958,0.13255001324911042
+"me too . should i trade my mini van in for a sports car .
+yes . who doesn't love a sports car .",convai2-grade_00006,bert_ranker,why not ? i live for nice cars to be honest,0.2020174060654054,0.1095797314467725,0.2944550806840383,0.2020174060654054
+"when i retire in few years i will travel all over the country to nascar races .
+cool ! wonder woman and i both love the color grey . you like scorpions ?",convai2-grade_00007,bert_ranker,i love them . that's why i dream of moving to the desert .,0.24804509723936174,0.027768824012781374,0.46832137046594213,0.24804509723936174
+"i have to drink another substance that contains particles of hydrogen and oxygen
+dang that kinda weird . well do you have a pet",convai2-grade_00008,bert_ranker,no . i do not get along with anyone even pets,0.22520416505770202,0.11675096088014872,0.3336573692352553,0.22520416505770202
+"that must be interesting . i don't have time outside of house building to do much
+that is fine , do you like death metal music ?",convai2-grade_00009,bert_ranker,"i do ! i work in a casino as a blackjack dealer , we have live bands",0.2508879924169722,0.06848366041246226,0.43329232442148213,0.2508879924169722
+"west virginia . nice to meet you too . i used to visit my uncle on long island
+what do you do for work ?",convai2-grade_00010,bert_ranker,dude i start senior year next week . almost done ! you ?,0.1272821276079408,0.11233162043954273,0.14223263477633888,0.1272821276079408
+"oh very cool . i go on twitch for my pot farm updates .
+pot farm updates ? like a real pot farm ?",convai2-grade_00011,bert_ranker,naw . its just my family farm . i do not need more than one . lol,0.21880411702235994,0.06555058775125087,0.372057646293469,0.21880411702235994
+"yes well i love disney musicals .
+i like the movie tangled a lot , but frozen is nice too",convai2-grade_00012,bert_ranker,disney rocks . i'm married and love movies,0.06590506292715485,0.09971256680058578,0.032097559053723926,0.06590506292715485
+"yeah i am interested in taking pictures , of yoda for sure
+wow . i try coffee as a hobby",convai2-grade_00013,bert_ranker,really ? you funny ! only time i pass on coffee is when i travel by myself .,0.17371435086741704,0.09496679330392108,0.252461908430913,0.17371435086741704
+"do you live in the southwest by chance ?
+no i do not . i love wearing band shirts with ruffles on the sleeves",convai2-grade_00014,bert_ranker,fun ! ! i love band shirts ! so does my labrador bongo,0.1737927355644083,0.0969958919627709,0.2505895791660457,0.1737927355644083
+"my favorite thing to shop for is watches . shoes too i guess .
+i've two pairs of jeans and one pair of shoes .",convai2-grade_00015,bert_ranker,sounds comfortable i could use those at my new job,0.14965855086738455,0.055267550416174004,0.24404955131859513,0.14965855086738455
+"that s funny . mine is a bottle of wine .
+that can't hurt either ! what else do you like to do ?",convai2-grade_00016,bert_ranker,i go to mexico and ski ! but i hate the food down there,0.1915539298193431,0.08823736109069048,0.29487049854799574,0.1915539298193431
+"i have a daughter who people say is a child prodigy
+what talents does she have ?",convai2-grade_00017,bert_ranker,she plays the violin . she's talented and gorgeous,0.14657462716609865,0.03552357143716659,0.2576256828950307,0.14657462716609865
+"i build houses , sometimes i fix them , have my dads genes .
+maybe i do too . he is an electrician i pay electric guitar .",convai2-grade_00018,bert_ranker,neat . i work with bitcoins though,0.059483835209127256,0.05841270014557267,0.06055497027268184,0.059483835209127256
+"that's interesting . what was the bet ?
+that the cubs would loose last year at the world series lol",convai2-grade_00019,bert_ranker,"well , then dallas cowboys !",0.0925301574621023,0.0750530086451902,0.11000730627901441,0.0925301574621023
+"money makes the world go round .
+yeah yeah it sure does my friend",convai2-grade_00020,bert_ranker,"money makes the world go round , am i right ?",0.23058396324309613,0.08645778604517475,0.3747101404410175,0.23058396324309613
+"i am well . just took my dog for a walk
+i have a dog she loves for me to sing to her",convai2-grade_00021,bert_ranker,"ll , i have no time for music . what does she sing about ?",0.2621163700781492,0.07178687776993259,0.4524458623863658,0.2621163700781492
+"i have two dogs . do you have any pets ?
+no , i cannot afford pets right now . organic pet food is super expensive .",convai2-grade_00022,bert_ranker,how so ? organic food is not nice .,0.2147568459828995,0.14098211615654732,0.2885315758092517,0.2147568459828995
+"never tried it , but maybe i should . what is your favorite movie ?
+i like forest gump , but i prefer books . i work at a bookstore .",convai2-grade_00023,bert_ranker,"that is funny , i am an illustrator for a publishing company !",0.2536695773060333,0.08387743103421166,0.4234617235778549,0.2536695773060333
+"long hair all the way . although short hair may look more professional .
+i've to get used to this . so any hobbies ?",convai2-grade_00024,bert_ranker,video games is one hobbie . also being an amateur cook . how about yourself ?,0.1489695567357744,0.14393888095882276,0.15400023251272604,0.1489695567357744
+"just watched a war documentary while eating a cheese burger
+that is in the past you can be rich today , i love people and hang out",convai2-grade_00025,bert_ranker,that must be great i'm not rich but i try to be,0.22002839558073445,0.12542221249700233,0.3146345786644666,0.22002839558073445
+"i understand that . i have alot of tress around me
+what is your name by the way ?",convai2-grade_00026,bert_ranker,oh how silly huh ! angela .,0.056666765779990295,0.11333353155998059,0.0,0.056666765779990295
+"very nice . do you like sports ? i like to watch the nhl hockey league .
+i like to play soccer .",convai2-grade_00027,bert_ranker,i like soccer but do not have time with being actress and cashier .,0.17286880198544158,0.10536368253876163,0.24037392143212155,0.17286880198544158
+"hey ! my name is coach jon .
+what sport do you coach ?",convai2-grade_00028,bert_ranker,for the philadelphia eagles ! do you like teaching ?,0.2297293721717307,0.13612630742722043,0.323332436916241,0.2297293721717307
+"love travelling , working nights at a bar and in college studying nursing is hectic .
+oh i bet , i go to europe at least twice a year to visit",convai2-grade_00029,bert_ranker,i'm a college student so traveling is not in the budget right now,0.23428364404377602,0.11221315973422251,0.3563541283533295,0.23428364404377602
+"get out ! i danced for a queen too . she paid for the dance though .
+flamingo dancing is not stripping , think of tango .",convai2-grade_00030,bert_ranker,what kind of dance ? exotic ?,0.16574255126669069,0.006633993931916928,0.32485110860146443,0.16574255126669069
+"i work in a shipyard 40 hours a week so when i've time i try .
+that sounds like am interesting job . i work as a teacher .",convai2-grade_00031,bert_ranker,awesome . i teach 4th . my kid with autism has really benefited from his special ed teacher,0.14175448795533946,0.0721929567470151,0.2113160191636638,0.14175448795533946
+"i am doing good , i just finished playing ping pong .
+i am trying to write invoices for my dog walking business .",convai2-grade_00032,bert_ranker,"sounds fun ! i've a small french bulldog , i work at sears selling washers",0.1641390662504182,0.10565130081052393,0.22262683169031247,0.1641390662504182
+"everybody should have their own money , especially when they turn 40 !
+did your wife ever work ?",convai2-grade_00033,bert_ranker,i've been working 3 jobs to buy a ring . she said yes ! ! !,0.18954239427807226,0.009718221012865189,0.36936656754327934,0.18954239427807226
+"nice . i enjoy taking walks around my neighbor hood .
+i wish i had time for walks . my job at the bank keeps me busy .",convai2-grade_00034,bert_ranker,my exercise is walking to work when my old honda does not want to start .,0.2003942628577921,0.1325173966386958,0.26827112907688844,0.2003942628577921
+"are you a teenage girl ?
+i love to sleep in late and eat brunch and then do it all again",convai2-grade_00035,bert_ranker,"yes , i am a girl who bakes and researches cars all the time",0.18726486820187396,0.09640063592011013,0.2781291004836378,0.18726486820187396
+"in my free time i watch war documentaries
+that's great , my grandfather served in world war ii",convai2-grade_00036,bert_ranker,he was a soldier in what army ?,0.17433611019442252,0.047878050832143915,0.30079416955670113,0.17433611019442252
+"ok sure i want to make computer like my dad used to
+that is great , please tell me more interesting things",convai2-grade_00037,bert_ranker,well i stole the jailers laptop !,0.03880760824213723,0.07761521648427445,0.0,0.03880760824213723
+"yum . will be ready to run again after i have my twins in 2 months .
+did you take fertility stuff ? when i'm older i want to be a physical therapist .",convai2-grade_00038,bert_ranker,really ? i'd love to try something besides all of this medication,0.15944172247416152,0.10160188902841642,0.2172815559199066,0.15944172247416152
+"hi how are you today ? i like to walk .
+i am good i like people i volunteer to help local shelters",convai2-grade_00039,bert_ranker,good for you . i should volunteer sometime but i play hockey instead,0.1535681910178332,0.0875669959199756,0.21956938611569082,0.1535681910178332
+"just the city for me , like now for my kids .
+that is nice , i want to go into a city",convai2-grade_00040,bert_ranker,"what do you want to do in the city ? i'd sing , but i am terrible .",0.22943800516590668,0.0849294629150768,0.37394654741673655,0.22943800516590668
+"that is not where it belongs .
+had a brain transplant now i move objects with my mind",convai2-grade_00041,bert_ranker,well . . i love to draw pictures of myself in the mirror . . is that weird ?,0.20879909964688553,0.017589268764966005,0.40000893052880504,0.20879909964688553
+"nice ! i hope it isn't orange , i hate orange .
+no , this one is black , do you go to the gym ?",convai2-grade_00042,bert_ranker,"no , i am working out now , and watching tv",0.24358995606912026,0.0662263538659773,0.4209535582722632,0.24358995606912026
+"no problem . always here to help a friend .
+so what else do you like to do on your spare time ?",convai2-grade_00043,bert_ranker,"well i like computers , i'm an it person so anything technology related . and you ?",0.1717727282875019,0.12859235059402782,0.21495310598097597,0.1717727282875019
+"o wow ! ! well my want in life is to shop shop shop .
+i hate shopping . or spending money",convai2-grade_00044,bert_ranker,i am into high fashion . shopping is my disease .,0.2402937944940251,0.15655959088727658,0.32402799810077365,0.2402937944940251
+"should have named bo haha , dunno if you are old enough to get that reference
+i'm and actually thought about that , but i'm a mustang man myself",convai2-grade_00045,bert_ranker,haha ! well i am a cop so it is only natural for me to love guns,0.250763060076812,0.09789468105888137,0.4036314390947426,0.250763060076812
+"going to the park is my favorite hobby . or going to my daughters piano concerts
+i enjoy traveling and cooking .",convai2-grade_00046,bert_ranker,"i like to experience all kinds of cuisine , when the kids are with a sitter !",0.209700851535099,0.0879477264664972,0.3314539766037008,0.209700851535099
+"i run marathons and never ate meat . you sing or dance ?
+i don't . but i do ride horses competitively .",convai2-grade_00047,bert_ranker,oh okay . you sing . my horse ed sing when i ride him . you married ?,0.15461523690454754,0.04157046835250959,0.26766000545658547,0.15461523690454754
+"i am too old to cook . what is this vegan you speak of ?
+i do not eat anything that has a face , i love animals , especially horses .",convai2-grade_00048,bert_ranker,i do not know much about cows,0.26832124957692843,0.003023354841308581,0.5336191443125483,0.26832124957692843
+"i hope your youth was full of music . i love music .
+i don't love music much now . i do love baking !",convai2-grade_00049,bert_ranker,"is baking your favorite thing ? i love cars owner of 2 mustangs , well , former owner .",0.14519890226430235,0.1024183677377907,0.187979436790814,0.14519890226430235
+"water is good , it can be relaxing . almost as relaxing as eating chocolate bars .
+when i was younger , my favorite color was blue like the water .",convai2-grade_00050,bert_ranker,blue is mine too ! i actually just bought a blue car !,0.2622688921532744,0.07330000624421135,0.4512377780623375,0.2622688921532744
+"i would rather read and write poetry these days though
+understandable . my girlfriend dabbles in poetry .",convai2-grade_00051,bert_ranker,what does she write ? i enjoy the game of thrones books .,0.32887542565277855,0.13916084582326235,0.5185900054822947,0.32887542565277855
+"i m not a fan of war . i would rather be in the peacefulness of nature .
+i was a poor kid . we ate there a lot while growing up .",convai2-grade_00052,bert_ranker,wow ! were you homeschooled like me ? you seem to be against the mold of society .,0.18984146530682916,0.06691594639737333,0.312766984216285,0.18984146530682916
+"i think kayaking is pretty cool .
+i learned how to from my parents",convai2-grade_00053,bert_ranker,how hard was that to learn,0.20459440367390397,0.17033401446918656,0.23885479287862138,0.20459440367390397
+"care to chat with a married woman vegetarian ?
+sure ! i just got back five guys",convai2-grade_00054,bert_ranker,"congratulations . i woo the ladies in different languages , i know six",0.05188779818627133,0.08935485241297574,0.014420743959566927,0.05188779818627133
+"good thing i love running . i actually have an olympic gold metal for running .
+wow really , and you work at a hat shop ?",convai2-grade_00055,bert_ranker,no it is just an obsession . i like cold winters . so cpa ?,0.14830158584730088,0.11970470115377768,0.17689847054082408,0.14830158584730088
+"that sounds like fun , with lots of good food
+not really . she s a bad cook and we end up getting pollo loco a lot",convai2-grade_00056,bert_ranker,but my boyfriend who lives in italy can cook,0.19251535991834567,0.08714248172066696,0.2978882381160244,0.19251535991834567
+"i guess we did do that together . maybe i'll keep her .
+nah . you need someone to enjoy the whole relationship with",convai2-grade_00057,bert_ranker,she might . she thinks she is better than me because she has an actual job .,0.19900173226435258,0.08624196432247279,0.3117615002062324,0.19900173226435258
+"i drove one in the past but never owned one
+i used to have all kinds of vintage cars !",convai2-grade_00058,bert_ranker,wow really ? my dad drove a taxi cab in the 70s but we never had a ferrari !,0.3149973208323455,0.15791515582159144,0.47207948584309956,0.3149973208323455
+"being a former member of the military , pain is never far from home .
+thanks for the service i think about going to mall tomorrow",convai2-grade_00059,bert_ranker,"i don't mind shopping too much , if its the sporting goods store anyway",0.14172297311018908,0.08734397293859157,0.1961019732817866,0.14172297311018908
+"nop . . i should since i love papaya ! are you married ?
+no , i am single . are you single or are you married ?",convai2-grade_00060,bert_ranker,single i am and i am okay with it . i am in the process of purchasing a house .,0.25633932213302574,0.0616408083749889,0.4510378358910626,0.25633932213302574
+"hey there , i'm doing well , what do you do for a living ?
+i'm not working that stinks but i find something to do .",convai2-grade_00061,bert_ranker,when i'm not working i play basket ball what do you do for fun,0.2561195451293234,0.07983205195696612,0.4324070383016807,0.2561195451293234
+"i eat ice cream sandwiches , like my great great whatever chris columbus .
+i have many old but need new hats need over 1000 .",convai2-grade_00062,bert_ranker,with their socks ? i always put on my left first,0.020277676896416696,0.0,0.04055535379283339,0.020277676896416696
+"where did you get an apartment
+in atlanta near a bar i work nights at so i can afford college",convai2-grade_00063,bert_ranker,maybe i can get you a job at my hotel once you graduate,0.2644474432659233,0.12668401704327648,0.40221086948857004,0.2644474432659233
+"that's way cool . rock music keeps me company on the tractor .
+i play quite a lot of instruments",convai2-grade_00064,bert_ranker,really that is pretty cool . upright or electric ?,0.08358278500846068,0.06695094451456825,0.10021462550235312,0.08358278500846068
+"cool ! i am a homecoming queen that loves horses .
+you must be very popular and a good person , too .",convai2-grade_00065,bert_ranker,yes of course i am ! i am pretty popular in the race world .,0.22329899024283403,0.1023508199313528,0.34424716055431526,0.22329899024283403
+"nope , do you ? i wonder if my real parents spoke english .
+are you adopted ? i wonder",convai2-grade_00066,bert_ranker,nope i only speak english .,0.3078649938094326,0.110354730906138,0.5053752567127272,0.3078649938094326
+"that s cool , do you like cars ?
+fast ones , but i'd rather sky dive",convai2-grade_00067,bert_ranker,i have never been on one before . i'd like to try,0.22207980977426037,0.0637265809396667,0.380433038608854,0.22207980977426037
+"no , but would love to . i volunteer at a local bunny rescue .
+cool , anything else interesting about you ?",convai2-grade_00068,bert_ranker,"well i've one sister , a golden retriever and i play soccer . you ?",0.19453871784182528,0.09425818944960436,0.2948192462340462,0.19453871784182528
+"nope , i work in a hat shop 24 7 . my name is sophie by the way .
+you should really try to find time .",convai2-grade_00069,bert_ranker,but currently i work at grocery store and need to be taxed less .,0.16129046506727632,0.0,0.32258093013455263,0.16129046506727632
+"no not really other than they always prefer me to wear my helmet
+well that is nice ! do you play sports ?",convai2-grade_00070,bert_ranker,"no , i don't . i'm not into all those sports",0.17316142126756404,0.05195381922102784,0.29436902331410025,0.17316142126756404
+"i haven't spoken a single word in three months , this is the only way i communicate
+that must be hard . i would be talking to my lite brite !",convai2-grade_00071,bert_ranker,"brah , she is more interested in my sick skating tricks than books",0.08706938893948764,0.12528769298482106,0.048851084894154205,0.08706938893948764
+"hi ! anything but chicken , i d say sushi .
+pizza is my favorite . especially with black olives . sushi is my other favorite !",convai2-grade_00072,bert_ranker,i love pizza too ! but i hate sweet potatoes . whats your favorite workout ?,0.26109274681832684,0.10017935238835823,0.42200614124829544,0.26109274681832684
+"hello , how are you today ?
+good i live in ohio working as a doctor looking for a job in california",convai2-grade_00073,bert_ranker,oh i am sorry i love fl but i am sorry for what happen there,0.13100922721760058,0.132598482811456,0.12941997162374516,0.13100922721760058
+"mostly 4 year olds . yes . do you have brothers and sisters ?
+no . i'm alone . i keep myself busy by singing to my toys . you ?",convai2-grade_00074,bert_ranker,hmmm . i am fine and i sing . you good with babies ? i am .,0.2542962910615477,0.14507999240958525,0.3635125897135102,0.2542962910615477
+"hi , i am planning my lesson for class tomorrow .
+awesome me too ! what do you teach ? i teach piano .",convai2-grade_00075,bert_ranker,i teach string instrument lessons . classical music is my favorite,0.2172085488512758,0.12358769184774232,0.3108294058548093,0.2172085488512758
+"yes i am doing ok but do feel weird
+i am sorry what color are your eyes mine are blue and i am a redhead",convai2-grade_00076,bert_ranker,nice i'm naturally a redhead,0.055172036521644256,0.11034407304328851,0.0,0.055172036521644256
+"good luck . i retired after i found out i had cancer .
+that's awful . are you ok now ?",convai2-grade_00077,bert_ranker,"yes , i am . i am so glad i healed because i have 3 kids to parent",0.19635522734544256,0.05285973756323357,0.3398507171276515,0.19635522734544256
+"i'm great . i had heart surgery and woke up with weird superpowers .
+i'm so sorry to hear that i believe your powers are from the lord .",convai2-grade_00078,bert_ranker,yes ! god rocks . do you have a droid phone ?,0.12340020137511493,0.09117554664556615,0.1556248561046637,0.12340020137511493
+"that's a colorado thing right ? i never tried it .
+colorado is the state i live in , i also go hiking during spring",convai2-grade_00079,bert_ranker,i love driving in the mountains in my suburban named midnight .,0.0800673575070536,0.08603924889057223,0.07409546612353499,0.0800673575070536
+"ironically , i don't like the food i plant . i prefer pizza .
+lol well i do like walks so i'd walk the fields any day",convai2-grade_00080,bert_ranker,"i do walk during sunny days , and that s happiness",0.11302906966050506,0.08202195472218679,0.14403618459882334,0.11302906966050506
+"same here , my name is jessi . who are you ?
+i'm dave . what is your favorite show ?",convai2-grade_00081,bert_ranker,"the walking dead . . . kinda gross , but keeps my interest . what about you ?",0.222572462995907,0.1360995907575099,0.30904533523430405,0.222572462995907
+"that's not true . males are way more dominant
+well , you are allowed to think that if you wish .",convai2-grade_00082,bert_ranker,i know right and it makes you a strong woman like i'm myself,0.08875912813810563,0.07488521931789772,0.10263303695831352,0.08875912813810563
+"no . all done with school . are you a student ?
+yes , and i'm majoring in economics . what did you go for ?",convai2-grade_00083,bert_ranker,studied abroad . taken more classes in a wider variety of subjects .,0.09889808728799537,0.05101952791961471,0.14677664665637605,0.09889808728799537
+"were you born in 1943 ?
+not even close ! i am 100 baby ! hash tag forever young",convai2-grade_00084,bert_ranker,"wow ! mee , to . i am beaming ! i cud danse the hole nite long !",0.030619381051384172,0.061238762102768345,0.0,0.030619381051384172
+"awesome . i just started a new job as a life coach
+that is great ! i get straight as so maybe you could coach me in social skills .",convai2-grade_00085,bert_ranker,that could be great ! i love making new friends !,0.28779662752124213,0.11586441392379779,0.4597288411186865,0.28779662752124213
+"yay ! i am a girl . will you go to disney world with me ?
+no mickey mouse here he's a he ! besides , gotta pay for my solar panels .",convai2-grade_00086,bert_ranker,oh lord that would not be fun i worked red lobster in high school,0.06678112978074324,0.0238784160223742,0.1096838435391123,0.06678112978074324
+"mine was accidental . we met at school .
+that is nice . how long have you been together ?",convai2-grade_00087,bert_ranker,"two years , next tattoo i want a pair of brown eyes , like mine .",0.09808839214786431,0.008382171489578791,0.18779461280614984,0.09808839214786431
+"i'm watching a movie on tv with my girlfriend .
+she doesn't mind that you are chatting with me when you are with her ?",convai2-grade_00088,bert_ranker,unfortunately not but she loves me and i love her lol,0.1931711993415024,0.04799643952487732,0.3383459591581275,0.1931711993415024
+"i like to take care of myself with expensive things
+i'm an alcoholic , but i'm recovering",convai2-grade_00089,bert_ranker,well that's good for you . drinking isn't the healthiest thing in the world,0.2413506133820915,0.07591291094441743,0.40678831581976554,0.2413506133820915
+"yes i know ! i love kayaking to get away from everything . you kayak ?
+no i love to travel .",convai2-grade_00090,bert_ranker,"i love to travel but hate driving , traffic annoys me , especially in the city",0.2680887791302523,0.08798430886060217,0.44819324939990246,0.2680887791302523
+"what are you doing for work ?
+i play video games for money",convai2-grade_00091,bert_ranker,i have a factory job . what type of games do you like to play ?,0.3230129675767765,0.07027763797534216,0.5757482971782109,0.3230129675767765
+"its good to relax ! i love walking and gardening
+i love the color navy blue ! not so much gardening , ha !",convai2-grade_00092,bert_ranker,i only work part time so i've time for a garden but no space apartment life !,0.1495525824146251,0.11485551758243831,0.18424964724681187,0.1495525824146251
+"awesome ! i am going to college to become a physical therapist .
+same when i can get my parents of my back",convai2-grade_00093,bert_ranker,"well i hope after they fix my knee i can still play basketball , maybe in ireland .",0.14646514588769594,0.046936558272048706,0.24599373350334314,0.14646514588769594
+"i take so many meds and they have side effects . no nickel from me !
+if you visit me on the moon i can give you a birthday present",convai2-grade_00094,bert_ranker,oh really ? it is my birthday soon . thank you !,0.24628143392623875,0.08547135763090336,0.40709151022157414,0.24628143392623875
+"ok that's cool and i like going to the gym most days .
+i like to swim and walk on the beach .",convai2-grade_00095,bert_ranker,awesome . i love reading on the sand and enjoy the sun bath,0.15603761698894086,0.13095854017178582,0.18111669380609594,0.15603761698894086
+"that is cool ! is it a competition where you win money ?
+yes it is . more money for my chocolate bars i love so much .",convai2-grade_00096,bert_ranker,i'm a sucker for a good chocolate shake,0.2032472976240187,0.11145472316982578,0.2950398720782116,0.2032472976240187
+"hi ! well , i usually like to take care of my looks hair , nail , tanning .
+what do you do as a profession ?",convai2-grade_00097,bert_ranker,"i have male baldness type patterns going on , and i am a lady",0.12808510483955216,0.07504537531098719,0.1811248343681171,0.12808510483955216
+"cool ! i dyed my hair like that when i played college football
+no kidding ! when i was in college , helmets were still leather .",convai2-grade_00098,bert_ranker,that is all i wore in middle school as a tribute to kurt cobain,0.26147355792799465,0.036600879736005835,0.4863462361199835,0.26147355792799465
+"that's great ! i spend all my time out of the kitchen on the water .
+haha awesome . i use the internet a lot . especially twitter",convai2-grade_00099,bert_ranker,i post on facebook when i make a new dish,0.20817878373597498,0.09364111359313687,0.3227164538788131,0.20817878373597498
+"i jeez maybe i should not be feeding my dogs tacos .
+maybe your dogs don't like travis scott . lol",convai2-grade_00100,bert_ranker,he might be crunchy . i just listened to a song since i'd never heard of him .,0.21328878695288198,0.07175432808068959,0.35482324582507435,0.21328878695288198
+"i want to feel young again out in the store where i ship
+can i ride a horse in there ?",convai2-grade_00101,bert_ranker,"hi ! would love to ! but soon to have my 9 grandkid , and i take care of them",0.18429151970016677,0.06400483757514229,0.30457820182519124,0.18429151970016677
+"funny how music sticks in your head depending on where you are .
+yea like when i am teaching my 5th grade class and i just think about summer",convai2-grade_00102,bert_ranker,i am going to write my own comics and send them to publishers . love summer !,0.19693138333731425,0.04806391531872841,0.3457988513559001,0.19693138333731425
+"no i don't watch , i listen to music and play video games
+my favorite game is call of duty . what about you ?",convai2-grade_00103,bert_ranker,all my people are gamers so i hear a lot about them even though i do not play,0.23616841710175637,0.047592016837291674,0.42474481736622105,0.23616841710175637
+"me too , how fun . do you exercise ?
+every day i also power walk with my dog brownie",convai2-grade_00104,bert_ranker,wow smart dog . i take my dog hiking and we both like to ride my harley,0.1537594495173898,0.0923560489813196,0.21516285005346,0.1537594495173898
+"he's , we go hiking together a lot .
+ever take him out for treats after ? my friend gets doggy ice cream for hers .",convai2-grade_00105,bert_ranker,he's and he's my mentor . no i do not like cheese on a low carb diet,0.1140562755253686,0.047031326836304885,0.18108122421443232,0.1140562755253686
+"mani , pedi , tan and diet . keeps me looking young and at my best .
+my electrician salary could not afford all that !",convai2-grade_00106,bert_ranker,i hear ya ! i talk to strangers in the internet to kill time ! p,0.1604610830485454,0.04146158532123653,0.2794605807758543,0.1604610830485454
+"school systems are a failing institution anyways . at least your making a difference in the army !
+kind of a family tradition the army thing",convai2-grade_00107,bert_ranker,very true . and serving our country is very noble .,0.1682194331853757,0.0,0.3364388663707514,0.1682194331853757
+"i would dry that , do you want to play an video games ?
+yes , lets play an unlimited amount of video games .",convai2-grade_00108,bert_ranker,"good idea , i am a police officer so i shy away from shooter games .",0.2031154873358629,0.04736913788108128,0.35886183679064454,0.2031154873358629
+"nice , i am just enjoying some vanilla ice cream
+i've to avoid it so i don t become fat",convai2-grade_00109,bert_ranker,"you don't want to get fat , either . i ride my bike every morning for twenty miles .",0.19527375401681107,0.07499827907920639,0.3155492289544158,0.19527375401681107
+"how old are you ? i turned four on my birthday !
+i am an old woman . i won a gold medal in 1992",convai2-grade_00110,bert_ranker,that's amazing ! what sport did you compete in ?,0.22882197955634337,0.06392303127651386,0.3937209278361729,0.22882197955634337
+"over my skinny jeans i like to wear leggings . summer grilling is the best .
+i also like mowing my lawn when the suns out",convai2-grade_00111,bert_ranker,i love having my grays dyed back blonde . i only grow herbs inside for cooking,0.07927272824233694,0.07959613872254115,0.07894931776213272,0.07927272824233694
+"they're welcome at the bake sale , we have a dog treat table .
+i love to build houses .",convai2-grade_00112,bert_ranker,how fancy ! i spend too much time working to cook much,0.16935092652107958,0.11291232993966571,0.22578952310249342,0.16935092652107958
+"no , it isn't . we have a great life .
+i used to work in human services , i heard it all the time .",convai2-grade_00113,bert_ranker,its a fun job but i miss my 3 kids . what do you do ?,0.27594986562691504,0.009853028575393736,0.5420467026784364,0.27594986562691504
+"i'm doing great ! what are you doing ?
+i'm watching a nascar race and eating enchiladas . what about you ?",convai2-grade_00114,bert_ranker,"oh , that's my favorite show ! just getting in from work down at the lab",0.15951723117638417,0.11440450275117961,0.20462995960158875,0.15951723117638417
+"no mine are pretty cool good thing too because i love to party
+oh my adoptive parents keep trying to set me up with guys",convai2-grade_00115,bert_ranker,that is good for them . i stand for gay rights,0.21030131703345706,0.05908925839875413,0.36151337566816,0.21030131703345706
+"what did you do back then
+i cannot remember . i try hard to remember but nothing comes up .",convai2-grade_00116,bert_ranker,that's sad . why can you not remember ?,0.2297807659406097,0.08943132978017944,0.37013020210104,0.2297807659406097
+"no , but would love to . i volunteer at a local bunny rescue .
+cool , anything else interesting about you ?",convai2-grade_00117,bert_ranker,"well i've one sister , a golden retriever and i play soccer . you ?",0.19453871784182528,0.09425818944960436,0.2948192462340462,0.19453871784182528
+"spend cash , go shopping , drink smoothies
+ha , wow , sounds pretty irresponsible .",convai2-grade_00118,bert_ranker,well i guess as a grad student i'm a bit pretentious . but i'm nice,0.15169919191397194,0.07307323860831264,0.23032514521963124,0.15169919191397194
+"i am doing well , thanks .
+my favorites are music and i love playing video games and you .",convai2-grade_00119,bert_ranker,i too like videogames . i love rock and roll so i go to lots of concerts .,0.2897254523246924,0.11454175874166006,0.4649091459077247,0.2897254523246924
+"i'm great , do you use fresh garden veggies , i love fresh veggies
+i love fresh veggies ! although , i'm a sucker for a good fish and chips !",convai2-grade_00120,bert_ranker,"me either , i do not like fish , the taste makes me nauseous !",0.31306183811774285,0.11841286735879926,0.5077108088766864,0.31306183811774285
+"baby . . . . . . . she took my babies too ! ! what do you do ?
+i sell jewelry . what do you do ?",convai2-grade_00121,bert_ranker,i own a bakery . . . we specialize in weddings and bridal sweeties,0.21943870493159728,0.08119877884223817,0.35767863102095643,0.21943870493159728
+"yes ! its part of my cancer treatment . i started a new job . you ?
+i've heard that cutting meat out of your diet helps with cancer",convai2-grade_00122,bert_ranker,i don't see how a veterinarian could stop a semi truck . . . .,0.031786811788631936,0.0,0.06357362357726387,0.031786811788631936
+"you are going to be a dog ? ! how ? ? people call me a party animal but . . .
+not sure how , but i do know i love looking at blocks and singing the alphabet",convai2-grade_00123,bert_ranker,"ll well that's interesting . you like dogs ? pugs are so loyal , i have one name biscuit",0.0880589915286088,0.06600750761462888,0.11011047544258873,0.0880589915286088
+"then you have not had good hummus . cooking show teaches best recipe
+i hate cooking . my girlfriend does it for me",convai2-grade_00124,bert_ranker,that's so cool ! my woman use to teach cooking classes .,0.14877187606489084,0.09733154262994267,0.20021220949983898,0.14877187606489084
+"i keep my pet monkey bobo in the trunk of my bmw
+bit cruel ? i watch birds with my cat maybe that's cruel as well ?",convai2-grade_00125,bert_ranker,lol really ? we have parrots at the private school where i teach . . they are pretty scary,0.18037646326781304,0.07037593515635256,0.29037699137927353,0.18037646326781304
+"great ! do you hope to go pro one day ?
+of course but not really my focus right now healing",convai2-grade_00126,bert_ranker,you should go for it . i play racquetball and go to the gym alot,0.24268087286946882,0.06281720599329357,0.42254453974564404,0.24268087286946882
+"no , but i am so old , i remember the time before a television .
+wow ! are you strong like me . i love to drink red wine under the moon .",convai2-grade_00127,bert_ranker,i am a 29 year old man . and my love for the sweets and the godfather !,0.23222571185258692,0.11167162508133005,0.3527797986238438,0.23222571185258692
+"i'm sorry to hear that . do you like taylor swift ?
+i like to get in a tub full of bubbles and relax .",convai2-grade_00128,bert_ranker,i love swimming too . my new apartment has a pool and i am spoiled,0.25585664890331017,0.10683273930990606,0.4048805584967143,0.25585664890331017
+"i love ping pong , sometimes i play with my family together .
+cool . i eat chocolate bars while playing . i love those too .",convai2-grade_00129,bert_ranker,hard to go wrong with chocolate ! i really like white cake .,0.2241385538661201,0.13914658733107182,0.3091305204011684,0.2241385538661201
+"he's a sweet black lab
+is he active ? love to get one that can keep up with my awesome kids .",convai2-grade_00130,bert_ranker,is he a regular on any tv shows ? i am in a weekly telenovela .,0.28551489709111605,0.09304146478268004,0.4779883293995521,0.28551489709111605
+"like what ? i make vegan donuts ! do you play video games ?
+yes . i've kids , so video games in the house is a must .",convai2-grade_00131,bert_ranker,"they re too young for games , but husband has an xbox .",0.16630033352340046,0.12363918084731919,0.2089614861994817,0.16630033352340046
+"what is your favorite food ? ! i vigorously enjoy tacos .
+all food . i'm trying to find a job at a restaurant .",convai2-grade_00132,bert_ranker,wow ! what kind of restaurant do you want to open ?,0.3588315472711801,0.07505200046897471,0.6426110940733855,0.3588315472711801
+"cool . i did hardcore exercise four hours everyday .
+that's a lot of exercising . i hate exercising . i just work on my robot most days .",convai2-grade_00133,bert_ranker,my exercise is walking to work when my old honda does not want to start .,0.21746798457932653,0.13656054332574988,0.29837542583290316,0.21746798457932653
+"california , i've to go to school tomorrow
+what type of school ? i went to a dancing school !",convai2-grade_00134,bert_ranker,i study astronomy ! i love the galaxy . where do you work as a dancer ?,0.2744075298121115,0.10523053126572997,0.443584528358493,0.2744075298121115
+"i love hands on work , like gardening . my parents adopted me , old parents
+i like to climb trees an play on the playground .",convai2-grade_00135,bert_ranker,pretty ! when i'm not busy coaching girls volley ball i do crosswords and crochet,0.11220788614208861,0.10701334687765264,0.11740242540652458,0.11220788614208861
+"that is a good field to be in
+what do you do for a living",convai2-grade_00136,bert_ranker,"i finished college a couple years ago in crime and work in a prison , you ?",0.15458639221875486,0.04479533601551889,0.26437744842199085,0.15458639221875486
+"well , i want to leave this small town for the city !
+yeah . i'm still in high school , homecoming queen this year .",convai2-grade_00137,bert_ranker,congratulations . i did my college internship at google .,0.16734790146223172,0.11809190725933894,0.21660389566512453,0.16734790146223172
+"i would enjoy that , it is lonely in the clouds .
+it may lonely but i'm sure it is beautiful . do you make friends with the birds ?",convai2-grade_00138,bert_ranker,i do talk to them sometimes but i'm a loner,0.1923571467499833,0.03542131356388105,0.34929297993608555,0.1923571467499833
+"i am a music producer for rap artists
+cool i like rap . i hate maths though ! do you have other hobbies",convai2-grade_00139,bert_ranker,i don't really . i'm kind of a science nerd in high school .,0.18042442670917413,0.0716200966188556,0.28922875679949267,0.18042442670917413
+"good luck . i retired after i found out i had cancer .
+that's awful . are you ok now ?",convai2-grade_00140,bert_ranker,"yes , i am . i am so glad i healed because i have 3 kids to parent",0.19635522734544256,0.05285973756323357,0.3398507171276515,0.19635522734544256
+"i am actually a painter , but i am hoping to be an art teacher .
+teaching is a great profession , i think . do you have any hobbies ?",convai2-grade_00141,bert_ranker,"i am big into collecting , but cannot afford paintings , i get to see them though !",0.166204269849632,0.06582142709028392,0.26658711260898005,0.166204269849632
+"i know i can not either . do you like football ?
+yes ! my favorite team is the steelers . what is yours ?",convai2-grade_00142,bert_ranker,eagles ! my ex boyfriend loved the raiders too ! ; what type of office ?,0.1371626409556424,0.10286304546140917,0.17146223644987563,0.1371626409556424
+"watching horror movies is my favorite . how about you ?
+i am more into comedies .",convai2-grade_00143,bert_ranker,"yeah movies are pretty cool ! i love animated ones , especially disney and ghibli",0.24998066373738495,0.11510007232728177,0.38486125514748815,0.24998066373738495
+"awesome , you can give some lessons to my daughter
+i'd love to , then we could eat italian food , garlic bread is good after workout",convai2-grade_00144,bert_ranker,"i can do that , my girlfriend is a chef , she makes them out of tenderloin .",0.23499997122576485,0.04858046160399404,0.42141948084753567,0.23499997122576485
+"they already had one bailout
+cash is king baby , cash is king !",convai2-grade_00145,bert_ranker,twas lit ! hey you are a future millionaire !,0.05205066817969997,0.10157337204403538,0.002527964315364561,0.05205066817969997
+"what the heck do you work in ? i found a soft donut ! my lucky day
+i work for a computer company what is your job",convai2-grade_00146,bert_ranker,customer service . now i can eat beef jerky at work and i love meat,0.13224505678639562,0.032089291171682396,0.23240082240110885,0.13224505678639562
+"that's cool . do you like video games ?
+i do ! i've to pick up my toys first , i don't do that enough",convai2-grade_00147,bert_ranker,that's too bad . i am a gardener so i guess i take things a little slower,0.23259127137803723,0.08244049187678931,0.38274205087928515,0.23259127137803723
+"great ! do you like taylor swift ? i met her once .
+yeah she is cool . she seems nice and her songs are catchy",convai2-grade_00148,bert_ranker,i enjoy listening to her while i draw .,0.2359232949719211,0.08328735989780198,0.3885592300460402,0.2359232949719211
+"no , not right now . i am expecting my first child .
+exciting congratulations ! i do charity work at the local bunny resuce and give them 100 a paycheck .",convai2-grade_00149,bert_ranker,awesome profits bro i grow my own herb son you ?,0.017466750150378456,0.03493350030075691,0.0,0.017466750150378456
+"that's so cool ! mr morris , my third grade teacher , we have a class dog !
+that sounds amazing ! i thought about becoming a teacher . i settled for it work .",convai2-grade_00150,dialogGPT,"oh , that was nice . what kind of dogs ?",0.23585295556137795,0.04759518539111179,0.4241107257316441,0.23585295556137795
+"what classes are you taking ? using the time off to hang out with my two dogs .
+oh , nice i am majoring in art",convai2-grade_00151,dialogGPT,that is cool . what do you do for work ?,0.3430153895562531,0.0800344793385194,0.6059962997739868,0.3430153895562531
+"i gamble at the casino next to a mall . what about yard work ?
+gross . i think the dirt would mess up my skinny jeans .",convai2-grade_00152,dialogGPT,it would be nice to have someone who can clean all those dirty things,0.2779006307065057,0.08697181188990165,0.46882944952310984,0.2779006307065057
+"christopher columbus was my great great grandfather , he travelled a lot !
+wow that's pretty cool i like history",convai2-grade_00153,dialogGPT,"it was pretty cool , my mom is in the military",0.30574263358547615,0.10270123317882283,0.5087840339921295,0.30574263358547615
+"that is great ! i work in construction and love to build houses .
+do you like music ? i go to a rolling stones concert each year .",convai2-grade_00154,dialogGPT,wow ! i love music . i love when they play the who music .,0.2007405206401789,0.11285277553036491,0.28862826574999284,0.2007405206401789
+"i take dance lessons . what are you going to school for ?
+i like to study business",convai2-grade_00155,dialogGPT,what kind of business ?,0.2994619435234985,0.1288210625697707,0.4701028244772263,0.2994619435234985
+"glad he is well . kids and i leave for disneyland in two weeks !
+have you ever been there before",convai2-grade_00156,dialogGPT,"yes , i have and i love it",0.26178287767963443,0.09275327041022317,0.43081248494904567,0.26178287767963443
+"hi ! i'm from india . where are you from ?
+i m from portland or . i just got back from a long walk",convai2-grade_00157,dialogGPT,i am in the states as well . what did you name your dog,0.20798535182285893,0.0,0.41597070364571787,0.20798535182285893
+"about two years . i have a captain , so i don't drive it myself .
+did the captain come with the yacht ?",convai2-grade_00158,dialogGPT,yes the main thing . i am going to go out in my nice new car and party !,0.20494953809157018,0.03546567331736266,0.3744334028657777,0.20494953809157018
+"yum . you will find me in the kitchen and if not i am fishing .
+wow that's pretty cool what else you do for fun",convai2-grade_00159,dialogGPT,i just got my first job at a gas station .,0.32138140195654546,0.0603154887271388,0.5824473151859522,0.32138140195654546
+"hello jennifer , i'm a proud dad and husband
+do your kids like gymnastics ? it is my favorite sport ever",convai2-grade_00160,dialogGPT,i do . i have 2 cats and a bird,0.21721867036733156,0.10422185096213095,0.3302154897725322,0.21721867036733156
+"that was a much better world . i do not like all of this electronics
+sure was back in my day wine food and family , and dancing until night fall",convai2-grade_00161,dialogGPT,that is nice . i like to eat when i am not watching the football games at the hospital,0.25697148670842446,0.06855668117549855,0.44538629224135035,0.25697148670842446
+"that's interesting . are you able to pay all your bills with that job ?
+yes it is plumbing lol",convai2-grade_00162,dialogGPT,i can not deal with it . it would mess up my life and make me fat .,0.24691169205772967,0.007571885862671093,0.48625149825278824,0.24691169205772967
+"hi , i love walking 3 miles a day . baby delivery nurse here
+fun , i work as a stand double sometimes , do you like to read",convai2-grade_00163,dialogGPT,"not really . i love to read , and i love to watch star plays . what do you do ?",0.2714743518731643,0.09323798713211401,0.44971071661421463,0.2714743518731643
+"yes . i serve food to the poor because of what i went through
+truly that is a great way to give back . i admire you .",convai2-grade_00164,dialogGPT,thank you so much i really want to see the world,0.286230993598692,0.0903810317751722,0.48208095542221174,0.286230993598692
+"i enjoy a great meal , but usually just eat when there is nothing else to do . haha
+yeah that is cool , what is your favorite color ?",convai2-grade_00165,dialogGPT,"my favorite color is red , are you a fan of any color ?",0.39342656947204424,0.15402035506338818,0.6328327838807003,0.39342656947204424
+"hi how are you tonight ?
+i am worn out from work today . how are you ?",convai2-grade_00166,dialogGPT,"i am doing well , thank you for asking",0.39443592308518244,0.08067330299620676,0.7081985431741581,0.39443592308518244
+"anywhere with delicious food . i am a big foodie , although i am a lousy cook .
+what kind of foods do you enjoy ? i love cooking but never do it",convai2-grade_00167,dialogGPT,i love anything sweet and healthy .,0.2287446851369772,0.11196846096420542,0.345520909309749,0.2287446851369772
+"perfect . i don't , but my wife and kids would love a dog .
+dogs always chase my cats . i prefer cats .",convai2-grade_00168,dialogGPT,i do too . i have one and working on getting another .,0.25033967334212803,0.13174751007299457,0.36893183661126144,0.25033967334212803
+"i hope that i can find a new doctor job soon !
+my parents aren't supportive of my dream as a custodian",convai2-grade_00169,dialogGPT,"that is too bad , are you married ?",0.21605892100376928,0.03534922896447342,0.39676861304306515,0.21605892100376928
+"my home is filled with only the essentials for survival .
+you sound very centered . i like my life , my family doesn t seem to .",convai2-grade_00170,dialogGPT,well that is a good thing to do be positive,0.19232875878262157,0.05251321299545185,0.33214430456979127,0.19232875878262157
+"wow , all i did was play football in college .
+cool , i taught a few players being an elementary school teacher",convai2-grade_00171,dialogGPT,"that is pretty cool , do you do any sports",0.26925013265461983,0.07245256212250412,0.46604770318673555,0.26925013265461983
+"best thing is going to see the rolling stones every year !
+i love the rolling stones . i love music especially while working out . it keeps me motivated",convai2-grade_00172,dialogGPT,"i like to play the electric bag , what do you play ?",0.18400022491901574,0.03940879452132266,0.3285916553167088,0.18400022491901574
+"my dogs name princess pei pei she just won a blue ribbon
+what a hilariously adorable name . congratulations to her !",convai2-grade_00173,dialogGPT,thank you ! you are most happy .,0.211704331485692,0.09813549114921015,0.32527317182217386,0.211704331485692
+"well enjoy being single , we are growing our family so free time is short .
+but it is tough cause i am vegan and my friends are not",convai2-grade_00174,dialogGPT,i am sure . i love going to the animal rights camp,0.23029525730709777,0.1115644703521407,0.34902604426205486,0.23029525730709777
+"yes i do i've a dog and 2 cats at the moment
+i've one dog myself , she can be a bit of pain",convai2-grade_00175,dialogGPT,what do you do for a living ?,0.31012521193652104,0.0,0.6202504238730421,0.31012521193652104
+"me too . should i trade my mini van in for a sports car .
+yes . who doesn't love a sports car .",convai2-grade_00176,dialogGPT,my favorite car is probably the ford brand .,0.26404030196270195,0.1356966803342475,0.3923839235911564,0.26404030196270195
+"when i retire in few years i will travel all over the country to nascar races .
+cool ! wonder woman and i both love the color grey . you like scorpions ?",convai2-grade_00177,dialogGPT,"not really , only the show i really like is walking dead",0.14249950227952107,0.005938640393575233,0.2790603641654669,0.14249950227952107
+"i have to drink another substance that contains particles of hydrogen and oxygen
+dang that kinda weird . well do you have a pet",convai2-grade_00178,dialogGPT,no not yet . i am still young so i have a lot to deal with,0.26404141096481004,0.08231072519533822,0.44577209673428186,0.26404141096481004
+"that must be interesting . i don't have time outside of house building to do much
+that is fine , do you like death metal music ?",convai2-grade_00179,dialogGPT,it is a metal band . do you have any other favorite music facts ?,0.3071265453348314,0.12741854542884867,0.48683454524081415,0.3071265453348314
+"west virginia . nice to meet you too . i used to visit my uncle on long island
+what do you do for work ?",convai2-grade_00180,dialogGPT,i am in college . what about you ?,0.4193471109120752,0.15684850538560166,0.6818457164385487,0.4193471109120752
+"oh very cool . i go on twitch for my pot farm updates .
+pot farm updates ? like a real pot farm ?",convai2-grade_00181,dialogGPT,"yes , i have one and working on it",0.2272543311150269,0.06898407587828004,0.3855245863517738,0.2272543311150269
+"yes well i love disney musicals .
+i like the movie tangled a lot , but frozen is nice too",convai2-grade_00182,dialogGPT,i like to watch the little ones play with their heads off .,0.2320230213274592,0.08179180249470751,0.38225424016021087,0.2320230213274592
+"yeah i am interested in taking pictures , of yoda for sure
+wow . i try coffee as a hobby",convai2-grade_00183,dialogGPT,i am not into meat any more and i am from east asia,0.21089807325781013,0.07352389337663723,0.348272253138983,0.21089807325781013
+"do you live in the southwest by chance ?
+no i do not . i love wearing band shirts with ruffles on the sleeves",convai2-grade_00184,dialogGPT,i am a bit of a health nut but i eat a ton of meat .,0.28517498869255675,0.08791287237447594,0.4824371050106376,0.28517498869255675
+"money makes the world go round .
+yeah yeah it sure does my friend",convai2-grade_00185,dialogGPT,do you have any children ?,0.24070392975010982,0.06787666631814969,0.41353119318206993,0.24070392975010982
+"i am well . just took my dog for a walk
+i have a dog she loves for me to sing to her",convai2-grade_00186,dialogGPT,oh that is sweet . what do you sing ?,0.276225730998298,0.05747041544702243,0.49498104654957353,0.276225730998298
+"i have two dogs . do you have any pets ?
+no , i cannot afford pets right now . organic pet food is super expensive .",convai2-grade_00187,dialogGPT,i have a real job but i do not have much money for it,0.3503294822112367,0.10766592493942277,0.5929930394830507,0.3503294822112367
+"never tried it , but maybe i should . what is your favorite movie ?
+i like forest gump , but i prefer books . i work at a bookstore .",convai2-grade_00188,dialogGPT,"i love reading , but i also love science fiction .",0.3534139305637981,0.13690858015785484,0.5699192809697413,0.3534139305637981
+"long hair all the way . although short hair may look more professional .
+i've to get used to this . so any hobbies ?",convai2-grade_00189,dialogGPT,"i do not have any , but i do have a dog , bart . do you like dogs ?",0.32974722089206343,0.08577841930110727,0.5737160224830196,0.32974722089206343
+"get out ! i danced for a queen too . she paid for the dance though .
+flamingo dancing is not stripping , think of tango .",convai2-grade_00190,dialogGPT,i did ! i also got a dog to help out,0.1640664590167122,0.0,0.3281329180334244,0.1640664590167122
+"i work in a shipyard 40 hours a week so when i've time i try .
+that sounds like am interesting job . i work as a teacher .",convai2-grade_00191,dialogGPT,do you like to read ? i like to read,0.38027457265424036,0.06938194542046498,0.6911671998880158,0.38027457265424036
+"i am doing good , i just finished playing ping pong .
+i am trying to write invoices for my dog walking business .",convai2-grade_00192,dialogGPT,"that is a good start , i am a writer and am working full time",0.2918393876776387,0.09703960360297113,0.48663917175230625,0.2918393876776387
+"everybody should have their own money , especially when they turn 40 !
+did your wife ever work ?",convai2-grade_00193,dialogGPT,"no , she was a stay at home mother . i had to drop out the kids early on .",0.26766278090216344,0.023498909689828554,0.5118266521144983,0.26766278090216344
+"nice . i enjoy taking walks around my neighbor hood .
+i wish i had time for walks . my job at the bank keeps me busy .",convai2-grade_00194,dialogGPT,i like to watch tv . and drive fast .,0.2550193663528415,0.10616943137269962,0.4038693013329834,0.2550193663528415
+"i do , as well . though my husband liked me more when i was younger and prettier .
+that's unfortunate . have you talked to anyone about this ?",convai2-grade_00195,dialogGPT,"i have not , i thought i might !",0.2666479983192966,0.09440408695050331,0.4388919096880899,0.2666479983192966
+"yes ! i cook kosher foods only . my father died .
+sorry to hear that . try riding horses . it is therapeutic .",convai2-grade_00196,dialogGPT,that would be nice . i would be more a reader than a horse .,0.24642975279086715,0.04399902083045443,0.4488604847512799,0.24642975279086715
+"well , i don't drink alcohol , so coffee and diet soda . what about you ?
+i am an ice cream and ice water kind of guy .",convai2-grade_00197,dialogGPT,oh i have been into that since i was 3 ! !,0.2702498999166849,0.06980055458765433,0.4706992452457155,0.2702498999166849
+"you know it . i wish it was still summer .
+not me , i'm ready for the cuddle weather .",convai2-grade_00198,dialogGPT,"me too , it will be hard with the cold !",0.255402490407335,0.079522253808463,0.4312827270062069,0.255402490407335
+"sorry i eat them they ate great with the peanuts .
+oh i am sure they are",convai2-grade_00199,dialogGPT,i think so too . what else do you do ?,0.29846744014455756,0.018970398167602227,0.5779644821215129,0.29846744014455756
+"i like to drink soda to young for the hard stuff
+o ok well what do you like to do ?",convai2-grade_00200,dialogGPT,i love to read and i love music,0.3283883447114408,0.06919226426677898,0.5875844251561027,0.3283883447114408
+"i love playing softball , do you make alot of money selling insurance
+no . my father is always moving military army .",convai2-grade_00201,dialogGPT,do you ever just race cars ?,0.20991718617112087,0.05982097829344033,0.3600133940488014,0.20991718617112087
+"my food is limited to kosher . what do you like ?
+i like pizza and dr pepper",convai2-grade_00202,dialogGPT,i like to cook too ! but my favorite things are walking on the moon .,0.2516855386937182,0.10617670464396853,0.39719437274346786,0.2516855386937182
+"a snake . ohhh cnn just had trump on tv , he s so orange , my least favorite color
+haha , very true , do you collect anything ?",convai2-grade_00203,dialogGPT,"not much , just love to hang out and stuff , you ?",0.26031942165919286,0.08601433253553223,0.43462451078285347,0.26031942165919286
+"whatever pays the bills man . that's how i see it
+yeah yeah , man , for sure",convai2-grade_00204,dialogGPT,do you like to shop ?,0.31269985321556415,0.058497458960260755,0.5669022474708676,0.31269985321556415
+"just the city for me , like now for my kids .
+that is nice , i want to go into a city",convai2-grade_00205,dialogGPT,what do you do for a living ?,0.3723632919050291,0.03205652544467893,0.7126700583653792,0.3723632919050291
+"that is not where it belongs .
+had a brain transplant now i move objects with my mind",convai2-grade_00206,dialogGPT,how did you do that ?,0.30045465898457974,0.05958571317229676,0.5413236047968627,0.30045465898457974
+"nice ! i hope it isn't orange , i hate orange .
+no , this one is black , do you go to the gym ?",convai2-grade_00207,dialogGPT,"no , not really . i like to go to the park in my down time .",0.3021287421445632,0.06286559845163715,0.5413918858374892,0.3021287421445632
+"no problem . always here to help a friend .
+so what else do you like to do on your spare time ?",convai2-grade_00208,dialogGPT,"nothing really , i am always looking for get rich quick gaming hook ups though",0.07955517286053579,0.0,0.15911034572107158,0.07955517286053579
+"o wow ! ! well my want in life is to shop shop shop .
+i hate shopping . or spending money",convai2-grade_00209,dialogGPT,i shop at stores with my kids each week . what do you do ?,0.27152953949835335,0.04648979218341243,0.4965692868132942,0.27152953949835335
+"oh i watch that every week . my parents were just good ole farms .
+right on . i work for the post office . what do you do ?",convai2-grade_00210,dialogGPT,i am a vet at my local school and i love it ! you ?,0.2904978037588767,0.10937672796452463,0.4716188795532287,0.2904978037588767
+"roof is way to high for me . nice that you study french .
+are you afraid of heights ? i study many languages . spanish and french currently .",convai2-grade_00211,dialogGPT,"no , but am a great english man",0.0650440594378073,0.08317199573371506,0.04691612314189956,0.0650440594378073
+"that is cool . why don't you have pets now ?
+yeah , i love those bands , you like hard stuff ?",convai2-grade_00212,dialogGPT,yeah . i like to play basketball .,0.27005129107243414,0.11645088443086643,0.42365169771400185,0.27005129107243414
+"i've a little more than that many in my class
+what grade do you teach ?",convai2-grade_00213,dialogGPT,"pre law , civil war , base , and war were my fields of business",0.06174491069610331,0.0,0.12348982139220661,0.06174491069610331
+"thank you so much ! i'm so happy .
+good , they make life worth living",convai2-grade_00214,dialogGPT,"i am a very happy person , thank you",0.28896077984804674,0.10303486749356362,0.4748866922025298,0.28896077984804674
+"good thing i love running . i actually have an olympic gold metal for running .
+wow really , and you work at a hat shop ?",convai2-grade_00215,dialogGPT,at the hat shop .,0.1831225277901194,0.05825276019024366,0.3079922953899951,0.1831225277901194
+"that sounds like fun , with lots of good food
+not really . she s a bad cook and we end up getting pollo loco a lot",convai2-grade_00216,dialogGPT,"oh that is cool , what else do you like to do",0.26577081022502347,0.010578267337266065,0.5209633531127809,0.26577081022502347
+"i guess we did do that together . maybe i'll keep her .
+nah . you need someone to enjoy the whole relationship with",convai2-grade_00217,dialogGPT,i will just keep doing mine . keep working hard .,0.1576791853969543,0.013581768308388203,0.3017766024855204,0.1576791853969543
+"i drove one in the past but never owned one
+i used to have all kinds of vintage cars !",convai2-grade_00218,dialogGPT,i drive a blue van which is my favorite color,0.2761859924911801,0.07327890655627285,0.4790930784260873,0.2761859924911801
+"being a former member of the military , pain is never far from home .
+thanks for the service i think about going to mall tomorrow",convai2-grade_00219,dialogGPT,cool ! i will check out their show and watch the movie,0.1768040655502831,0.1166169454560752,0.23699118564449098,0.1768040655502831
+"i am doing very well
+i have two kids and like listening to the stones .",convai2-grade_00220,dialogGPT,that is nice . what do you do in your free time ?,0.3570391846881609,0.07063266002836872,0.6434457093479531,0.3570391846881609
+"oh good luck ! the bake sale feels like a second home to me !
+i bet . what are you making ? i have a great pb cookie recipe .",convai2-grade_00221,dialogGPT,i love the b plot i got from my mom,0.13726216664555874,0.04284602730286651,0.23167830598825098,0.13726216664555874
+"i need to find a place for my daughter to go to school .
+it is good you are close to your daughter . my mom is seeing me tomorrow",convai2-grade_00222,dialogGPT,i am a mom of two boys . they love it .,0.2764192383778402,0.0754264659204429,0.47741201083523754,0.2764192383778402
+"my store sells everything you could possibly need !
+great , are there weights ? i am strong for my age , but would like to get stronger",convai2-grade_00223,dialogGPT,"well good for you , my mom is super old and she does not want me to get a dog .",0.19372179101690168,0.029695880836106116,0.3577477011976972,0.19372179101690168
+"a favorite of mine is shawarma . what is that like ?
+i wish my sister was not a pole dancer since it is a sin .",convai2-grade_00224,dialogGPT,do you think the moon is fake ? is that because it is fake ?,0.2430880098694525,0.04437024571551568,0.44180577402338933,0.2430880098694525
+"it was to pursue my spiritual journey
+oh i'm sure , so are you a sci fi fan at all ?",convai2-grade_00225,dialogGPT,yes i am ! i am going to be a doctor as soon as my life gets out,0.31232590373354946,0.10972260441902497,0.514929203048074,0.31232590373354946
+"i've never been to new york , is it very cold there ?
+yes it can be , thankfully i left and went to school at yale .",convai2-grade_00226,dialogGPT,what did you go for ? ?,0.2653593724903343,0.01759574989777988,0.5131229950828887,0.2653593724903343
+"it is up north near new york .
+i would love to come over . can i bring my dog ?",convai2-grade_00227,dialogGPT,dogs are not as special as the first one i found in a dog day !,0.17407242110889887,0.027593113300938606,0.3205517289168591,0.17407242110889887
+"yes good thing i have insurance . i bought it through aetna
+good . you have kids ? i have a daughter . she's a music prodigy .",convai2-grade_00228,dialogGPT,cool . i have two boys and one girl,0.32750075947565693,0.1442481750192181,0.5107533439320958,0.32750075947565693
+"what do you do there at burger king ?
+i'm only 19 and work the grill . i just want to have fun with friends .",convai2-grade_00229,dialogGPT,you sound like a really cool friend .,0.28475290217752897,0.061221335056757704,0.5082844692983002,0.28475290217752897
+"i broke my arm so i can not drink coffee
+oh no . how did you break your arm ? ! ?",convai2-grade_00230,dialogGPT,my dad was a professional and made us some great money,0.1255839872021726,0.0,0.2511679744043452,0.1255839872021726
+"but the old ones are beter . even my junior high school son likes them
+i am learning about the old film noir style . the grey color scheme is my favorite .",convai2-grade_00231,dialogGPT,that is my favorite . what do you do for a living ?,0.3578591720057494,0.02270612312151831,0.6930122208899805,0.3578591720057494
+"ok . do you have any hobbies ?
+i am busy in college studying law",convai2-grade_00232,dialogGPT,what college ?,0.05455047936615484,0.07751799949206636,0.03158295924024331,0.05455047936615484
+"i'm a rolling stones fan i go to a concert yearly .
+amazing ! my older brother does too !",convai2-grade_00233,dialogGPT,i have a best friend,0.283596086534518,0.1140046888691505,0.4531874841998855,0.283596086534518
+"i drink a lot of wine . and dance under the moonlight when i'm intoxicated .
+at 100 ! that is very impressive !",convai2-grade_00234,dialogGPT,"i think so , i think the real world would be better then here .",0.24522082898617467,0.07771675423169179,0.41272490374065757,0.24522082898617467
+"cool . i love living here . i am partially deaf and people are understanding .
+they're . we had horses , do you ride ?",convai2-grade_00235,dialogGPT,i do but i am so short i had to reach the top gear .,0.20704145381824854,0.0250199595486576,0.3890629480878395,0.20704145381824854
+"yes , my dogs like to play with them on the playground .
+that's so cool ! mr morris , my third grade teacher , we have a class dog !",convai2-grade_00236,dialogGPT,oh . . . . . do you like music ? do you play any sports ?,0.32203702792043826,0.07404670475695628,0.5700273510839202,0.32203702792043826
+"guten tag ! i watching some food network .
+o ok i am just checking my app for tomorrow i've a walking business for dogs",convai2-grade_00237,dialogGPT,"that is a good start , i also love dogs , do you have any ?",0.27824510768505994,0.04700036142397194,0.509489853946148,0.27824510768505994
+"lol that would be really funny to watch
+my pet turtle would do better than me playing soccer so yes lol",convai2-grade_00238,dialogGPT,lol you have any favorite shows ? mine is tom and max .,0.1387636284670834,0.04312003519571968,0.23440722173844714,0.1387636284670834
+"i do too , i take mine for a run most evenings !
+that is good . i am only 4",convai2-grade_00239,dialogGPT,i am not sure i ever been to the keys !,0.1941356482319485,0.09688196805042039,0.29138932841347664,0.1941356482319485
+"my dad used to work construction . do you ever ride mountain bikes ? i do , of course .
+no my sister used to , helped her become a pole dancer",convai2-grade_00240,dialogGPT,"wow , i bet you have been in a long time . i was a slave for 10 years .",0.22181900851271308,0.010424232414056362,0.4332137846113698,0.22181900851271308
+"it is a very exciting time
+i hope to try fishing one day .",convai2-grade_00241,dialogGPT,maybe you can start a online community based on fish and technology .,0.1872140173155277,0.11381983255878149,0.2606082020722739,0.1872140173155277
+"do you like to sing ?
+yes i love to sing ! i can sing a lot of songs . can you ?",convai2-grade_00242,dialogGPT,"i do not know , but my cats like them !",0.2988048217282801,0.11578087932308566,0.48182876413347453,0.2988048217282801
+"hello . are you married ? i am and my wife spends most of my money .
+lol i am not . . been with the same woman 6 years and she spends alot",convai2-grade_00243,dialogGPT,i am sorry to heard that . . . i love dogs too much,0.2617686909438857,0.06972249294354058,0.45381488894423083,0.2617686909438857
+"church , high school tutoring , publishing houses
+i work part time because i cant leave my cats alone long",convai2-grade_00244,dialogGPT,what do you do for a living,0.39534221022872335,0.07333738077677135,0.7173470396806754,0.39534221022872335
+"cool ! i am a homecoming queen that loves horses .
+you must be very popular and a good person , too .",convai2-grade_00245,dialogGPT,i like that but i also love the company and the hours i am away .,0.2142023444568872,0.05943347856375758,0.36897121035001684,0.2142023444568872
+"nope , do you ? i wonder if my real parents spoke english .
+are you adopted ? i wonder",convai2-grade_00246,dialogGPT,no . i am not . are you ?,0.35051371069285503,0.10631165623167071,0.5947157651540393,0.35051371069285503
+"that s cool , do you like cars ?
+fast ones , but i'd rather sky dive",convai2-grade_00247,dialogGPT,i m not that good at it . i am more in to country .,0.257658316150931,0.08893581117026547,0.4263808211315965,0.257658316150931
+"no , but would love to . i volunteer at a local bunny rescue .
+cool , anything else interesting about you ?",convai2-grade_00248,dialogGPT,"not really , just a small town .",0.23887763528033576,0.03740021944971677,0.44035505111095474,0.23887763528033576
+"nope , i work in a hat shop 24 7 . my name is sophie by the way .
+you should really try to find time .",convai2-grade_00249,dialogGPT,i just have a good enough reason not to ask .,0.253286745782416,0.1005585706705566,0.40601492089427543,0.253286745782416
+"what is your favorite season ? mine is winter !
+i'm a summer girl",convai2-grade_00250,dialogGPT,are your parents still living ?,0.17294084195853748,0.09280267104478224,0.25307901287229273,0.17294084195853748
+"she doesn't mind that you are chatting with me when you are with her ?
+she's studying to be a financial planner right now .",convai2-grade_00251,dialogGPT,that is great do you want to go to school,0.2634847857509718,0.061937860295624717,0.46503171120631887,0.2634847857509718
+"i coach baseball for the little ones , mostly my for my sons
+that's so cute i'm in college",convai2-grade_00252,dialogGPT,my wife works with kids,0.1777829628287983,0.10583226844120461,0.249733657216392,0.1777829628287983
+"did you take fertility stuff ? when i'm older i want to be a physical therapist .
+all natural . . . second time . . . twins this time .",convai2-grade_00253,dialogGPT,i bet your friends and family would laugh .,0.20387706767835245,0.0,0.4077541353567049,0.20387706767835245
+"very devoted . i admire that . where do you work ?
+i'm a stay at home mom . i just love taking care of my family .",convai2-grade_00254,dialogGPT,"i am single , but have a great love life .",0.3047149529009558,0.12373956639334739,0.48569033940856415,0.3047149529009558
+"no not really other than they always prefer me to wear my helmet
+well that is nice ! do you play sports ?",convai2-grade_00255,dialogGPT,i do not have time for them,0.3323835595872478,0.04855993801675011,0.6162071811577455,0.3323835595872478
+"i haven't spoken a single word in three months , this is the only way i communicate
+that must be hard . i would be talking to my lite brite !",convai2-grade_00256,dialogGPT,it really is ! i would be away at you if i could !,0.26082615597453584,0.1299644064107246,0.39168790553834704,0.26082615597453584
+"hi ! anything but chicken , i d say sushi .
+pizza is my favorite . especially with black olives . sushi is my other favorite !",convai2-grade_00257,dialogGPT,do you like to cook at all ?,0.3102261143793055,0.03691125398520351,0.5835409747734075,0.3102261143793055
+"hello , how are you today ?
+good i live in ohio working as a doctor looking for a job in california",convai2-grade_00258,dialogGPT,what is your favorite animal ?,0.2611722614692526,0.051933727709304836,0.4704107952292004,0.2611722614692526
+"mostly 4 year olds . yes . do you have brothers and sisters ?
+no . i'm alone . i keep myself busy by singing to my toys . you ?",convai2-grade_00259,dialogGPT,i just finished a song,0.22671588857855735,0.06996301498352206,0.38346876217359266,0.22671588857855735
+"hi , i am planning my lesson for class tomorrow .
+awesome me too ! what do you teach ? i teach piano .",convai2-grade_00260,dialogGPT,i have my own practice taking notes taking them from people,0.06836530582677297,0.0,0.13673061165354594,0.06836530582677297
+"yes i am doing ok but do feel weird
+i am sorry what color are your eyes mine are blue and i am a redhead",convai2-grade_00261,dialogGPT,i love it so much .,0.2631708331661561,0.07485007717552918,0.451491589156783,0.2631708331661561
+"good luck . i retired after i found out i had cancer .
+that's awful . are you ok now ?",convai2-grade_00262,dialogGPT,"yes , just started a new job , that will help me pay for the things i have no money",0.222758332917064,0.0,0.445516665834128,0.222758332917064
+"i'm great . i had heart surgery and woke up with weird superpowers .
+i'm so sorry to hear that i believe your powers are from the lord .",convai2-grade_00263,dialogGPT,i really do not know . i work in a prison,0.2580965032404298,0.02213628752200528,0.49405671895885434,0.2580965032404298
+"that's a colorado thing right ? i never tried it .
+colorado is the state i live in , i also go hiking during spring",convai2-grade_00264,dialogGPT,that is cool i love to go on runs there with my dog on the long days,0.17599742105434418,0.06031361639988146,0.2916812257088069,0.17599742105434418
+"ironically , i don't like the food i plant . i prefer pizza .
+lol well i do like walks so i'd walk the fields any day",convai2-grade_00265,dialogGPT,what do you like to eat ? i like all types .,0.322691377549982,0.0857117356457112,0.5596710194542528,0.322691377549982
+"same here , my name is jessi . who are you ?
+i'm dave . what is your favorite show ?",convai2-grade_00266,dialogGPT,"the walking dead , it is so good",0.1450544671506455,0.0,0.290108934301291,0.1450544671506455
+"that's not true . males are way more dominant
+well , you are allowed to think that if you wish .",convai2-grade_00267,dialogGPT,thanks . do you think the moon is fake ?,0.22668000140741218,0.07254099357912006,0.38081900923570433,0.22668000140741218
+"no . all done with school . are you a student ?
+yes , and i'm majoring in economics . what did you go for ?",convai2-grade_00268,dialogGPT,i went to school to be a marine,0.28349286494077475,0.036059201057939735,0.5309265288236098,0.28349286494077475
+"were you born in 1943 ?
+not even close ! i am 100 baby ! hash tag forever young",convai2-grade_00269,dialogGPT,"i have two kids , i am 100 baby ! hash tag great ! hash tag my ex would have his hand drawn .",0.19318179923544762,0.101320751889468,0.28504284658142726,0.19318179923544762
+"awesome . i just started a new job as a life coach
+that is great ! i get straight as so maybe you could coach me in social skills .",convai2-grade_00270,dialogGPT,"sure , how much time would you rather read ? ?",0.17920242347663776,0.10031689642918597,0.25808795052408956,0.17920242347663776
+"yay ! i am a girl . will you go to disney world with me ?
+no mickey mouse here he's a he ! besides , gotta pay for my solar panels .",convai2-grade_00271,dialogGPT,"ll , yeah , i can make you a money bet ! i bet it is better than the rest of us .",0.23916515194629687,0.10509464351439911,0.3732356603781946,0.23916515194629687
+"mine was accidental . we met at school .
+that is nice . how long have you been together ?",convai2-grade_00272,dialogGPT,we got high flag pole practice and my dad worked 11 hour days .,0.0,0.0,0.0,0.0
+"i'm watching a movie on tv with my girlfriend .
+she doesn't mind that you are chatting with me when you are with her ?",convai2-grade_00273,dialogGPT,not too much . you are married ?,0.24161748326361276,0.11514443208076339,0.3680905344464621,0.24161748326361276
+"i like to take care of myself with expensive things
+i'm an alcoholic , but i'm recovering",convai2-grade_00274,dialogGPT,what do you like to do ? do you have any family ?,0.29685938339432705,0.031009822495238527,0.5627089442934156,0.29685938339432705
+"what did you play ? i walked dogs for nine miles total .
+i played with my toys in my room .",convai2-grade_00275,dialogGPT,"wow , those are big dogs ! do you like the show ?",0.20802366710364167,0.01845565219700711,0.3975916820102762,0.20802366710364167
+"hey ! what a beautiful day it is !
+it sure is , the sunrise was a lovely orange this morning .",convai2-grade_00276,dialogGPT,it sure was ! what are you reading ?,0.26066318351740236,0.06006560505087061,0.4612607619839342,0.26066318351740236
+"just finished working in the supermarket
+how long have you worked there",convai2-grade_00277,dialogGPT,"3 years , my favorite color is red . what are you up to ?",0.2903738241631078,0.036348115556264805,0.5443995327699508,0.2903738241631078
+"i am studying french next ! i love languages
+cool you can become a diplomat . i just help out at the food bank .",convai2-grade_00278,dialogGPT,oh ok i was just getting started doing that too,0.13887428973162974,0.06093062024376212,0.21681795921949734,0.13887428973162974
+"that sounds great , music is a nice way to relax !
+best way since i started working at 16 . what kind of tunes do you like ?",convai2-grade_00279,dialogGPT,i love the abc song . what do you like to do ?,0.3598643276989575,0.1574564356435429,0.562272219754372,0.3598643276989575
+"ok that's cool and i like going to the gym most days .
+i like to swim and walk on the beach .",convai2-grade_00280,dialogGPT,i like to watch netflix on my free time i really like social media,0.3103733602897511,0.09922374536124615,0.5215229752182561,0.3103733602897511
+"that is cool ! is it a competition where you win money ?
+yes it is . more money for my chocolate bars i love so much .",convai2-grade_00281,dialogGPT,"oh , i see . so your favorite cookie to make ? i make mine with mac and orange .",0.2331414284114069,0.11302625385201621,0.3532566029707976,0.2331414284114069
+"hi ! well , i usually like to take care of my looks hair , nail , tanning .
+what do you do as a profession ?",convai2-grade_00282,dialogGPT,i work at home . i do not like it at all . do you work ?,0.3620294380597001,0.13665790434313163,0.5874009717762686,0.3620294380597001
+"cool ! i dyed my hair like that when i played college football
+no kidding ! when i was in college , helmets were still leather .",convai2-grade_00283,dialogGPT,oh wow ! you must have a smart head !,0.24042614496844242,0.04699560859324176,0.4338566813436431,0.24042614496844242
+"that's great ! i spend all my time out of the kitchen on the water .
+haha awesome . i use the internet a lot . especially twitter",convai2-grade_00284,dialogGPT,i like to use social media to search for new styles .,0.2705928266483859,0.11319001047444673,0.42799564282232505,0.2705928266483859
+"he's , we go hiking together a lot .
+ever take him out for treats after ? my friend gets doggy ice cream for hers .",convai2-grade_00285,dialogGPT,no but i did learn to be smart,0.09157166236329428,0.017706433243723455,0.1654368914828651,0.09157166236329428
+"mani , pedi , tan and diet . keeps me looking young and at my best .
+my electrician salary could not afford all that !",convai2-grade_00286,dialogGPT,"i live in new house , in a very nice room . very nice .",0.24224895307702013,0.08166037952375953,0.4028375266302807,0.24224895307702013
+"school systems are a failing institution anyways . at least your making a difference in the army !
+kind of a family tradition the army thing",convai2-grade_00287,dialogGPT,i have to agree with you . i was born in the early works and was always the big bucks .,0.17078481085925387,0.0,0.34156962171850774,0.17078481085925387
+"i would dry that , do you want to play an video games ?
+yes , lets play an unlimited amount of video games .",convai2-grade_00288,dialogGPT,wow what ?,0.05204301761169346,0.10408603522338691,0.0,0.05204301761169346
+"nice , i am just enjoying some vanilla ice cream
+i've to avoid it so i don t become fat",convai2-grade_00289,dialogGPT,"i hate to talk about it , but i eat a lot of meat , especially from the country .",0.2752234339711914,0.08865460201873022,0.46179226592365263,0.2752234339711914
+"how old are you ? i turned four on my birthday !
+i am an old woman . i won a gold medal in 1992",convai2-grade_00290,dialogGPT,that is great ! you must be a great person .,0.28830067171354046,0.08365203163746254,0.49294931178961837,0.28830067171354046
+"over my skinny jeans i like to wear leggings . summer grilling is the best .
+i also like mowing my lawn when the suns out",convai2-grade_00291,dialogGPT,i like to take care of my growing family by eating just about any animal .,0.27284768030793477,0.11046296582412966,0.43523239479173986,0.27284768030793477
+"they're welcome at the bake sale , we have a dog treat table .
+i love to build houses .",convai2-grade_00292,dialogGPT,"that is cool , my wife and i have a dog . he has been with me through three wives ,",0.23824129604207722,0.0681573713815772,0.40832522070257726,0.23824129604207722
+"no , it isn't . we have a great life .
+i used to work in human services , i heard it all the time .",convai2-grade_00293,dialogGPT,"i really hate it too , i work in the it field all day",0.23494590146082975,0.08662298291934167,0.3832688200023178,0.23494590146082975
+"i'm doing great ! what are you doing ?
+i'm watching a nascar race and eating enchiladas . what about you ?",convai2-grade_00294,dialogGPT,cool . i am working on one of my masters,0.24215900756889303,0.11800822863345316,0.3663097865043329,0.24215900756889303
+"no mine are pretty cool good thing too because i love to party
+oh my adoptive parents keep trying to set me up with guys",convai2-grade_00295,dialogGPT,i love to party i think its cause i am so short and out of shape ll,0.19378099304399557,0.0771079598227087,0.31045402626528246,0.19378099304399557
+"what did you do back then
+i cannot remember . i try hard to remember but nothing comes up .",convai2-grade_00296,dialogGPT,well what does that mean ?,0.2342158225473688,0.047090953258192514,0.4213406918365451,0.2342158225473688
+"no , but would love to . i volunteer at a local bunny rescue .
+cool , anything else interesting about you ?",convai2-grade_00297,dialogGPT,"not really , just a small town .",0.23887763528033576,0.03740021944971677,0.44035505111095474,0.23887763528033576
+"spend cash , go shopping , drink smoothies
+ha , wow , sounds pretty irresponsible .",convai2-grade_00298,dialogGPT,"i know what you mean , i love my wife",0.3327520716595795,0.10259018976994515,0.5629139535492138,0.3327520716595795
+"i am doing well , thanks .
+my favorites are music and i love playing video games and you .",convai2-grade_00299,dialogGPT,i like playing video games,0.30852976229233414,0.11340043125313712,0.5036590933315311,0.30852976229233414
+"that's so cool ! mr morris , my third grade teacher , we have a class dog !
+that sounds amazing ! i thought about becoming a teacher . i settled for it work .",convai2-grade_00300,transformer_generator,"i ' m a teacher , but i ' m a teacher .",0.37232108298556404,0.1138378357054867,0.6308043302656414,0.37232108298556404
+"what classes are you taking ? using the time off to hang out with my two dogs .
+oh , nice i am majoring in art",convai2-grade_00301,transformer_generator,that sounds like a lot of fun,0.27687112238600015,0.037813787735828656,0.5159284570361716,0.27687112238600015
+"i gamble at the casino next to a mall . what about yard work ?
+gross . i think the dirt would mess up my skinny jeans .",convai2-grade_00302,transformer_generator,i ' m a teacher . i ' m a teacher .,0.35633405908682214,0.07657578680610296,0.6360923313675413,0.35633405908682214
+"christopher columbus was my great great grandfather , he travelled a lot !
+wow that's pretty cool i like history",convai2-grade_00303,transformer_generator,i love it . i ' m a teacher and i love it,0.3591762082558111,0.12450794069472539,0.5938444758168968,0.3591762082558111
+"that is great ! i work in construction and love to build houses .
+do you like music ? i go to a rolling stones concert each year .",convai2-grade_00304,transformer_generator,i like to listen to music while i listen to music,0.33398803687260453,0.026772673899289175,0.6412033998459199,0.33398803687260453
+"i take dance lessons . what are you going to school for ?
+i like to study business",convai2-grade_00305,transformer_generator,i ' m a teacher . i ' m a teacher,0.346229538446732,0.08005507493835015,0.6124040019551138,0.346229538446732
+"glad he is well . kids and i leave for disneyland in two weeks !
+have you ever been there before",convai2-grade_00306,transformer_generator,no i ' ve not but i ' m not a fan of the ocean,0.31529485749993136,0.07796123696394842,0.5526284780359143,0.31529485749993136
+"hi ! i'm from india . where are you from ?
+i m from portland or . i just got back from a long walk",convai2-grade_00307,transformer_generator,that is nice . i ' m from the city .,0.2578044699884205,0.0,0.515608939976841,0.2578044699884205
+"about two years . i have a captain , so i don't drive it myself .
+did the captain come with the yacht ?",convai2-grade_00308,transformer_generator,"no , i ' m not a fan of the country",0.2890417753824123,0.012016790771598467,0.5660667599932262,0.2890417753824123
+"yum . you will find me in the kitchen and if not i am fishing .
+wow that's pretty cool what else you do for fun",convai2-grade_00309,transformer_generator,i like to play video games,0.3912444015763416,0.11091585298264571,0.6715729501700375,0.3912444015763416
+"hello jennifer , i'm a proud dad and husband
+do your kids like gymnastics ? it is my favorite sport ever",convai2-grade_00310,transformer_generator,i ' ve not seen it,0.22845528455191544,0.034128831655621236,0.4227817374482096,0.22845528455191544
+"that was a much better world . i do not like all of this electronics
+sure was back in my day wine food and family , and dancing until night fall",convai2-grade_00311,transformer_generator,i love to run and listen to music,0.2631452208724138,0.03790632390989339,0.4883841178349343,0.2631452208724138
+"that's interesting . are you able to pay all your bills with that job ?
+yes it is plumbing lol",convai2-grade_00312,transformer_generator,i ' m a teacher and i ' m a teacher,0.36080737810096464,0.10185882993819305,0.6197559262637362,0.36080737810096464
+"hi , i love walking 3 miles a day . baby delivery nurse here
+fun , i work as a stand double sometimes , do you like to read",convai2-grade_00313,transformer_generator,"i do , i like to read books",0.3200718638964901,0.11019788749204228,0.5299458403009379,0.3200718638964901
+"yes . i serve food to the poor because of what i went through
+truly that is a great way to give back . i admire you .",convai2-grade_00314,transformer_generator,i ' m a little bit of a reader .,0.3334767122703106,0.08247707427089429,0.5844763502697269,0.3334767122703106
+"i enjoy a great meal , but usually just eat when there is nothing else to do . haha
+yeah that is cool , what is your favorite color ?",convai2-grade_00315,transformer_generator,i like green and blue,0.33979115981959107,0.054030230149418934,0.6255520894897632,0.33979115981959107
+"hi how are you tonight ?
+i am worn out from work today . how are you ?",convai2-grade_00316,transformer_generator,i am good . i am just watching tv .,0.33405452781416023,0.08882181524532813,0.5792872403829923,0.33405452781416023
+"anywhere with delicious food . i am a big foodie , although i am a lousy cook .
+what kind of foods do you enjoy ? i love cooking but never do it",convai2-grade_00317,transformer_generator,"i like to cook , but i ' m not a big fan of food .",0.36901502589716784,0.1300989979354927,0.6079310538588429,0.36901502589716784
+"perfect . i don't , but my wife and kids would love a dog .
+dogs always chase my cats . i prefer cats .",convai2-grade_00318,transformer_generator,i love cats . i ' m a dog person .,0.38554028324944584,0.14971393035891722,0.6213666361399744,0.38554028324944584
+"i hope that i can find a new doctor job soon !
+my parents aren't supportive of my dream as a custodian",convai2-grade_00319,transformer_generator,i ' m sure you are a teacher . i ' m a teacher,0.28953163140079496,0.061601057427063816,0.5174622053745261,0.28953163140079496
+"my home is filled with only the essentials for survival .
+you sound very centered . i like my life , my family doesn t seem to .",convai2-grade_00320,transformer_generator,i ' m sorry to hear that . i ' m a teacher .,0.4251309683862521,0.12720927685154743,0.7230526599209567,0.4251309683862521
+"wow , all i did was play football in college .
+cool , i taught a few players being an elementary school teacher",convai2-grade_00321,transformer_generator,that is great . i ' m a teacher,0.2745414583106049,0.08629575772482793,0.46278715889638183,0.2745414583106049
+"best thing is going to see the rolling stones every year !
+i love the rolling stones . i love music especially while working out . it keeps me motivated",convai2-grade_00322,transformer_generator,i ' m a bit of a reader .,0.31484263930224915,0.06909915199201969,0.5605861266124786,0.31484263930224915
+"my dogs name princess pei pei she just won a blue ribbon
+what a hilariously adorable name . congratulations to her !",convai2-grade_00323,transformer_generator,i ' m not sure what is your name ?,0.2483499430736405,0.07425726956082031,0.4224426165864607,0.2483499430736405
+"well enjoy being single , we are growing our family so free time is short .
+but it is tough cause i am vegan and my friends are not",convai2-grade_00324,transformer_generator,i am not sure i am not a vegan,0.26271047557767757,0.12107351640406755,0.40434743475128754,0.26271047557767757
+"i'll have to check with my parents but maybe next thursday
+that sounds wonderful ! what is your favorite music ?",convai2-grade_00325,transformer_generator,i like rock and roll,0.34563065766294865,0.030150856359639964,0.6611104589662573,0.34563065766294865
+"the speed of return is much different . i think you would most likely win
+only friends and family for now . nice chatting have a good day",convai2-grade_00326,transformer_generator,i ' m so sorry to hear that .,0.35127016810760625,0.09123049224931043,0.611309843965902,0.35127016810760625
+"that's neat ! i like old hogan because his uniform is my favorite color . . . orange !
+cool i like him to . that's why i workout all the time !",convai2-grade_00327,transformer_generator,i like to eat steak and eat steak .,0.26410092029409143,0.05746018965969388,0.470741650928489,0.26410092029409143
+"those are good too , we have a few pigs .
+keeps for a busy life does not it ?",convai2-grade_00328,transformer_generator,i ' m a little bit of a salad,0.24636620654924615,0.03437770715567394,0.45835470594281835,0.24636620654924615
+"true , so what are some of your hobbies or interests besides country ?
+i like to play guitar and explore national parks !",convai2-grade_00329,transformer_generator,"i like to play the violin , but i ' m a bit of a reader",0.3456995539116207,0.0859882639791031,0.6054108438441383,0.3456995539116207
+"yes i do i've a dog and 2 cats at the moment
+i've one dog myself , she can be a bit of pain",convai2-grade_00330,transformer_generator,i ' m sorry to hear that,0.29058349231795183,0.0008433178004823485,0.5803236668354214,0.29058349231795183
+"me too . should i trade my mini van in for a sports car .
+yes . who doesn't love a sports car .",convai2-grade_00331,transformer_generator,i like to drive a truck .,0.33974552141135883,0.09631062018658412,0.5831804226361336,0.33974552141135883
+"when i retire in few years i will travel all over the country to nascar races .
+cool ! wonder woman and i both love the color grey . you like scorpions ?",convai2-grade_00332,transformer_generator,i do not like to travel much .,0.25595380257887324,0.044322789420800764,0.4675848157369457,0.25595380257887324
+"i have to drink another substance that contains particles of hydrogen and oxygen
+dang that kinda weird . well do you have a pet",convai2-grade_00333,transformer_generator,i do not have any pets,0.3311334786716841,0.10227974350816066,0.5599872138352074,0.3311334786716841
+"that must be interesting . i don't have time outside of house building to do much
+that is fine , do you like death metal music ?",convai2-grade_00334,transformer_generator,i do . i like to listen to music while i listen to music,0.358558477540511,0.050992595212143735,0.6661243598688783,0.358558477540511
+"a lot of people make fun of me and call me a circus freak .
+that's so sad . it takes a lot of talent to be in the circus !",convai2-grade_00335,transformer_generator,i am sorry to hear that . i am a little tired,0.3110698147363419,0.04307704368138766,0.5790625857912961,0.3110698147363419
+"my dad will take you . he has lot of money . where are your vacations ?
+i do not take many . i play board games mostly . . . teachers do not make much money",convai2-grade_00336,transformer_generator,i ' m a teacher . i ' m a teacher .,0.3454340215913814,0.03485363834197264,0.6560144048407902,0.3454340215913814
+"ok , take care my man , i will go now , see ya !
+you need money to make money so really think about that help",convai2-grade_00337,transformer_generator,i ' m sure you will . i ' m sure you will do it,0.32214140634330996,0.07834484801394284,0.5659379646726771,0.32214140634330996
+"i'm watching my fave movie star wars .
+that is right , it was on tnt tonight .",convai2-grade_00338,transformer_generator,i ' m watching tv shows on tv .,0.32450908408268486,0.10604888230236159,0.5429692858630082,0.32450908408268486
+"that is harsh . all my earnings to to my horses .
+sales man for car is what my job",convai2-grade_00339,transformer_generator,i ' m a teacher . i ' m a teacher .,0.3418528923199378,0.06190977538676461,0.6217960092531111,0.3418528923199378
+"west virginia . nice to meet you too . i used to visit my uncle on long island
+what do you do for work ?",convai2-grade_00340,transformer_generator,i work in a factory . i ' m a teacher .,0.35914583375575393,0.03686703825689553,0.6814246292546123,0.35914583375575393
+"oh very cool . i go on twitch for my pot farm updates .
+pot farm updates ? like a real pot farm ?",convai2-grade_00341,transformer_generator,that is cool . i ' m a mechanic .,0.2886683293319221,0.0486751581556634,0.5286615005081808,0.2886683293319221
+"yes well i love disney musicals .
+i like the movie tangled a lot , but frozen is nice too",convai2-grade_00342,transformer_generator,i like to watch tv and watch tv,0.2545023278168839,0.03829951263393498,0.4707051429998329,0.2545023278168839
+"yeah i am interested in taking pictures , of yoda for sure
+wow . i try coffee as a hobby",convai2-grade_00343,transformer_generator,i love to eat coffee . i love it,0.32165144250596317,0.1499004429587831,0.49340244205314326,0.32165144250596317
+"do you live in the southwest by chance ?
+no i do not . i love wearing band shirts with ruffles on the sleeves",convai2-grade_00344,transformer_generator,i ' ve never heard of it . i ' m not sure if i could .,0.29429467992235375,0.08270477807042168,0.5058845817742859,0.29429467992235375
+"my favorite thing to shop for is watches . shoes too i guess .
+i've two pairs of jeans and one pair of shoes .",convai2-grade_00345,transformer_generator,i ' ve a black belt in my garden,0.2688605358666551,0.09760288605708346,0.44011818567622674,0.2688605358666551
+"that s funny . mine is a bottle of wine .
+that can't hurt either ! what else do you like to do ?",convai2-grade_00346,transformer_generator,i like to eat a lot of veggies .,0.33633505427252364,0.08401540715056033,0.588654701394487,0.33633505427252364
+"i have a daughter who people say is a child prodigy
+what talents does she have ?",convai2-grade_00347,transformer_generator,she ' s a teacher . she ' s a teacher,0.37073100766205,0.096404308562038,0.6450577067620621,0.37073100766205
+"i build houses , sometimes i fix them , have my dads genes .
+maybe i do too . he is an electrician i pay electric guitar .",convai2-grade_00348,transformer_generator,i ' m a teacher . i ' m a teacher,0.3397109282175732,0.05350410619010613,0.6259177502450403,0.3397109282175732
+"that's interesting . what was the bet ?
+that the cubs would loose last year at the world series lol",convai2-grade_00349,transformer_generator,i ' m a bit of a reader . i ' m a huge fan of anime .,0.27417445735332,0.017547069389089013,0.530801845317551,0.27417445735332
+"money makes the world go round .
+yeah yeah it sure does my friend",convai2-grade_00350,transformer_generator,i ' m sorry to hear that .,0.3496059531705819,0.07806543917707812,0.6211464671640857,0.3496059531705819
+"i am well . just took my dog for a walk
+i have a dog she loves for me to sing to her",convai2-grade_00351,transformer_generator,"i am a dancer , i am a teacher",0.2593672015242819,0.05276266459619912,0.4659717384523646,0.2593672015242819
+"i have two dogs . do you have any pets ?
+no , i cannot afford pets right now . organic pet food is super expensive .",convai2-grade_00352,transformer_generator,i ' ve a dog named radar,0.25640727683640063,0.07173445260672705,0.44108010106607426,0.25640727683640063
+"never tried it , but maybe i should . what is your favorite movie ?
+i like forest gump , but i prefer books . i work at a bookstore .",convai2-grade_00353,transformer_generator,i like to read books . i ' m a big fan of the movies .,0.3920685793867528,0.14978046998913966,0.634356688784366,0.3920685793867528
+"long hair all the way . although short hair may look more professional .
+i've to get used to this . so any hobbies ?",convai2-grade_00354,transformer_generator,i like to read and draw .,0.35645773430556554,0.07380128586107097,0.6391141827500602,0.35645773430556554
+"just watched a war documentary while eating a cheese burger
+that is in the past you can be rich today , i love people and hang out",convai2-grade_00355,transformer_generator,i ' m sure you are a vegan,0.20997609607386192,0.061494766848916305,0.35845742529880753,0.20997609607386192
+"i understand that . i have alot of tress around me
+what is your name by the way ?",convai2-grade_00356,transformer_generator,my name is john and i ' m a little girl,0.34031080643208395,0.012250831678766083,0.6683707811854018,0.34031080643208395
+"very nice . do you like sports ? i like to watch the nhl hockey league .
+i like to play soccer .",convai2-grade_00357,transformer_generator,i like to play the violin .,0.42884994608179794,0.18200034158450426,0.6756995505790916,0.42884994608179794
+"hey ! my name is coach jon .
+what sport do you coach ?",convai2-grade_00358,transformer_generator,i am a teacher . i ' m a teacher,0.3413531627379559,0.07788151903033778,0.604824806445574,0.3413531627379559
+"love travelling , working nights at a bar and in college studying nursing is hectic .
+oh i bet , i go to europe at least twice a year to visit",convai2-grade_00359,transformer_generator,i ' m a teacher and i ' m a teacher,0.3575169918040839,0.07821788982337777,0.6368160937847901,0.3575169918040839
+"get out ! i danced for a queen too . she paid for the dance though .
+flamingo dancing is not stripping , think of tango .",convai2-grade_00360,transformer_generator,i ' m a teacher and i ' m a teacher,0.29184461656603894,0.017870261878740787,0.5658189712533371,0.29184461656603894
+"i work in a shipyard 40 hours a week so when i've time i try .
+that sounds like am interesting job . i work as a teacher .",convai2-grade_00361,transformer_generator,i ' m a teacher and i ' m a teacher,0.37107166829604105,0.08603795266400946,0.6561053839280726,0.37107166829604105
+"i am doing good , i just finished playing ping pong .
+i am trying to write invoices for my dog walking business .",convai2-grade_00362,transformer_generator,"i ' m a teacher , i ' m a teacher .",0.36765687125155744,0.0967619230681901,0.6385518194349248,0.36765687125155744
+"everybody should have their own money , especially when they turn 40 !
+did your wife ever work ?",convai2-grade_00363,transformer_generator,"no , i did not . i ' m a teacher",0.3375572850967342,0.07256338949362133,0.6025511806998471,0.3375572850967342
+"nice . i enjoy taking walks around my neighbor hood .
+i wish i had time for walks . my job at the bank keeps me busy .",convai2-grade_00364,transformer_generator,i ' m a teacher and i ' m a teacher,0.33470274309299103,0.060527925858260175,0.6088775603277219,0.33470274309299103
+"you could talk to someone
+well , even though i live with my mom , but she does not have much time for me .",convai2-grade_00365,transformer_generator,i ' m sorry to hear that . i ' m sorry to hear that .,0.41712083030315167,0.05743556135500116,0.7768060992513022,0.41712083030315167
+"i am well , thank you . how are you ?
+not so good . my ford pinto broke down on me today",convai2-grade_00366,transformer_generator,i ' m sorry to hear that . i ' m not good at it .,0.37293023585766494,0.07304652193860212,0.6728139497767278,0.37293023585766494
+"i'm in the third grade , i love going to disneyland and mickey mouse is my favorite
+oh so sweet ! do you like animals ? i was going to college to be a veterinarian .",convai2-grade_00367,transformer_generator,"i love animals , i ' ve a dog named radar",0.3149126915404983,0.0986237364878552,0.5312016465931414,0.3149126915404983
+"i just want to live free
+nothing is free . unless you win the lottery .",convai2-grade_00368,transformer_generator,i ' m not sure i ' m not sure what i ' m trying to get a job,0.28732351722991406,0.03588118594331871,0.5387658485165094,0.28732351722991406
+"that sounds good too . what do yo do for a living
+well i won gold medal in the olympics so i work out a lot",convai2-grade_00369,transformer_generator,that is cool i ' m a teacher,0.24083833717012398,0.03599395765428009,0.4456827166859679,0.24083833717012398
+"i do , as well . though my husband liked me more when i was younger and prettier .
+that's unfortunate . have you talked to anyone about this ?",convai2-grade_00370,transformer_generator,i ' m not sure . i ' m not sure if i ' m not .,0.3649767898293529,0.094323432853264,0.6356301468054418,0.3649767898293529
+"yes ! i cook kosher foods only . my father died .
+sorry to hear that . try riding horses . it is therapeutic .",convai2-grade_00371,transformer_generator,i ' m not sure if i could . i ' d like to be a lawyer .,0.331401030802557,0.06907790827890754,0.5937241533262064,0.331401030802557
+"well , i don't drink alcohol , so coffee and diet soda . what about you ?
+i am an ice cream and ice water kind of guy .",convai2-grade_00372,transformer_generator,"i like to eat healthy , but i do not drink it .",0.34613230215976737,0.11489778897090212,0.5773668153486327,0.34613230215976737
+"you know it . i wish it was still summer .
+not me , i'm ready for the cuddle weather .",convai2-grade_00373,transformer_generator,i ' m not sure . i ' m glad you are going to be a doctor,0.29665150784600286,0.05014558316595742,0.5431574325260483,0.29665150784600286
+"sorry i eat them they ate great with the peanuts .
+oh i am sure they are",convai2-grade_00374,transformer_generator,i ' m sorry to hear that,0.3956501567918766,0.10391594149331616,0.687384372090437,0.3956501567918766
+"are you a teenage girl ?
+i love to sleep in late and eat brunch and then do it all again",convai2-grade_00375,transformer_generator,i ' m a teacher and i ' m a teacher,0.3324829165608642,0.07446783436468433,0.5904979987570441,0.3324829165608642
+"in my free time i watch war documentaries
+that's great , my grandfather served in world war ii",convai2-grade_00376,transformer_generator,"i ' m a teacher , i ' m a teacher",0.3047893901843913,0.03835813087960712,0.5712206494891754,0.3047893901843913
+"ok sure i want to make computer like my dad used to
+that is great , please tell me more interesting things",convai2-grade_00377,transformer_generator,i ' m sorry to hear that,0.2814936130045062,0.06591525949091143,0.497071966518101,0.2814936130045062
+"yum . will be ready to run again after i have my twins in 2 months .
+did you take fertility stuff ? when i'm older i want to be a physical therapist .",convai2-grade_00378,transformer_generator,i ' m sorry to hear that . i ' m a teacher,0.3859490186907831,0.12028404241475106,0.651613994966815,0.3859490186907831
+"hi how are you today ? i like to walk .
+i am good i like people i volunteer to help local shelters",convai2-grade_00379,transformer_generator,i like to go to the beach,0.3393343103514028,0.11572787805918554,0.5629407426436202,0.3393343103514028
+"i like to drink soda to young for the hard stuff
+o ok well what do you like to do ?",convai2-grade_00380,transformer_generator,i like to drink soda,0.3011806107652629,0.058978719077984194,0.5433825024525416,0.3011806107652629
+"i love playing softball , do you make alot of money selling insurance
+no . my father is always moving military army .",convai2-grade_00381,transformer_generator,"i ' m a teacher , i ' m a teacher",0.36174067924835474,0.05801079789852576,0.6654705605981838,0.36174067924835474
+"my food is limited to kosher . what do you like ?
+i like pizza and dr pepper",convai2-grade_00382,transformer_generator,i like to eat pizza,0.2944874486713045,0.1136032186976245,0.4753716786449845,0.2944874486713045
+"a snake . ohhh cnn just had trump on tv , he s so orange , my least favorite color
+haha , very true , do you collect anything ?",convai2-grade_00383,transformer_generator,"i like to collect autographs , i ' m a bit of a reader",0.31354266917542556,0.05564518442146231,0.5714401539293888,0.31354266917542556
+"whatever pays the bills man . that's how i see it
+yeah yeah , man , for sure",convai2-grade_00384,transformer_generator,"i ' m a teacher , i ' m a teacher",0.35705241156989004,0.08302458596849287,0.6310802371712873,0.35705241156989004
+"just the city for me , like now for my kids .
+that is nice , i want to go into a city",convai2-grade_00385,transformer_generator,"i ' m a teacher , i ' m a teacher",0.3615711278600428,0.08065472374880699,0.6424875319712786,0.3615711278600428
+"that is not where it belongs .
+had a brain transplant now i move objects with my mind",convai2-grade_00386,transformer_generator,i ' m a teacher and i ' m a teacher .,0.3296986648822374,0.06322465320952568,0.5961726765549492,0.3296986648822374
+"nice ! i hope it isn't orange , i hate orange .
+no , this one is black , do you go to the gym ?",convai2-grade_00387,transformer_generator,"yes , i do , i love to eat , especially the gym .",0.29072737178137176,0.03335628062420764,0.5480984629385359,0.29072737178137176
+"no problem . always here to help a friend .
+so what else do you like to do on your spare time ?",convai2-grade_00388,transformer_generator,i like to play video games and play games .,0.35027666495447846,0.06730791090743897,0.633245419001518,0.35027666495447846
+"o wow ! ! well my want in life is to shop shop shop .
+i hate shopping . or spending money",convai2-grade_00389,transformer_generator,"i ' m a teacher , i ' m a teacher",0.3539561654626569,0.07316879931102384,0.63474353161429,0.3539561654626569
+"should have named bo haha , dunno if you are old enough to get that reference
+i'm and actually thought about that , but i'm a mustang man myself",convai2-grade_00390,transformer_generator,i ' m a teacher and i ' m a teacher,0.3106219938649133,0.08662629549833543,0.5346176922314911,0.3106219938649133
+"going to the park is my favorite hobby . or going to my daughters piano concerts
+i enjoy traveling and cooking .",convai2-grade_00391,transformer_generator,"i like to cook , especially when i am not working on my own .",0.40320907710554676,0.1574107796634985,0.649007374547595,0.40320907710554676
+"i run marathons and never ate meat . you sing or dance ?
+i don't . but i do ride horses competitively .",convai2-grade_00392,transformer_generator,i do not like to sing but i do not have time for that .,0.3242054119400507,0.09093048781261495,0.5574803360674865,0.3242054119400507
+"i am too old to cook . what is this vegan you speak of ?
+i do not eat anything that has a face , i love animals , especially horses .",convai2-grade_00393,transformer_generator,i love horses too . i ' m a teacher,0.3721067587056306,0.1123314764143691,0.631882040996892,0.3721067587056306
+"i hope your youth was full of music . i love music .
+i don't love music much now . i do love baking !",convai2-grade_00394,transformer_generator,i love to cook . i ' m a teacher .,0.37861970472480316,0.11772982797280393,0.6395095814768024,0.37861970472480316
+"water is good , it can be relaxing . almost as relaxing as eating chocolate bars .
+when i was younger , my favorite color was blue like the water .",convai2-grade_00395,transformer_generator,"i like to read , but i ' m not a fan of blue",0.3520454545832953,0.046974724943063734,0.6571161842235268,0.3520454545832953
+"i would rather read and write poetry these days though
+understandable . my girlfriend dabbles in poetry .",convai2-grade_00396,transformer_generator,i ' m a teacher and i love to read,0.3667619166868669,0.11111287942018742,0.6224109539535464,0.3667619166868669
+"i m not a fan of war . i would rather be in the peacefulness of nature .
+i was a poor kid . we ate there a lot while growing up .",convai2-grade_00397,transformer_generator,i ' m sorry to hear that . i ' m a teacher .,0.40370631337962903,0.07824885523571071,0.7291637715235474,0.40370631337962903
+"i think kayaking is pretty cool .
+i learned how to from my parents",convai2-grade_00398,transformer_generator,i ' m sorry to hear that,0.37717634596874716,0.09112304946977379,0.6632296424677205,0.37717634596874716
+"care to chat with a married woman vegetarian ?
+sure ! i just got back five guys",convai2-grade_00399,transformer_generator,that is nice . i ' m a teacher and i ' m a teacher,0.32402785644026144,0.07436672869278793,0.573688984187735,0.32402785644026144
+"why ? redheads are beautiful ! we keep on having red haired babies !
+thank you but they don't like me much i don't know why",convai2-grade_00400,transformer_generator,i ' m sorry to hear that . i ' m a woman .,0.3755360489377975,0.12213764639951859,0.6289344514760764,0.3755360489377975
+"yes . you think i'd meet someone at the gym .
+absolutely , look on the treadmills or bikes .",convai2-grade_00401,transformer_generator,"i ' m a dancer , i ' m a teacher .",0.31949260558154463,0.045260393301207645,0.5937248178618816,0.31949260558154463
+"do you like jogging . i love running .
+i not much of a jogging prefer driving fast car",convai2-grade_00402,transformer_generator,i like to drive a car .,0.26718162906742504,0.0,0.5343632581348501,0.26718162906742504
+"hello , how are you today ? i'm retired and enjoying it .
+i wish i was retired then i could hang with my friends more",convai2-grade_00403,transformer_generator,i ' m sorry to hear that,0.32720628202597807,0.08453224148617323,0.5698803225657829,0.32720628202597807
+"that's amazing . i like dancing on weekends . you ?
+right now i am applying for jobs , i want to work in a restaurant .",convai2-grade_00404,transformer_generator,that sounds like a lot of fun .,0.3675008837950514,0.044868356778555184,0.6901334108115477,0.3675008837950514
+"oh i watch that every week . my parents were just good ole farms .
+right on . i work for the post office . what do you do ?",convai2-grade_00405,transformer_generator,i work in a factory . i ' m a teacher .,0.35431971781660443,0.06041961892768168,0.6482198167055272,0.35431971781660443
+"roof is way to high for me . nice that you study french .
+are you afraid of heights ? i study many languages . spanish and french currently .",convai2-grade_00406,transformer_generator,that ' s awesome . i ' m a teacher .,0.3468814972386184,0.08494652989815334,0.6088164645790834,0.3468814972386184
+"that is cool . why don't you have pets now ?
+yeah , i love those bands , you like hard stuff ?",convai2-grade_00407,transformer_generator,i like to listen to music while i am working on my own .,0.33293754410776405,0.08155689743649804,0.58431819077903,0.33293754410776405
+"i've a little more than that many in my class
+what grade do you teach ?",convai2-grade_00408,transformer_generator,i teach japanese and teach japanese,0.34868776753582337,0.07433900384686191,0.6230365312247849,0.34868776753582337
+"thank you so much ! i'm so happy .
+good , they make life worth living",convai2-grade_00409,transformer_generator,i ' m sorry to hear that . i ' m a teacher and i ' m a teacher,0.38531744351265373,0.10132031981394707,0.6693145672113604,0.38531744351265373
+"good thing i love running . i actually have an olympic gold metal for running .
+wow really , and you work at a hat shop ?",convai2-grade_00410,transformer_generator,i ' m a teacher . i ' m a teacher .,0.3814284779302393,0.07980641547605791,0.6830505403844207,0.3814284779302393
+"that sounds like fun , with lots of good food
+not really . she s a bad cook and we end up getting pollo loco a lot",convai2-grade_00411,transformer_generator,"i like to cook , but i ' m not good at it",0.3466766159807474,0.08885940581564859,0.6044938261458462,0.3466766159807474
+"i guess we did do that together . maybe i'll keep her .
+nah . you need someone to enjoy the whole relationship with",convai2-grade_00412,transformer_generator,i ' m not sure what you do for a living,0.33092193808749615,0.06818617641630552,0.5936576997586868,0.33092193808749615
+"i drove one in the past but never owned one
+i used to have all kinds of vintage cars !",convai2-grade_00413,transformer_generator,i like to play video games,0.2867162195077092,0.050016824660721826,0.5234156143546965,0.2867162195077092
+"being a former member of the military , pain is never far from home .
+thanks for the service i think about going to mall tomorrow",convai2-grade_00414,transformer_generator,"i ' m a teacher , i ' m a teacher",0.3176080034670325,0.06479603986654248,0.5704199670675225,0.3176080034670325
+"i am doing very well
+i have two kids and like listening to the stones .",convai2-grade_00415,transformer_generator,i ' m a teacher and i love to read,0.36675447263517036,0.14205380747361454,0.5914551377967262,0.36675447263517036
+"oh good luck ! the bake sale feels like a second home to me !
+i bet . what are you making ? i have a great pb cookie recipe .",convai2-grade_00416,transformer_generator,i love to bake . i ' m a cook for a living .,0.37135436247955855,0.11278760413929208,0.629921120819825,0.37135436247955855
+"i need to find a place for my daughter to go to school .
+it is good you are close to your daughter . my mom is seeing me tomorrow",convai2-grade_00417,transformer_generator,i ' m sorry to hear that . i ' m a teacher .,0.3749096353031068,0.09259181819057093,0.6572274524156426,0.3749096353031068
+"my store sells everything you could possibly need !
+great , are there weights ? i am strong for my age , but would like to get stronger",convai2-grade_00418,transformer_generator,i ' m sorry to hear that . i ' m a cop,0.3148860416374808,0.047628959294330746,0.5821431239806308,0.3148860416374808
+"a favorite of mine is shawarma . what is that like ?
+i wish my sister was not a pole dancer since it is a sin .",convai2-grade_00419,transformer_generator,i ' m a teacher and i ' m a teacher,0.36842398040725854,0.08811537176861604,0.648732589045901,0.36842398040725854
+"nop . . i should since i love papaya ! are you married ?
+no , i am single . are you single or are you married ?",convai2-grade_00420,transformer_generator,i am not married . i am not married .,0.37750393901953505,0.12050677734578781,0.6345011006932822,0.37750393901953505
+"hey there , i'm doing well , what do you do for a living ?
+i'm not working that stinks but i find something to do .",convai2-grade_00421,transformer_generator,"i ' m a teacher , i ' m a teacher",0.3628199225055591,0.07284150210392328,0.652798342907195,0.3628199225055591
+"i eat ice cream sandwiches , like my great great whatever chris columbus .
+i have many old but need new hats need over 1000 .",convai2-grade_00422,transformer_generator,i ' m a woman . i ' m a teacher and i ' m a teacher,0.30017827403953723,0.005989913355391647,0.5943666347236828,0.30017827403953723
+"where did you get an apartment
+in atlanta near a bar i work nights at so i can afford college",convai2-grade_00423,transformer_generator,i ' m from the us in the city,0.26525697593359526,0.11946446716414348,0.41104948470304703,0.26525697593359526
+"that's way cool . rock music keeps me company on the tractor .
+i play quite a lot of instruments",convai2-grade_00424,transformer_generator,i ' m a little bit of a reader,0.333156458858213,0.13252913469034758,0.5337837830260784,0.333156458858213
+"my sisters boyfriend plays hockey , she works as a pole dancer and met him there .
+ah , your sisters must not be a christian then .",convai2-grade_00425,transformer_generator,i ' m sorry to hear that . i ' m a teacher .,0.41077063002059466,0.09299480062642015,0.7285464594147691,0.41077063002059466
+"my father , who is an electrician , knows a lot of languages from his experience around the world .
+except in video games . i've never been out of the united states .",convai2-grade_00426,transformer_generator,i ' m sorry to hear that . i ' m a teacher .,0.3869992725384799,0.10466040761586966,0.66933813746109,0.3869992725384799
+"i hike and rock climb . getting out of the house is important to me .
+really ? because working from home is my dream",convai2-grade_00427,transformer_generator,i ' m a teacher and i ' m a teacher,0.35548615645538095,0.10714397771014558,0.6038283352006163,0.35548615645538095
+"nice to hear . i'm doing great . thanks for asking
+so , tell me about yourself",convai2-grade_00428,transformer_generator,i ' m a teacher and i love to read,0.33241104746374955,0.06459591688776746,0.6002261780397317,0.33241104746374955
+"oh hopefully you find one i'm excited about winter its my fav
+it will be nice when it cools down . but i do like going to the park",convai2-grade_00429,transformer_generator,that is great . i ' m going to go to school .,0.33588987381942714,0.09775396846423352,0.5740257791746207,0.33588987381942714
+"i am a tennis pro . i love sports . i have a big family .
+family is important . i learned everything i know from my father .",convai2-grade_00430,transformer_generator,i ' m sorry to hear that . i ' m a teacher .,0.40435594667373337,0.10758577493029121,0.7011261184171755,0.40435594667373337
+"ok ok . what do you do besides play guitar ?
+i am a custodian and a security guard .",convai2-grade_00431,transformer_generator,i ' m sure that is why i ' m not sure what i want to do,0.3369314847076554,0.06860629784781809,0.6052566715674926,0.3369314847076554
+"oh great me , my job really makes me feel bad
+sorry to hear that . i help my father not my own job . what do you do ?",convai2-grade_00432,transformer_generator,"i am a teacher , i ' m a teacher",0.3487514949080863,0.06295935883967783,0.6345436309764948,0.3487514949080863
+"hi , how are you doing tonight ?
+doing dandy . what are you doing right now ?",convai2-grade_00433,transformer_generator,i am doing alright . i just got done watching tv .,0.3336291018487336,0.10718156828046604,0.5600766354170011,0.3336291018487336
+"hey how are you doing this afternoon ?
+i am doing ok . just dreading halloween . i hate clowns",convai2-grade_00434,transformer_generator,i love them too . i ' m a little older than i ' m not sure,0.2675543889148237,0.08742261068339989,0.4476861671462475,0.2675543889148237
+"it was to pursue my spiritual journey
+oh i'm sure , so are you a sci fi fan at all ?",convai2-grade_00435,transformer_generator,"no , i ' m not into sports",0.24927882958596445,0.050748760593168483,0.44780889857876044,0.24927882958596445
+"i've never been to new york , is it very cold there ?
+yes it can be , thankfully i left and went to school at yale .",convai2-grade_00436,transformer_generator,i ' m sorry to hear that . i ' m a teacher,0.3898580208324704,0.09988453285791386,0.6798315088070269,0.3898580208324704
+"it is up north near new york .
+i would love to come over . can i bring my dog ?",convai2-grade_00437,transformer_generator,i ' ve a dog named emmy,0.3532261853219038,0.044745719343199354,0.6617066513006082,0.3532261853219038
+"yes good thing i have insurance . i bought it through aetna
+good . you have kids ? i have a daughter . she's a music prodigy .",convai2-grade_00438,transformer_generator,i ' ve a lot of kids,0.35611638673716806,0.09561461853496105,0.6166181549393751,0.35611638673716806
+"what do you do there at burger king ?
+i'm only 19 and work the grill . i just want to have fun with friends .",convai2-grade_00439,transformer_generator,i like to go to the beach and go to the beach,0.37773139196341693,0.08888813883779009,0.6665746450890437,0.37773139196341693
+"nice ! both of my parents were athletic .
+what type of sport ? i've coached kids for years .",convai2-grade_00440,transformer_generator,that is great . i ' m a teacher .,0.3332166619519495,0.1303326787797262,0.5361006451241728,0.3332166619519495
+"it is not stable enough and it does not pay enough
+but at least you get lots of fresh air .",convai2-grade_00441,transformer_generator,i ' m not sure if i ' m not a big fan of it,0.30568477294137814,0.02660308425732618,0.5847664616254301,0.30568477294137814
+"wonderful . i just love fish and chips . it is my weakness . i love to cook paella
+i'm not much into cooking . i do ride motorbike though .",convai2-grade_00442,transformer_generator,i like to cook . i ' m a vegan,0.36605740605100945,0.1194725325738674,0.6126422795281515,0.36605740605100945
+"cool , i met taylor swift at mcdonalds
+omg that is crazy my lil sister says she is running out of songs since she uses ppl",convai2-grade_00443,transformer_generator,"i ' ve a lot of siblings , i ' ve a dog named emmy",0.24621256944828915,0.0009437033465105509,0.49148143555006774,0.24621256944828915
+"peace be with you as you embark on your new journey
+thank you . that means a lot to me",convai2-grade_00444,transformer_generator,i ' m sorry to hear that . i ' m not sure if i ' m not .,0.39635640922796794,0.14862898872587496,0.644083829730061,0.39635640922796794
+"i like captain america and star wars .
+what super powers did you awake with ?",convai2-grade_00445,transformer_generator,i ' m not sure i ' m not sure what i do,0.3383143801394588,0.09056977676522954,0.5860589835136881,0.3383143801394588
+"i would love to visit manhattan .
+it is fun , i want to go to business school next year .",convai2-grade_00446,transformer_generator,"i ' m a teacher , i ' m a teacher .",0.3617693395894223,0.10561990332267006,0.6179187758561746,0.3617693395894223
+"the girls name is molly and the boys name is troy . we mow the lawn together .
+i've to wait til i'm older to do that",convai2-grade_00447,transformer_generator,i like to read books . i ' m a bit of a reader .,0.3075634423822336,0.06338315291311827,0.551743731851349,0.3075634423822336
+"yeah , that would be awesome . but i'd buy something more practical .
+oh okay . the naked vegan show . you like the sound of that ?",convai2-grade_00448,transformer_generator,i do not know what that means .,0.3528627214913384,0.1056003158990548,0.600125127083622,0.3528627214913384
+"coffee is good the morning after a big concert .
+yup , keeps me busy i drink wine in the evenings",convai2-grade_00449,transformer_generator,i love the beach and the beach,0.26934452662125424,0.06357924318703133,0.4751098100554772,0.26934452662125424
+"that's so cool ! mr morris , my third grade teacher , we have a class dog !
+that sounds amazing ! i thought about becoming a teacher . i settled for it work .",convai2-grade_00450,transformer_ranker,"i teach math , so its less important for me lol",0.23544206012637625,0.131250623223931,0.3396334970288215,0.23544206012637625
+"what classes are you taking ? using the time off to hang out with my two dogs .
+oh , nice i am majoring in art",convai2-grade_00451,transformer_ranker,i'm a college student studying psychology,0.1525183173750117,0.12765820331778832,0.17737843143223506,0.1525183173750117
+"i gamble at the casino next to a mall . what about yard work ?
+gross . i think the dirt would mess up my skinny jeans .",convai2-grade_00452,transformer_ranker,oh lord not rumpf right ?,0.04149014911379904,0.08298029822759807,0.0,0.04149014911379904
+"christopher columbus was my great great grandfather , he travelled a lot !
+wow that's pretty cool i like history",convai2-grade_00453,transformer_ranker,cool ! i was born in hawaii,0.23300751117532162,0.10696034561375252,0.35905467673689073,0.23300751117532162
+"that is great ! i work in construction and love to build houses .
+do you like music ? i go to a rolling stones concert each year .",convai2-grade_00454,transformer_ranker,that is cool . i listen to music constantly .,0.2607903937903545,0.11078457403687138,0.4107962135438376,0.2607903937903545
+"i take dance lessons . what are you going to school for ?
+i like to study business",convai2-grade_00455,transformer_ranker,what kind of dance ?,0.167607655221012,0.10428435788749141,0.23093095255453264,0.167607655221012
+"glad he is well . kids and i leave for disneyland in two weeks !
+have you ever been there before",convai2-grade_00456,transformer_ranker,i will leave my kids never liked them lets do this !,0.10901028029512486,0.10555696432178867,0.11246359626846104,0.10901028029512486
+"hi ! i'm from india . where are you from ?
+i m from portland or . i just got back from a long walk",convai2-grade_00457,transformer_ranker,how is the weather in portland ?,0.29590306861683463,0.0,0.5918061372336693,0.29590306861683463
+"about two years . i have a captain , so i don't drive it myself .
+did the captain come with the yacht ?",convai2-grade_00458,transformer_ranker,aladin,0.041404022059961354,0.08280804411992271,0.0,0.041404022059961354
+"yum . you will find me in the kitchen and if not i am fishing .
+wow that's pretty cool what else you do for fun",convai2-grade_00459,transformer_ranker,probably fish it is great,0.04856581784446406,0.09713163568892812,0.0,0.04856581784446406
+"hello jennifer , i'm a proud dad and husband
+do your kids like gymnastics ? it is my favorite sport ever",convai2-grade_00460,transformer_ranker,i've a trio of kids,0.03940019981908563,0.07880039963817126,0.0,0.03940019981908563
+"that was a much better world . i do not like all of this electronics
+sure was back in my day wine food and family , and dancing until night fall",convai2-grade_00461,transformer_ranker,i'd swim for a living if i could,0.1338708325177769,0.05962056726431803,0.20812109777123577,0.1338708325177769
+"that's interesting . are you able to pay all your bills with that job ?
+yes it is plumbing lol",convai2-grade_00462,transformer_ranker,well that does not sound boring at all,0.24545991807648196,0.10855499233631243,0.3823648438166515,0.24545991807648196
+"hi , i love walking 3 miles a day . baby delivery nurse here
+fun , i work as a stand double sometimes , do you like to read",convai2-grade_00463,transformer_ranker,i read the bible every night,0.1894238392139247,0.026908849700967317,0.3519388287268821,0.1894238392139247
+"yes . i serve food to the poor because of what i went through
+truly that is a great way to give back . i admire you .",convai2-grade_00464,transformer_ranker,you seem kind of rude,0.13889147956903267,0.049978730002293616,0.2278042291357717,0.13889147956903267
+"i enjoy a great meal , but usually just eat when there is nothing else to do . haha
+yeah that is cool , what is your favorite color ?",convai2-grade_00465,transformer_ranker,"mine is brown , like the color of my horses",0.2955297780316187,0.0335492743568874,0.55751028170635,0.2955297780316187
+"hi how are you tonight ?
+i am worn out from work today . how are you ?",convai2-grade_00466,transformer_ranker,i'm tired . i'm worried about my neighbors yelling at night,0.07976406453157964,0.004773980826922353,0.15475414823623693,0.07976406453157964
+"anywhere with delicious food . i am a big foodie , although i am a lousy cook .
+what kind of foods do you enjoy ? i love cooking but never do it",convai2-grade_00467,transformer_ranker,i cook for social media so people can see my food,0.21601203433634797,0.10126328584518499,0.330760782827511,0.21601203433634797
+"perfect . i don't , but my wife and kids would love a dog .
+dogs always chase my cats . i prefer cats .",convai2-grade_00468,transformer_ranker,i love cats too . i have a ginger cat .,0.3359084237400996,0.15869231565856157,0.5131245318216376,0.3359084237400996
+"i hope that i can find a new doctor job soon !
+my parents aren't supportive of my dream as a custodian",convai2-grade_00469,transformer_ranker,"that is awesome , you seem very supportive",0.16704467007316254,0.051507269170152026,0.28258207097617305,0.16704467007316254
+"my home is filled with only the essentials for survival .
+you sound very centered . i like my life , my family doesn t seem to .",convai2-grade_00470,transformer_ranker,i'm so sorry . that had to be traumatic .,0.15782710564876423,0.0921683841800646,0.2234858271174639,0.15782710564876423
+"wow , all i did was play football in college .
+cool , i taught a few players being an elementary school teacher",convai2-grade_00471,transformer_ranker,elementary education with math major . pretty boring lol,0.06459063686194787,0.09195565899859594,0.0372256147252998,0.06459063686194787
+"best thing is going to see the rolling stones every year !
+i love the rolling stones . i love music especially while working out . it keeps me motivated",convai2-grade_00472,transformer_ranker,i am vegan so salad all day every day !,0.1706822710034122,0.07792184607895744,0.263442695927867,0.1706822710034122
+"my dogs name princess pei pei she just won a blue ribbon
+what a hilariously adorable name . congratulations to her !",convai2-grade_00473,transformer_ranker,her name is lucille,0.28875364741423937,0.07607306693750691,0.5014342278909718,0.28875364741423937
+"well enjoy being single , we are growing our family so free time is short .
+but it is tough cause i am vegan and my friends are not",convai2-grade_00474,transformer_ranker,i am vegan now and ride my bike everyday,0.1517337005848513,0.0968435853416449,0.20662381582805772,0.1517337005848513
+"i'll have to check with my parents but maybe next thursday
+that sounds wonderful ! what is your favorite music ?",convai2-grade_00475,transformer_ranker,i love ac dc and up,0.1037116654010239,0.05133969588062001,0.1560836349214278,0.1037116654010239
+"the speed of return is much different . i think you would most likely win
+only friends and family for now . nice chatting have a good day",convai2-grade_00476,transformer_ranker,that seems unfair to put on you,0.02815579444995102,0.05631158889990204,0.0,0.02815579444995102
+"that's neat ! i like old hogan because his uniform is my favorite color . . . orange !
+cool i like him to . that's why i workout all the time !",convai2-grade_00477,transformer_ranker,it is ! he does not like my purple hair though .,0.23699874148632638,0.0784066348134351,0.3955908481592177,0.23699874148632638
+"those are good too , we have a few pigs .
+keeps for a busy life does not it ?",convai2-grade_00478,transformer_ranker,yeah they remind me of llamas,0.1290203912369915,0.047024053565035986,0.211016728908947,0.1290203912369915
+"true , so what are some of your hobbies or interests besides country ?
+i like to play guitar and explore national parks !",convai2-grade_00479,transformer_ranker,i like to visit national parks,0.3187891066770651,0.104260809771601,0.5333174035825292,0.3187891066770651
+"yes i do i've a dog and 2 cats at the moment
+i've one dog myself , she can be a bit of pain",convai2-grade_00480,transformer_ranker,i will bet sorry about your dog i have cats,0.06942186715149162,0.03983208450665536,0.09901164979632789,0.06942186715149162
+"me too . should i trade my mini van in for a sports car .
+yes . who doesn't love a sports car .",convai2-grade_00481,transformer_ranker,oh cool . i drive a truck .,0.29010721330898187,0.11996625086911085,0.4602481757488529,0.29010721330898187
+"when i retire in few years i will travel all over the country to nascar races .
+cool ! wonder woman and i both love the color grey . you like scorpions ?",convai2-grade_00482,transformer_ranker,"love pink , also love red currently",0.034527396119269034,0.06905479223853807,0.0,0.034527396119269034
+"i have to drink another substance that contains particles of hydrogen and oxygen
+dang that kinda weird . well do you have a pet",convai2-grade_00483,transformer_ranker,and which are those then,0.003495732206447702,0.006991464412895404,0.0,0.003495732206447702
+"that must be interesting . i don't have time outside of house building to do much
+that is fine , do you like death metal music ?",convai2-grade_00484,transformer_ranker,"i really enjoy folk metal , it is such an interesting fusion .",0.2701803475822343,0.09420806868917707,0.4461526264752915,0.2701803475822343
+"a lot of people make fun of me and call me a circus freak .
+that's so sad . it takes a lot of talent to be in the circus !",convai2-grade_00485,transformer_ranker,i see ! you should join the circus ! i it is very fun,0.19428628638110296,0.04577189870539582,0.3428006740568101,0.19428628638110296
+"my dad will take you . he has lot of money . where are your vacations ?
+i do not take many . i play board games mostly . . . teachers do not make much money",convai2-grade_00486,transformer_ranker,i wish i could . teachers don't make a lot though .,0.22551892064361703,0.050086100769243434,0.40095174051799065,0.22551892064361703
+"ok , take care my man , i will go now , see ya !
+you need money to make money so really think about that help",convai2-grade_00487,transformer_ranker,"i need some help , if you don't mind",0.1662690679575341,0.07285172789125183,0.2596864080238164,0.1662690679575341
+"i'm watching my fave movie star wars .
+that is right , it was on tnt tonight .",convai2-grade_00488,transformer_ranker,oh . i love the movie godfather .,0.238164050674878,0.10915068045449414,0.36717742089526184,0.238164050674878
+"that is harsh . all my earnings to to my horses .
+sales man for car is what my job",convai2-grade_00489,transformer_ranker,i have dreamed about living in bermuda .,0.1927328201313837,0.07965821357238069,0.30580742669038674,0.1927328201313837
+"west virginia . nice to meet you too . i used to visit my uncle on long island
+what do you do for work ?",convai2-grade_00490,transformer_ranker,i love ny . i do not live there but i travel there often .,0.23076330053605526,0.06099463943344581,0.4005319616386647,0.23076330053605526
+"oh very cool . i go on twitch for my pot farm updates .
+pot farm updates ? like a real pot farm ?",convai2-grade_00491,transformer_ranker,"i own the farm i live , plus have some chickens",0.09914555996490204,0.0,0.19829111992980408,0.09914555996490204
+"yes well i love disney musicals .
+i like the movie tangled a lot , but frozen is nice too",convai2-grade_00492,transformer_ranker,disney movies do you like those,0.10269329377717445,0.054018996185874885,0.15136759136847402,0.10269329377717445
+"yeah i am interested in taking pictures , of yoda for sure
+wow . i try coffee as a hobby",convai2-grade_00493,transformer_ranker,coffee is the best thing,0.17145328441910176,0.1060132360718853,0.23689333276631824,0.17145328441910176
+"do you live in the southwest by chance ?
+no i do not . i love wearing band shirts with ruffles on the sleeves",convai2-grade_00494,transformer_ranker,around 90 but i stopped counting,0.010079915032060733,0.020159830064121465,0.0,0.010079915032060733
+"my favorite thing to shop for is watches . shoes too i guess .
+i've two pairs of jeans and one pair of shoes .",convai2-grade_00495,transformer_ranker,i only have one pair of shoes,0.40592088651770647,0.14002348460078876,0.6718182884346242,0.40592088651770647
+"that s funny . mine is a bottle of wine .
+that can't hurt either ! what else do you like to do ?",convai2-grade_00496,transformer_ranker,the system cant count .,0.011356770208980427,0.022713540417960854,0.0,0.011356770208980427
+"i have a daughter who people say is a child prodigy
+what talents does she have ?",convai2-grade_00497,transformer_ranker,she's six months pregnant,0.09044867447540003,0.10747206705570117,0.07342528189509889,0.09044867447540003
+"i build houses , sometimes i fix them , have my dads genes .
+maybe i do too . he is an electrician i pay electric guitar .",convai2-grade_00498,transformer_ranker,interesting . i would like to know what you build .,0.20591703590751917,0.028778152429661776,0.3830559193853766,0.20591703590751917
+"that's interesting . what was the bet ?
+that the cubs would loose last year at the world series lol",convai2-grade_00499,transformer_ranker,the grateful dead ! i used to follow them .,0.04300160116635007,0.010386281780801797,0.07561692055189835,0.04300160116635007
+"money makes the world go round .
+yeah yeah it sure does my friend",convai2-grade_00500,transformer_ranker,you should cure sleepy heads,0.06397060639199705,0.1279412127839941,0.0,0.06397060639199705
+"i am well . just took my dog for a walk
+i have a dog she loves for me to sing to her",convai2-grade_00501,transformer_ranker,tell her to get off your back,0.20606947587638086,0.0882128768111714,0.3239260749415903,0.20606947587638086
+"i have two dogs . do you have any pets ?
+no , i cannot afford pets right now . organic pet food is super expensive .",convai2-grade_00502,transformer_ranker,"i cannot have pets , i've allergies . mainly to cats .",0.1486039898323586,0.1062413719469336,0.19096660771778357,0.1486039898323586
+"never tried it , but maybe i should . what is your favorite movie ?
+i like forest gump , but i prefer books . i work at a bookstore .",convai2-grade_00503,transformer_ranker,really ? like in a forest ?,0.09600380424871721,0.01225047161583198,0.17975713688160244,0.09600380424871721
+"long hair all the way . although short hair may look more professional .
+i've to get used to this . so any hobbies ?",convai2-grade_00504,transformer_ranker,i have blonde hair and like it .,0.21440874271653854,0.02094203078216905,0.407875454650908,0.21440874271653854
+"just watched a war documentary while eating a cheese burger
+that is in the past you can be rich today , i love people and hang out",convai2-grade_00505,transformer_ranker,that can be fun especially if you watch foreign flicks on netflix,0.18603521073863416,0.06918628722207286,0.30288413425519545,0.18603521073863416
+"i understand that . i have alot of tress around me
+what is your name by the way ?",convai2-grade_00506,transformer_ranker,you must save a ton on childcare,0.08685194382293904,0.08756836415912521,0.08613552348675287,0.08685194382293904
+"very nice . do you like sports ? i like to watch the nhl hockey league .
+i like to play soccer .",convai2-grade_00507,transformer_ranker,i enjoy soccer a lot too .,0.35772740721000784,0.17620476859716586,0.5392500458228499,0.35772740721000784
+"hey ! my name is coach jon .
+what sport do you coach ?",convai2-grade_00508,transformer_ranker,that's really sexy,0.03562360772214874,0.07124721544429748,0.0,0.03562360772214874
+"love travelling , working nights at a bar and in college studying nursing is hectic .
+oh i bet , i go to europe at least twice a year to visit",convai2-grade_00509,transformer_ranker,"lucky , i like to travel , but definitely a planner",0.13473764152448137,0.12020230812870945,0.1492729749202533,0.13473764152448137
+"get out ! i danced for a queen too . she paid for the dance though .
+flamingo dancing is not stripping , think of tango .",convai2-grade_00510,transformer_ranker,tiny dancer in my hand . . . .,0.09255801781667491,0.0,0.18511603563334983,0.09255801781667491
+"i work in a shipyard 40 hours a week so when i've time i try .
+that sounds like am interesting job . i work as a teacher .",convai2-grade_00511,transformer_ranker,good paying job . i getting to cut down trees and yell timberrrr,0.046866572839546934,0.09373314567909387,0.0,0.046866572839546934
+"i am doing good , i just finished playing ping pong .
+i am trying to write invoices for my dog walking business .",convai2-grade_00512,transformer_ranker,cool . . . that's a neat name for a dog,0.1878806796995078,0.054994694724709976,0.32076666467430565,0.1878806796995078
+"everybody should have their own money , especially when they turn 40 !
+did your wife ever work ?",convai2-grade_00513,transformer_ranker,"you could pick , whatever you want",0.127968467742784,0.005855393843210383,0.25008154164235763,0.127968467742784
+"nice . i enjoy taking walks around my neighbor hood .
+i wish i had time for walks . my job at the bank keeps me busy .",convai2-grade_00514,transformer_ranker,"my job is my kids , but i take them alot on nature walks .",0.2106136810894356,0.10779958030056219,0.313427781878309,0.2106136810894356
+"you could talk to someone
+well , even though i live with my mom , but she does not have much time for me .",convai2-grade_00515,transformer_ranker,"well , she passed away , unfortunately .",0.27184605028818826,0.11051719130200573,0.43317490927437075,0.27184605028818826
+"i am well , thank you . how are you ?
+not so good . my ford pinto broke down on me today",convai2-grade_00516,transformer_ranker,you drive long haul trucks ?,0.028111400145038636,0.007323370425552494,0.04889942986452478,0.028111400145038636
+"i'm in the third grade , i love going to disneyland and mickey mouse is my favorite
+oh so sweet ! do you like animals ? i was going to college to be a veterinarian .",convai2-grade_00517,transformer_ranker,i've a degree in psychology . i am currently a special ed teacher .,0.24515238752275972,0.12165220955175954,0.3686525654937599,0.24515238752275972
+"i just want to live free
+nothing is free . unless you win the lottery .",convai2-grade_00518,transformer_ranker,folks want to be free .,0.17471886755067187,0.04785010994845744,0.3015876251528863,0.17471886755067187
+"that sounds good too . what do yo do for a living
+well i won gold medal in the olympics so i work out a lot",convai2-grade_00519,transformer_ranker,ah that seems very boring,0.0,0.0,0.0,0.0
+"i do , as well . though my husband liked me more when i was younger and prettier .
+that's unfortunate . have you talked to anyone about this ?",convai2-grade_00520,transformer_ranker,i'm only 7 . the only relationship i have is with my mom and dad,0.22434941201449485,0.01682125452652212,0.4318775695024676,0.22434941201449485
+"yes ! i cook kosher foods only . my father died .
+sorry to hear that . try riding horses . it is therapeutic .",convai2-grade_00521,transformer_ranker,you should take the horses !,0.20651911615575647,0.0,0.41303823231151293,0.20651911615575647
+"well , i don't drink alcohol , so coffee and diet soda . what about you ?
+i am an ice cream and ice water kind of guy .",convai2-grade_00522,transformer_ranker,better drink in moderation mate,0.03724947190109546,0.07449894380219092,0.0,0.03724947190109546
+"you know it . i wish it was still summer .
+not me , i'm ready for the cuddle weather .",convai2-grade_00523,transformer_ranker,i like fall . cooler weather coming .,0.13748407611000113,0.08239411577087671,0.19257403644912552,0.13748407611000113
+"sorry i eat them they ate great with the peanuts .
+oh i am sure they are",convai2-grade_00524,transformer_ranker,why can you not eat them,0.22675076507027475,0.15172999473955248,0.30177153540099705,0.22675076507027475
+"are you a teenage girl ?
+i love to sleep in late and eat brunch and then do it all again",convai2-grade_00525,transformer_ranker,fruits because i love to eat fruits,0.10547153434248968,0.0896451351504504,0.12129793353452896,0.10547153434248968
+"in my free time i watch war documentaries
+that's great , my grandfather served in world war ii",convai2-grade_00526,transformer_ranker,that sounds a little scary,0.05286069722584738,3.548060152655702e-05,0.1056859138501682,0.05286069722584738
+"ok sure i want to make computer like my dad used to
+that is great , please tell me more interesting things",convai2-grade_00527,transformer_ranker,that is why i'm kind of blind,0.10858467893693363,0.0577551532153119,0.15941420465855538,0.10858467893693363
+"yum . will be ready to run again after i have my twins in 2 months .
+did you take fertility stuff ? when i'm older i want to be a physical therapist .",convai2-grade_00528,transformer_ranker,i talk about mine all the time with my therapist who does not under,0.15414449886822681,0.056300570974118454,0.2519884267623352,0.15414449886822681
+"hi how are you today ? i like to walk .
+i am good i like people i volunteer to help local shelters",convai2-grade_00529,transformer_ranker,that is a good line of work .,0.21932430509049683,0.06283002423374767,0.375818585947246,0.21932430509049683
+"i like to drink soda to young for the hard stuff
+o ok well what do you like to do ?",convai2-grade_00530,transformer_ranker,i drink both on occasion,0.02748209370343305,0.024201680524612794,0.030762506882253307,0.02748209370343305
+"i love playing softball , do you make alot of money selling insurance
+no . my father is always moving military army .",convai2-grade_00531,transformer_ranker,that's cool . i am retired military .,0.22658619844941436,0.11749276253698984,0.3356796343618389,0.22658619844941436
+"my food is limited to kosher . what do you like ?
+i like pizza and dr pepper",convai2-grade_00532,transformer_ranker,i like burgers a lot .,0.26646683475305466,0.14128816965053576,0.3916454998555735,0.26646683475305466
+"a snake . ohhh cnn just had trump on tv , he s so orange , my least favorite color
+haha , very true , do you collect anything ?",convai2-grade_00533,transformer_ranker,"weed , man , weed . and a little meth .",0.09744519721027378,0.03125696969320753,0.16363342472734005,0.09744519721027378
+"whatever pays the bills man . that's how i see it
+yeah yeah , man , for sure",convai2-grade_00534,transformer_ranker,i am emotionally a mess,0.08276118969171571,0.051376926388006366,0.11414545299542506,0.08276118969171571
+"just the city for me , like now for my kids .
+that is nice , i want to go into a city",convai2-grade_00535,transformer_ranker,"i go where there's trees , i'm fast at cutting them down",0.06848994153882915,0.041409448208378274,0.09557043486928,0.06848994153882915
+"that is not where it belongs .
+had a brain transplant now i move objects with my mind",convai2-grade_00536,transformer_ranker,nice i work in marketing for tanney,0.05262643097368411,0.10482956518231172,0.0004232967650565003,0.05262643097368411
+"nice ! i hope it isn't orange , i hate orange .
+no , this one is black , do you go to the gym ?",convai2-grade_00537,transformer_ranker,"i go sometimes to the gym , but sometimes i get lazy",0.224646200800647,0.009973361607971302,0.4393190399933227,0.224646200800647
+"no problem . always here to help a friend .
+so what else do you like to do on your spare time ?",convai2-grade_00538,transformer_ranker,i want to publish it .,0.17991282932841923,0.05187676575312958,0.30794889290370886,0.17991282932841923
+"o wow ! ! well my want in life is to shop shop shop .
+i hate shopping . or spending money",convai2-grade_00539,transformer_ranker,oh do not we all ! i love to shop .,0.25372417668434066,0.12235858101588482,0.38508977235279646,0.25372417668434066
+"should have named bo haha , dunno if you are old enough to get that reference
+i'm and actually thought about that , but i'm a mustang man myself",convai2-grade_00540,transformer_ranker,definately ! ! i have seen my share and would love to know who they are,0.21065142443439155,0.0830922057875176,0.3382106430812655,0.21065142443439155
+"going to the park is my favorite hobby . or going to my daughters piano concerts
+i enjoy traveling and cooking .",convai2-grade_00541,transformer_ranker,me too traveling is fun .,0.27910337566471927,0.14623356203786772,0.4119731892915708,0.27910337566471927
+"i run marathons and never ate meat . you sing or dance ?
+i don't . but i do ride horses competitively .",convai2-grade_00542,transformer_ranker,that's nice . no don't dance but i like to sing,0.1477658447004637,0.10103947072534593,0.19449221867558145,0.1477658447004637
+"i am too old to cook . what is this vegan you speak of ?
+i do not eat anything that has a face , i love animals , especially horses .",convai2-grade_00543,transformer_ranker,"i love horses , i grew up in a farm with 8 brothers",0.2924256969107878,0.08294933281526512,0.5019020610063104,0.2924256969107878
+"i hope your youth was full of music . i love music .
+i don't love music much now . i do love baking !",convai2-grade_00544,transformer_ranker,oh . i enjoy painting and drawing .,0.2045155407166118,0.10868497505552399,0.3003461063776996,0.2045155407166118
+"water is good , it can be relaxing . almost as relaxing as eating chocolate bars .
+when i was younger , my favorite color was blue like the water .",convai2-grade_00545,transformer_ranker,"in the summer , i take fridays off for events",0.17826014674157595,0.022672493243472997,0.3338478002396789,0.17826014674157595
+"i would rather read and write poetry these days though
+understandable . my girlfriend dabbles in poetry .",convai2-grade_00546,transformer_ranker,writing poetry is something that i like,0.22864928983068017,0.11559638307565076,0.34170219658570955,0.22864928983068017
+"i m not a fan of war . i would rather be in the peacefulness of nature .
+i was a poor kid . we ate there a lot while growing up .",convai2-grade_00547,transformer_ranker,you can run on a treadmill ?,0.19763979057691697,0.005086299415964185,0.39019328173786977,0.19763979057691697
+"i think kayaking is pretty cool .
+i learned how to from my parents",convai2-grade_00548,transformer_ranker,that is kina cool .,0.04708171044267409,0.09416342088534818,0.0,0.04708171044267409
+"care to chat with a married woman vegetarian ?
+sure ! i just got back five guys",convai2-grade_00549,transformer_ranker,you guys should both rollerblade too !,0.10674072716497437,0.09166717657579179,0.12181427775415697,0.10674072716497437
+"why ? redheads are beautiful ! we keep on having red haired babies !
+thank you but they don't like me much i don't know why",convai2-grade_00550,transformer_ranker,oh ! i'm really sorry . i love babies,0.11484884377567793,0.07819743824872066,0.1515002493026352,0.11484884377567793
+"yes . you think i'd meet someone at the gym .
+absolutely , look on the treadmills or bikes .",convai2-grade_00551,transformer_ranker,ah . i like to eat potatoes .,0.1568397342971819,0.04794221404700125,0.2657372545473626,0.1568397342971819
+"do you like jogging . i love running .
+i not much of a jogging prefer driving fast car",convai2-grade_00552,transformer_ranker,i love it especially after jogging,0.1868031733422577,0.0,0.3736063466845154,0.1868031733422577
+"hello , how are you today ? i'm retired and enjoying it .
+i wish i was retired then i could hang with my friends more",convai2-grade_00553,transformer_ranker,what is your father ?,0.09474331433495431,0.07718393310180464,0.11230269556810399,0.09474331433495431
+"that's amazing . i like dancing on weekends . you ?
+right now i am applying for jobs , i want to work in a restaurant .",convai2-grade_00554,transformer_ranker,what kind of restaurant is it ?,0.36147016175505914,0.02446647080635289,0.6984738527037654,0.36147016175505914
+"oh i watch that every week . my parents were just good ole farms .
+right on . i work for the post office . what do you do ?",convai2-grade_00555,transformer_ranker,an appliance store . boring .,0.02013776900814894,0.04027553801629788,0.0,0.02013776900814894
+"roof is way to high for me . nice that you study french .
+are you afraid of heights ? i study many languages . spanish and french currently .",convai2-grade_00556,transformer_ranker,french is a beautiful language .,0.2441550561030338,0.09271992858252513,0.3955901836235425,0.2441550561030338
+"that is cool . why don't you have pets now ?
+yeah , i love those bands , you like hard stuff ?",convai2-grade_00557,transformer_ranker,no i don't like beans,0.030757465186613066,0.06151493037322613,0.0,0.030757465186613066
+"i've a little more than that many in my class
+what grade do you teach ?",convai2-grade_00558,transformer_ranker,i also teach third grade math,0.26801041698404315,0.08983834492089063,0.44618248904719565,0.26801041698404315
+"thank you so much ! i'm so happy .
+good , they make life worth living",convai2-grade_00559,transformer_ranker,i'm a conservative person,0.04841009062546407,0.09682018125092814,0.0,0.04841009062546407
+"good thing i love running . i actually have an olympic gold metal for running .
+wow really , and you work at a hat shop ?",convai2-grade_00560,transformer_ranker,yeah i work in health care .,0.2642298546323428,0.10649082354768087,0.4219688857170047,0.2642298546323428
+"that sounds like fun , with lots of good food
+not really . she s a bad cook and we end up getting pollo loco a lot",convai2-grade_00561,transformer_ranker,and what is that then,0.06071903374751805,0.0,0.1214380674950361,0.06071903374751805
+"i guess we did do that together . maybe i'll keep her .
+nah . you need someone to enjoy the whole relationship with",convai2-grade_00562,transformer_ranker,men amen are so so stupid,0.008240209476549624,0.01648041895309925,0.0,0.008240209476549624
+"i drove one in the past but never owned one
+i used to have all kinds of vintage cars !",convai2-grade_00563,transformer_ranker,i have seen pictures they do look beautiful,0.15806720096909613,0.07520891589565724,0.240925486042535,0.15806720096909613
+"being a former member of the military , pain is never far from home .
+thanks for the service i think about going to mall tomorrow",convai2-grade_00564,transformer_ranker,as an attorney is tough,0.07078305917858915,0.13751960695702936,0.004046511400148934,0.07078305917858915
+"i am doing very well
+i have two kids and like listening to the stones .",convai2-grade_00565,transformer_ranker,oh them i love them too,0.1443424315833764,0.08324782498763736,0.2054370381791154,0.1443424315833764
+"oh good luck ! the bake sale feels like a second home to me !
+i bet . what are you making ? i have a great pb cookie recipe .",convai2-grade_00566,transformer_ranker,same ! i made dinner using a recipe from my mom,0.19933730026315302,0.11841034691826054,0.2802642536080455,0.19933730026315302
+"i need to find a place for my daughter to go to school .
+it is good you are close to your daughter . my mom is seeing me tomorrow",convai2-grade_00567,transformer_ranker,her school is in the inner city . tough school,0.14933151377239515,0.057919125875502867,0.2407439016692874,0.14933151377239515
+"my store sells everything you could possibly need !
+great , are there weights ? i am strong for my age , but would like to get stronger",convai2-grade_00568,transformer_ranker,"i am big into collecting , but cannot afford paintings , i get to see them though !",0.13038687976784213,0.07702226484439194,0.18375149469129234,0.13038687976784213
+"a favorite of mine is shawarma . what is that like ?
+i wish my sister was not a pole dancer since it is a sin .",convai2-grade_00569,transformer_ranker,yeah then role play as a character,0.044481912033269386,0.08896382406653877,0.0,0.044481912033269386
+"nop . . i should since i love papaya ! are you married ?
+no , i am single . are you single or are you married ?",convai2-grade_00570,transformer_ranker,female . i am a factory worker .,0.20942491410852995,0.09648798718792377,0.3223618410291361,0.20942491410852995
+"hey there , i'm doing well , what do you do for a living ?
+i'm not working that stinks but i find something to do .",convai2-grade_00571,transformer_ranker,did you build it yourself,0.15709403331381255,0.03965925429828543,0.2745288123293397,0.15709403331381255
+"i eat ice cream sandwiches , like my great great whatever chris columbus .
+i have many old but need new hats need over 1000 .",convai2-grade_00572,transformer_ranker,i love beans they clean out my colon,0.0,0.0,0.0,0.0
+"where did you get an apartment
+in atlanta near a bar i work nights at so i can afford college",convai2-grade_00573,transformer_ranker,i go to the college of alabama,0.2798437106219148,0.14579658966103906,0.4138908315827906,0.2798437106219148
+"that's way cool . rock music keeps me company on the tractor .
+i play quite a lot of instruments",convai2-grade_00574,transformer_ranker,what is your favorite song,0.27082650070326,0.062198041771808286,0.4794549596347117,0.27082650070326
+"my sisters boyfriend plays hockey , she works as a pole dancer and met him there .
+ah , your sisters must not be a christian then .",convai2-grade_00575,transformer_ranker,"dance and martial arts . she's a black belt , so am i .",0.14144874245501435,0.03676478038360999,0.2461327045264187,0.14144874245501435
+"my father , who is an electrician , knows a lot of languages from his experience around the world .
+except in video games . i've never been out of the united states .",convai2-grade_00576,transformer_ranker,"video games are awesome , i like to play on the pc most",0.24074517117832306,0.08868859195970964,0.3928017503969365,0.24074517117832306
+"i hike and rock climb . getting out of the house is important to me .
+really ? because working from home is my dream",convai2-grade_00577,transformer_ranker,oh . i really like to garden .,0.23100860753530167,0.1174666939805607,0.34455052109004264,0.23100860753530167
+"nice to hear . i'm doing great . thanks for asking
+so , tell me about yourself",convai2-grade_00578,transformer_ranker,i like to build things .,0.1829183852283127,0.013463667666002082,0.3523731027906233,0.1829183852283127
+"oh hopefully you find one i'm excited about winter its my fav
+it will be nice when it cools down . but i do like going to the park",convai2-grade_00579,transformer_ranker,i have urinary cancer since i was eighteen,0.011770986608373698,0.023541973216747395,0.0,0.011770986608373698
+"i am a tennis pro . i love sports . i have a big family .
+family is important . i learned everything i know from my father .",convai2-grade_00580,transformer_ranker,wow . sports ? i am a dancer ballet .,0.0887406175617626,0.06755325779073745,0.10992797733278777,0.0887406175617626
+"ok ok . what do you do besides play guitar ?
+i am a custodian and a security guard .",convai2-grade_00581,transformer_ranker,that sounds a bit boring .,0.22872420190941925,0.0831874064272947,0.3742609973915438,0.22872420190941925
+"oh great me , my job really makes me feel bad
+sorry to hear that . i help my father not my own job . what do you do ?",convai2-grade_00582,transformer_ranker,i arrange flowers for a living .,0.16532972115376224,0.060463402580468735,0.27019603972705575,0.16532972115376224
+"hi , how are you doing tonight ?
+doing dandy . what are you doing right now ?",convai2-grade_00583,transformer_ranker,i'm eating a late dinner,0.064648643859339,0.057275837437432614,0.07202145028124539,0.064648643859339
+"hey how are you doing this afternoon ?
+i am doing ok . just dreading halloween . i hate clowns",convai2-grade_00584,transformer_ranker,i am crazy about halloween,0.2425360775483561,0.0,0.4850721550967122,0.2425360775483561
+"it was to pursue my spiritual journey
+oh i'm sure , so are you a sci fi fan at all ?",convai2-grade_00585,transformer_ranker,no clue i do not try,0.03650437802435971,0.022696689472644787,0.05031206657607464,0.03650437802435971
+"i've never been to new york , is it very cold there ?
+yes it can be , thankfully i left and went to school at yale .",convai2-grade_00586,transformer_ranker,after i graduate in september i want to be a teacher .,0.3615153253168386,0.11089316901779715,0.6121374816158801,0.3615153253168386
+"it is up north near new york .
+i would love to come over . can i bring my dog ?",convai2-grade_00587,transformer_ranker,i am going to bring my dog to the park,0.3399954883878359,0.0740274053836883,0.6059635713919834,0.3399954883878359
+"yes good thing i have insurance . i bought it through aetna
+good . you have kids ? i have a daughter . she's a music prodigy .",convai2-grade_00588,transformer_ranker,sounds like a country song .,0.17855376290554342,0.08919923321285597,0.2679082925982309,0.17855376290554342
+"what do you do there at burger king ?
+i'm only 19 and work the grill . i just want to have fun with friends .",convai2-grade_00589,transformer_ranker,"oh my . i live in vegas , it is hot here",0.2578381278703051,0.09704990140288651,0.4186263543377236,0.2578381278703051
+"nice ! both of my parents were athletic .
+what type of sport ? i've coached kids for years .",convai2-grade_00590,transformer_ranker,i came 6th in 100ms,0.039659981267486905,0.0,0.07931996253497381,0.039659981267486905
+"it is not stable enough and it does not pay enough
+but at least you get lots of fresh air .",convai2-grade_00591,transformer_ranker,the vegan lifestyle is for me feel much better,0.09245783423653772,0.03414690681491326,0.1507687616581622,0.09245783423653772
+"wonderful . i just love fish and chips . it is my weakness . i love to cook paella
+i'm not much into cooking . i do ride motorbike though .",convai2-grade_00592,transformer_ranker,take a boat and go fish .,0.12963279540374895,0.0,0.2592655908074979,0.12963279540374895
+"cool , i met taylor swift at mcdonalds
+omg that is crazy my lil sister says she is running out of songs since she uses ppl",convai2-grade_00593,transformer_ranker,yeah she's but i do not see her much,0.07817300233279519,0.03562654943632034,0.12071945522927004,0.07817300233279519
+"peace be with you as you embark on your new journey
+thank you . that means a lot to me",convai2-grade_00594,transformer_ranker,you can protect yourself first,0.05217249624279726,0.10434499248559452,0.0,0.05217249624279726
+"i like captain america and star wars .
+what super powers did you awake with ?",convai2-grade_00595,transformer_ranker,i love to fight . fighting is my favorite,0.20175055115325935,0.03175832132265397,0.3717427809838647,0.20175055115325935
+"i would love to visit manhattan .
+it is fun , i want to go to business school next year .",convai2-grade_00596,transformer_ranker,i'd love that . let us be bffs,0.13610524461583873,0.0875787339716274,0.18463175526005007,0.13610524461583873
+"the girls name is molly and the boys name is troy . we mow the lawn together .
+i've to wait til i'm older to do that",convai2-grade_00597,transformer_ranker,then you should tell them to watch john gresham movies .,0.1397153297120798,0.024124122968606786,0.25530653645555285,0.1397153297120798
+"yeah , that would be awesome . but i'd buy something more practical .
+oh okay . the naked vegan show . you like the sound of that ?",convai2-grade_00598,transformer_ranker,"not a vegan , a vegetarian .",0.21716235445739276,0.0813857955302118,0.3529389133845737,0.21716235445739276
+"coffee is good the morning after a big concert .
+yup , keeps me busy i drink wine in the evenings",convai2-grade_00599,transformer_ranker,i like coffee i drink while i watch marvel,0.07701203636503685,0.0,0.1540240727300737,0.07701203636503685
