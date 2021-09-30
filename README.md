@@ -2,7 +2,7 @@
 
 ## Members
 
-- [Jeiyoon Park](http://jeiyoon.github.io/), Jieun Han
+- [Jeiyoon Park](http://jeiyoon.github.io/), [Jieun Han](https://zeunie.notion.site/)
 
 ## Task Proposal and Track Website
 
